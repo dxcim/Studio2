@@ -1,0 +1,1202 @@
+Employee ID,Age,Department,DistanceFromHome,Education,EnvironmentSatisfaction,Gender,JobInvolvement,JobLevel,JobRotation,FeedbackFromManager,Mentoring,Autonomy,JobRole,MonthlyIncome,NumCompaniesWorked,OverTime,PercentSalaryHike,RelationshipSatisfaction,Tools,TotalWorkingYears,Training,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Performance
+64,25,Production,2,3,1,Male,3,1,1,L,N,N,Machinists,4031,5,No,13,3,L,6,N,3,2,2,0,2,47
+339,32,Research & Development,7,4,2,Female,4,1,2,L,Y,Y,Research and Design Specialists,3312,6,No,17,4,L,6,Y,3,3,2,0,2,61
+376,33,Research & Development,9,3,4,Male,2,3,2,H,Y,Y,Customercare Representative,7119,2,No,15,3,L,9,Y,3,3,2,1,2,62
+429,36,Sales,18,2,2,Male,2,3,4,H,N,Y,Sales Executive,7596,1,No,13,2,H,10,Y,3,10,9,9,0,82
+441,32,Research & Development,17,3,4,Male,3,2,4,L,N,Y,Research and Design Specialists,5470,9,No,13,3,L,10,Y,2,9,5,1,6,67
+564,28,Research & Development,22,3,3,Male,3,1,2,L,Y,Y,Research and Design Specialists,2044,5,No,11,3,H,5,Y,4,5,3,0,3,61
+565,30,Research & Development,18,1,3,Male,2,3,4,H,N,Y,Manufacturing Director,8474,1,No,22,3,H,12,Y,3,11,8,5,8,64
+591,46,Human Resources,14,2,2,Male,3,2,2,L,Y,N,Human Resources,5021,8,Yes,22,4,L,16,Y,3,4,2,0,2,33
+695,44,Finance,18,3,2,Male,3,3,1,L,Y,Y,Accountant,9670,2,Yes,16,4,L,6,N,1,7,7,3,3,56
+718,41,Production,17,4,3,Male,3,1,2,L,Y,Y,Machinists,2289,5,No,20,2,L,5,Y,3,5,3,0,4,68
+749,54,Finance,17,4,2,Female,2,2,2,L,Y,Y,Accountant,9588,2,Yes,15,2,H,5,Y,2,10,6,1,6,67
+813,41,Sales,2,1,3,Male,3,3,2,H,N,Y,Sales Executive,8189,3,Yes,13,3,H,12,Y,3,9,7,0,7,68
+928,40,Finance,4,4,1,Male,2,2,1,L,Y,Y,Accountant,8059,9,Yes,16,1,H,9,Y,3,2,6,3,6,67
+975,50,Sales,2,3,3,Female,3,3,1,H,Y,Y,Sales Executive,9208,4,No,11,4,L,16,Y,3,2,2,2,1,56
+983,49,Research & Development,22,4,1,Female,3,4,1,L,N,Y,Research Director,16413,1,No,16,2,L,27,N,3,4,2,1,2,37
+1089,35,Sales,25,2,4,Male,3,2,4,H,Y,Y,Sales Executive,4968,2,No,11,4,L,5,Y,3,5,2,0,2,69
+1094,56,Research & Development,15,4,4,Female,3,5,2,H,Y,Y,Manager,19943,1,No,13,4,L,28,Y,3,5,2,4,2,161
+1110,40,Sales,13,4,3,Female,3,5,2,H,N,Y,Manager,18041,0,No,14,4,L,21,Y,3,20,15,1,12,57
+1183,44,Finance,17,3,1,Male,3,2,1,L,Y,Y,Accountant,9721,2,Yes,17,2,L,10,N,1,2,4,3,3,55
+1210,33,Finance,23,4,1,Male,3,2,1,L,N,Y,Accountant,8471,2,No,16,1,H,7,N,1,5,6,3,7,50
+1250,43,Production,19,4,3,Female,3,1,2,H,N,Y,Machinists,2455,0,No,19,1,L,9,Y,3,8,7,1,7,53
+1276,42,Research & Development,2,2,4,Male,2,5,4,L,Y,Y,Manager,19613,6,No,22,4,H,24,Y,3,1,0,0,1,79
+1327,43,IT_Support,14,4,2,Female,4,1,4,L,N,Y,IT specialists,8574,1,No,15,1,H,6,N,2,4,7,2,7,34
+1348,32,Production,17,1,4,Male,2,2,2,H,N,Y,Machinists,2176,4,No,13,4,L,9,Y,3,6,2,0,4,57
+1367,27,Sales,12,2,1,Female,4,2,4,L,Y,N,Sales Executive,6500,4,No,14,2,H,9,Y,2,8,7,0,7,63
+1415,33,Sales,16,4,3,Male,3,2,1,H,N,Y,Sales Executive,7104,9,No,12,4,L,6,Y,3,5,0,1,2,58
+1522,26,Sales,10,3,3,Female,2,2,2,H,Y,Y,Sales Executive,4157,7,Yes,19,3,L,5,N,2,2,2,0,0,54
+1555,25,Sales,14,2,2,Female,2,2,2,H,N,Y,Sales Executive,4487,1,Yes,11,2,L,5,Y,3,5,4,1,3,53
+1561,35,Research & Development,9,4,3,Female,1,1,2,L,Y,Y,Research and Design Specialists,2977,4,No,12,4,L,4,Y,3,4,3,1,1,57
+1610,41,Sales,17,3,3,Female,3,2,4,L,Y,Y,Sales Executive,4393,7,No,21,3,L,14,Y,3,5,4,1,4,64
+1612,28,Production,8,3,3,Female,1,2,1,L,Y,Y,Machinists,6674,7,No,11,1,H,10,N,3,9,8,7,5,47
+1726,34,Sales,2,2,3,Female,3,2,1,H,N,Y,Sales Executive,6125,6,No,12,4,L,10,Y,4,10,8,9,6,55
+1749,42,Research & Development,20,1,2,Male,3,1,2,H,N,N,Research and Design Specialists,2515,4,Yes,14,4,L,8,N,3,2,1,2,2,46
+1822,22,Research & Development,16,1,2,Female,3,2,1,H,N,N,Manufacturing Director,4171,6,Yes,19,1,L,4,N,4,3,2,0,2,26
+1908,26,Production,17,3,1,Male,3,1,2,L,N,N,Machinists,2377,1,No,20,3,L,1,N,2,1,1,0,0,24
+2005,41,Research & Development,6,2,1,Male,2,1,2,L,N,N,Research and Design Specialists,2107,1,No,17,1,L,5,N,1,1,0,0,0,44
+2066,34,R&D,23,4,1,Female,3,3,2,H,N,N,Research Director,11994,0,No,11,3,H,13,Y,3,12,6,2,11,70
+2096,35,Research & Development,13,4,4,Male,3,2,1,L,N,Y,Manufacturing Director,6883,7,No,16,2,L,17,N,3,7,7,0,7,26
+2111,28,Finance,11,4,2,Male,2,3,1,L,Y,N,Accountant,8292,2,No,19,1,L,10,Y,1,4,4,1,7,83
+2121,30,Research & Development,7,3,4,Female,3,1,2,L,Y,N,Research and Design Specialists,3204,5,No,14,4,L,8,N,3,3,2,2,2,46
+2254,55,Production,11,2,2,Male,3,2,2,L,N,N,Machinists,5415,3,Yes,19,4,L,12,N,3,10,7,0,8,42
+2283,37,Production,14,3,1,Female,3,1,4,H,N,Y,Machinists,3629,5,No,18,1,H,8,Y,3,3,2,0,2,63
+2347,25,Finance,10,3,4,Female,2,2,1,L,N,N,Research and Design Specialists,5959,8,No,19,2,L,9,N,1,9,6,2,5,65
+2383,43,Research & Development,14,3,1,Male,2,4,1,H,N,Y,Research Director,14336,1,No,11,3,L,25,Y,3,25,10,3,9,51
+2425,44,Finance,20,3,2,Male,3,3,1,L,Y,Y,Accountant,9077,4,Yes,16,3,H,9,Y,1,6,4,2,2,79
+2454,47,Finance,9,3,1,Male,2,2,3,L,Y,Y,Accountant,9839,2,Yes,20,1,H,7,Y,3,5,3,1,4,66
+2721,27,Research & Development,19,3,4,Female,2,2,2,H,N,Y,Customercare Representative,6811,6,No,19,1,H,9,Y,1,7,6,0,7,72
+3034,27,Production,15,4,3,Female,3,1,2,L,Y,Y,Machinists,2811,7,No,14,2,L,4,Y,3,2,2,2,2,60
+3066,35,Research & Development,8,2,3,Male,2,3,3,H,N,Y,Customercare Representative,9884,2,Yes,13,3,H,10,Y,3,4,0,2,3,69
+3076,35,Research & Development,18,4,3,Male,2,2,2,H,N,Y,Customercare Representative,6540,9,No,19,3,H,10,Y,3,1,1,0,0,70
+3105,56,Research & Development,14,3,4,Male,3,4,2,H,Y,Y,Manufacturing Director,13402,3,Yes,12,1,H,33,N,3,19,16,15,9,33
+3203,27,R&D,19,4,1,Male,2,1,2,H,N,Y,Research and Design Specialists,2045,6,No,13,4,L,5,Y,3,4,2,1,1,60
+3316,34,Research & Development,24,1,2,Male,3,1,1,L,Y,N,Research and Design Specialists,2960,2,No,11,3,L,8,N,3,4,2,1,3,31
+3339,34,Research & Development,20,2,2,Male,2,1,4,H,N,Y,Research and Design Specialists,3622,2,Yes,13,4,H,6,Y,3,6,5,1,3,63
+3435,36,Finance,5,4,1,Male,3,3,1,L,Y,Y,Accountant,8424,7,No,18,2,L,5,N,1,4,2,1,6,73
+3455,44,Human Resources,15,4,1,Female,2,2,1,H,N,Y,Human Resources,5985,7,No,11,2,L,10,Y,4,2,2,0,2,56
+3485,47,Finance,2,3,2,Female,3,3,2,H,Y,Y,Accountant,9641,9,No,17,2,H,5,Y,1,2,3,3,2,71
+3530,53,Research & Development,21,4,2,Male,4,3,1,L,Y,Y,Customercare Representative,7005,4,No,15,3,L,11,N,3,4,3,1,2,29
+3570,41,Research & Development,24,1,2,Female,1,5,1,H,N,Y,Research Director,19973,3,No,22,2,L,21,N,3,21,16,5,10,47
+3635,50,Sales,20,4,4,Female,3,5,2,L,N,Y,Manager,19517,3,No,11,3,L,32,N,2,7,0,0,6,45
+3718,40,Research & Development,5,4,4,Male,3,1,2,L,Y,Y,Research and Design Specialists,3617,8,Yes,14,4,L,3,Y,3,1,1,0,0,61
+3720,23,Research & Development,12,3,4,Male,4,1,3,L,N,Y,Research and Design Specialists,2073,8,No,16,4,H,4,Y,3,2,2,2,2,76
+3864,28,Human Resources,4,2,2,Male,2,1,3,L,Y,Y,Human Resources,4936,7,No,13,4,H,6,Y,3,5,1,0,4,76
+3886,27,Production,19,1,2,Male,3,1,4,H,N,Y,Machinists,2099,8,No,14,2,H,6,Y,4,5,0,1,4,65
+3901,27,Sales,1,3,4,Male,3,3,2,L,Y,Y,Sales Executive,8726,1,No,15,4,L,9,N,3,9,8,1,7,45
+3964,35,Sales,9,5,2,Male,3,3,2,H,N,Y,Sales Executive,9069,1,No,22,4,L,9,Y,2,9,8,1,8,58
+3987,29,Human Resources,2,3,1,Male,2,1,2,L,N,N,Human Resources,2335,1,Yes,15,4,L,4,N,3,2,2,2,0,24
+3990,46,Research & Development,17,4,4,Female,2,2,2,H,N,N,Research and Design Specialists,4615,5,Yes,23,1,L,19,N,3,16,13,1,7,44
+3994,41,Research & Development,11,3,4,Male,2,2,2,L,N,Y,Manufacturing Director,6032,6,Yes,15,4,L,8,N,3,5,4,1,2,44
+4019,36,Research & Development,12,2,2,Male,3,2,2,H,N,Y,Manufacturing Director,4941,6,No,20,4,H,7,Y,3,3,2,0,1,70
+4208,31,Sales,9,3,3,Male,4,1,2,L,N,N,Sales Representative,2791,1,No,12,1,L,3,N,3,2,2,2,2,49
+4313,50,Sales,14,3,3,Male,3,5,3,L,N,Y,Manager,19331,5,Yes,16,3,H,27,Y,3,1,0,0,0,71
+4417,46,Research & Development,22,3,3,Male,2,3,2,H,N,Y,Customercare Representative,10673,2,Yes,13,3,L,21,Y,2,10,9,9,5,60
+4508,51,Finance,16,4,2,Male,2,2,2,L,Y,Y,Accountant,9223,2,Yes,17,3,L,7,N,1,4,6,1,5,79
+4529,24,Production,8,3,4,Male,3,1,1,L,N,N,Machinists,3597,7,No,22,4,L,6,N,3,4,3,1,2,47
+4559,49,Production,6,3,4,Female,3,1,2,L,N,N,Machinists,2587,9,Yes,16,2,L,17,N,2,2,2,2,2,46
+4701,27,Production,11,3,4,Male,2,1,2,L,N,N,Machinists,4066,7,No,11,1,L,7,N,3,7,7,0,7,44
+4730,34,Sales,17,1,4,Female,2,2,1,L,Y,Y,Sales Executive,8103,5,Yes,12,3,L,9,Y,2,4,2,0,1,56
+4762,24,Research & Development,18,2,2,Male,2,2,3,L,Y,Y,Customercare Representative,4617,8,No,12,2,L,4,Y,2,4,3,1,2,71
+5010,45,Research & Development,4,2,1,Male,3,1,2,L,N,N,Research and Design Specialists,2654,3,No,21,4,L,8,N,2,2,2,0,2,48
+5133,36,Production,14,4,2,Female,3,2,4,H,N,Y,Machinists,5674,7,No,15,3,H,11,Y,3,9,8,0,8,64
+5139,51,Research & Development,15,4,1,Male,3,1,1,H,N,N,Research and Design Specialists,2461,7,Yes,12,3,L,18,N,4,10,0,2,7,37
+5232,36,Production,17,4,1,Male,4,1,1,L,Y,Y,Machinists,2810,7,No,22,2,L,5,Y,3,5,4,0,2,58
+5238,39,IT_Support,13,4,2,Male,3,2,4,L,N,N,IT specialists,5717,7,Yes,15,4,H,5,N,2,2,3,1,4,27
+5254,26,Research & Development,15,3,1,Female,3,1,2,H,N,Y,Research and Design Specialists,2886,1,No,22,2,L,3,Y,1,3,2,0,2,54
+5294,29,Sales,24,3,2,Female,1,1,1,L,Y,N,Sales Representative,2760,5,No,13,3,L,2,N,3,2,2,2,2,37
+5296,33,Production,10,1,1,Male,1,1,2,L,N,N,Machinists,3408,7,No,13,1,L,8,N,3,4,3,1,3,30
+5320,41,Human Resources,11,3,3,Male,1,2,2,L,Y,Y,Human Resources,6430,7,No,19,2,L,10,N,3,3,2,1,2,43
+5387,24,Production,2,2,4,Female,3,1,1,L,N,N,Machinists,2210,5,No,13,1,L,1,N,1,1,0,0,0,31
+5453,49,Research & Development,14,2,1,Male,2,5,2,L,Y,Y,Manager,18711,6,No,13,3,L,23,Y,4,1,0,0,0,66
+5574,28,Production,8,3,1,Male,2,1,2,L,N,N,Machinists,2596,1,No,15,1,L,1,N,3,1,0,0,0,45
+5576,52,Research & Development,16,2,4,Male,3,4,2,H,Y,Y,Manager,17099,7,No,15,2,H,26,Y,2,9,8,7,8,77
+5621,23,Production,2,2,4,Male,3,1,2,L,Y,N,Machinists,2647,9,No,13,3,L,5,Y,4,5,2,1,4,62
+5649,53,Research & Development,13,3,4,Male,4,4,2,L,Y,Y,Research Director,16598,3,No,12,2,H,35,Y,2,9,8,8,8,62
+5677,20,Research & Development,12,3,4,Female,2,1,2,H,N,Y,Research and Design Specialists,2836,6,No,13,4,L,1,Y,4,1,0,0,0,70
+5794,27,Production,19,4,4,Female,3,1,2,L,N,N,Machinists,2341,1,No,13,4,L,1,N,3,1,0,0,0,48
+5885,40,Research & Development,14,2,4,Male,3,2,4,H,Y,Y,Customercare Representative,4069,7,Yes,18,3,H,8,Y,3,2,2,2,2,64
+6100,45,Finance,4,3,2,Male,2,2,4,L,N,Y,Accountant,9537,8,No,19,4,L,8,N,,,,,,32
+6150,52,IT_Support,8,4,1,Female,4,2,1,H,Y,Y,IT specialists,6407,9,Yes,15,3,L,7,Y,2,4,6,2,3,62
+6158,41,IT_Support,24,4,1,Male,2,5,4,H,Y,Y,IT specialists,5514,2,Yes,17,1,H,10,Y,1,7,7,2,5,52
+6239,46,Sales,23,4,4,Male,4,4,2,L,Y,Y,Manager,17567,3,No,15,2,H,27,Y,1,26,0,0,12,70
+6352,30,Sales,7,1,3,Male,3,1,2,H,N,Y,Sales Representative,2476,1,No,18,1,L,1,Y,3,1,0,0,0,-59
+6358,37,Finance,4,3,1,Female,3,3,2,L,Y,Y,Accountant,9202,9,No,20,1,L,10,Y,1,4,7,3,2,63
+6366,43,Research & Development,6,3,2,Female,4,1,2,H,N,Y,Research and Design Specialists,4739,4,No,12,4,L,18,Y,3,3,2,1,2,53
+6452,27,Research & Development,19,3,4,Male,3,1,4,H,Y,Y,Research and Design Specialists,1706,2,No,11,3,H,0,Y,2,0,0,0,0,79
+6474,26,Research & Development,14,2,3,Male,3,1,2,L,Y,Y,Research and Design Specialists,2875,1,Yes,20,2,L,8,Y,2,8,5,2,2,61
+6572,27,Research & Development,8,4,4,Female,3,1,1,H,Y,N,Research and Design Specialists,2394,8,Yes,13,4,L,8,N,3,8,2,7,7,27
+6596,24,Production,9,3,3,Male,2,1,2,H,Y,Y,Machinists,2694,5,No,11,3,L,1,Y,3,1,0,0,0,54
+6621,33,Finance,1,3,2,Male,2,2,2,L,Y,Y,Accountant,9800,6,No,18,1,L,5,Y,3,10,7,3,7,64
+6736,32,Research & Development,11,4,2,Male,3,1,3,L,N,Y,Research and Design Specialists,2718,9,No,14,2,L,12,Y,3,7,7,0,7,76
+6837,26,Research & Development,22,3,3,Female,3,2,2,H,N,Y,Manufacturing Director,6397,1,No,20,1,H,6,Y,1,6,5,1,4,77
+6878,39,Research & Development,11,1,1,Male,3,2,2,L,N,N,Research and Design Specialists,4108,1,No,13,1,L,18,Y,3,7,7,1,7,50
+6891,34,Sales,20,3,1,Male,3,3,2,L,Y,Y,Sales Executive,9888,2,No,21,1,L,14,Y,2,14,8,2,1,57
+6907,36,Research & Development,5,5,4,Female,2,3,1,L,Y,Y,Manufacturing Director,8858,5,No,11,2,L,15,Y,2,14,8,7,8,51
+6971,55,Finance,3,3,1,Female,3,2,1,L,Y,Y,Accountant,9750,5,No,15,4,L,5,N,2,6,7,1,6,83
+6980,46,Fin,8,3,1,Male,3,3,2,L,Y,Y,Accountant,8608,4,No,16,2,H,10,Y,2,7,3,2,6,53
+7003,36,Sales,24,4,3,Female,2,2,1,H,N,Y,Sales Executive,5647,7,No,13,1,H,11,Y,2,3,2,0,2,58
+7007,31,Research & Development,19,1,3,Female,3,1,1,L,Y,N,Research and Design Specialists,3929,8,Yes,23,3,L,7,N,3,4,2,0,2,38
+7097,36,Sales,23,4,3,Female,3,2,4,L,N,Y,Customercare Representative,4502,5,No,15,3,L,17,Y,2,13,7,6,7,64
+7180,42,Human Resources,6,3,3,Female,3,4,1,H,N,Y,Manager,16799,9,No,14,3,H,21,Y,3,20,7,0,9,58
+7195,40,Sales,16,2,4,Female,3,2,2,L,N,N,Sales Executive,4639,4,No,15,3,L,5,N,3,5,4,1,2,33
+7286,49,Research & Development,3,2,3,Female,2,4,1,H,N,Y,Customercare Representative,13964,7,Yes,12,4,L,25,Y,3,7,1,0,7,51
+7361,41,Research & Development,21,3,2,Male,4,2,1,L,Y,Y,Customercare Representative,6870,1,No,12,1,H,11,Y,1,3,2,1,2,56
+7389,36,Research & Development,21,3,4,Female,3,1,2,L,N,N,Research and Design Specialists,2543,4,No,13,2,L,6,N,3,2,2,2,2,49
+7451,54,Research & Development,7,4,4,Female,3,2,1,L,N,N,Research and Design Specialists,4869,3,No,12,4,L,20,N,2,4,3,0,3,39
+7474,45,Production,14,5,3,Female,1,2,1,L,N,N,Machinists,5769,1,Yes,14,1,L,10,N,3,10,7,1,4,40
+7488,44,Finance,10,4,2,Male,2,3,1,L,Y,Y,Accountant,8249,8,Yes,15,3,H,9,Y,2,4,3,3,6,57
+7551,34,Human Resources,9,3,3,Male,2,2,2,H,N,Y,Human Resources,4490,7,No,11,4,L,14,Y,4,10,9,1,8,59
+7561,29,Production,13,3,1,Male,2,3,4,L,N,N,Production Supervisors,5929,8,No,15,1,H,6,Y,1,4,7,1,3,30
+7689,35,Research & Development,1,4,4,Female,4,1,3,H,Y,Y,Research and Design Specialists,2506,1,No,13,3,H,7,Y,3,2,2,2,2,83
+7722,29,Research & Development,23,1,4,Male,3,2,3,H,Y,Y,Manufacturing Director,4319,1,No,13,1,H,10,Y,3,10,7,0,9,76
+7725,45,Production,3,2,4,Male,3,2,2,H,N,N,Machinists,3633,5,Yes,15,3,L,9,N,3,9,8,0,8,46
+7784,31,Sales,15,4,1,Male,4,2,3,H,N,Y,Sales Executive,5460,4,No,22,4,H,13,Y,4,7,7,5,7,71
+7935,22,Research & Development,14,1,3,Male,3,1,2,L,N,N,Research and Design Specialists,2323,1,No,24,1,L,2,N,3,2,2,2,2,45
+7952,34,Research & Development,18,4,4,Male,4,1,3,L,Y,Y,Research and Design Specialists,2932,1,Yes,14,1,H,6,Y,3,5,0,1,2,84
+7999,24,Sales,19,2,4,Female,3,1,1,L,N,Y,Sales Representative,2033,9,No,13,3,H,1,Y,3,1,0,0,0,56
+8019,37,Research & Development,13,2,2,Male,3,1,2,L,N,N,Research and Design Specialists,3022,4,No,21,1,L,8,Y,3,1,0,0,0,47
+8023,53,IT_Support,1,4,2,Male,3,3,1,L,Y,Y,IT specialists,5782,7,No,17,3,H,5,Y,3,8,2,2,7,57
+8082,27,Sales,21,1,3,Male,3,2,1,H,N,Y,Sales Executive,6349,0,Yes,13,4,L,6,Y,3,5,4,1,4,58
+8141,35,Finance,16,4,2,Male,2,3,2,L,Y,Y,Accountant,9662,2,Yes,19,2,L,7,Y,1,9,6,3,5,73
+8158,50,Production,17,1,4,Male,4,1,1,L,N,N,Machinists,3221,2,Yes,11,3,L,20,N,3,20,8,3,8,32
+8180,30,Production,17,3,2,Female,3,1,1,L,N,N,Machinists,2422,2,No,17,1,L,4,N,3,3,2,1,2,31
+8228,29,Finance,21,3,2,Male,3,3,2,H,N,Y,Accountant,9218,8,Yes,18,1,H,8,N,3,4,6,1,4,35
+8443,25,Production,14,1,4,Male,3,1,1,L,N,N,Machinists,3691,2,Yes,15,2,L,7,N,4,7,7,5,6,28
+8495,33,Sales,9,1,2,Female,3,2,1,L,N,N,Research and Design Specialists,NA,8,No,18,1,L,7,N,1,2,4,3,7,73
+8566,21,Sales,10,3,3,Female,4,1,1,L,N,N,Sales Representative,2716,1,No,15,4,L,1,N,3,1,0,0,0,37
+8648,35,IT_Support,11,3,1,Female,3,3,3,H,Y,Y,IT specialists,10818,9,Yes,16,2,H,8,Y,1,2,6,2,6,78
+8654,34,Production,12,3,4,Female,2,1,4,H,Y,Y,Machinists,3294,8,No,17,1,H,7,Y,2,5,4,0,2,82
+8693,40,Finance,14,4,2,Male,3,2,2,L,Y,Y,Accountant,8979,9,Yes,18,2,L,8,Y,3,2,7,1,2,61
+8710,40,Research & Development,18,4,3,Female,3,1,2,L,N,N,Research and Design Specialists,2001,6,No,14,2,L,20,N,3,5,3,0,2,46
+8724,18,Sales,7,2,2,Female,3,1,2,L,Y,N,Sales Representative,1569,8,Yes,12,3,L,0,Y,4,0,0,0,0,50
+8810,32,Production,19,4,1,Male,3,2,4,H,N,Y,Machinists,5309,6,No,15,4,L,10,Y,3,10,8,4,7,63
+8824,41,Sales,16,2,2,Female,3,1,1,L,N,N,Sales Representative,3140,1,Yes,22,4,L,4,N,2,4,3,0,2,22
+8839,54,Human Resources,23,4,3,Male,3,3,1,H,N,Y,Human Resources,10725,2,No,15,3,L,16,Y,4,9,7,7,1,58
+9049,37,Finance,25,3,1,Female,3,3,4,H,Y,Y,Accountant,9172,8,Yes,19,4,H,6,Y,3,6,6,1,6,56
+9087,37,Research & Development,1,3,2,Male,3,1,1,L,Y,N,Research and Design Specialists,2326,1,Yes,12,3,L,4,N,2,4,2,1,2,40
+9095,31,Research & Development,7,3,2,Male,2,2,1,H,N,Y,Customercare Representative,5582,0,No,21,2,L,10,Y,3,9,0,7,8,51
+9188,53,Finance,9,4,2,Female,2,2,4,H,N,Y,Accountant,9097,2,No,17,2,L,5,N,3,8,5,2,2,36
+9214,25,Research & Development,9,1,4,Male,4,2,4,L,N,Y,Manufacturing Director,5206,5,No,17,3,L,7,Y,3,7,7,0,7,63
+9251,47,Finance,20,4,2,Female,3,3,2,L,Y,Y,Accountant,8455,8,No,15,2,L,8,N,3,6,3,1,6,56
+9307,40,Finance,7,3,2,Male,2,2,1,L,Y,Y,Accountant,8835,9,No,20,2,L,7,N,2,8,7,3,7,74
+9454,33,Sales,12,3,3,Female,3,2,2,L,N,N,Sales Executive,5368,8,Yes,25,3,L,7,Y,3,6,5,1,2,50
+9523,52,Sales,22,4,1,Male,2,5,4,H,Y,Y,Manager,19068,1,Yes,18,4,H,33,Y,4,33,7,15,12,79
+9548,25,Production,21,4,1,Male,3,1,1,L,N,N,Production Supervisors,5217,5,No,19,3,H,7,N,2,8,5,1,2,31
+9677,46,Research & Development,1,2,4,Female,3,2,2,L,Y,Y,Customercare Representative,8926,7,No,22,4,H,13,N,4,9,7,3,7,30
+9706,27,Research & Development,23,4,2,Male,3,1,3,L,Y,Y,Research and Design Specialists,2226,6,No,11,3,L,6,Y,2,5,3,1,2,83
+9751,35,Sales,19,3,3,Male,3,2,1,L,Y,N,Sales Executive,5813,3,Yes,18,4,H,10,N,3,10,7,7,7,38
+9890,34,Research & Development,2,1,4,Male,2,2,2,H,Y,N,Manufacturing Director,9547,1,No,17,3,H,10,Y,2,10,9,1,9,77
+9953,59,Research & Development,16,4,4,Male,3,3,2,L,Y,Y,Manufacturing Director,10512,9,No,12,4,H,25,N,2,9,7,5,4,43
+9978,29,Research & Development,15,3,4,Female,2,1,1,L,Y,Y,Research and Design Specialists,2404,8,Yes,20,3,L,3,Y,3,0,0,0,0,58
+9994,47,Research & Development,2,4,3,Male,4,2,4,H,Y,Y,Manufacturing Director,5067,4,Yes,19,3,L,20,Y,4,19,10,2,7,63
+9996,46,Sales,14,3,3,Female,2,3,4,H,N,Y,Sales Executive,9071,2,Yes,19,3,H,15,Y,3,3,2,1,2,63
+10059,23,Sales,19,3,4,Male,3,1,1,L,N,N,Sales Representative,1790,8,No,19,1,H,1,N,2,1,0,1,0,37
+10292,42,Research & Development,9,3,1,Male,3,5,2,L,Y,Y,Manager,18880,7,No,11,1,L,24,Y,2,22,6,4,14,62
+10330,159,Sales,13,2,2,Male,3,3,2,L,Y,Y,Manager,11904,9,Yes,14,3,L,14,Y,1,6,4,0,4,66
+10344,55,Sales,4,4,1,Male,4,4,2,H,N,Y,Sales Executive,13695,4,Yes,17,3,H,24,N,2,19,7,3,8,48
+10361,27,IT_Support,6,2,3,Female,2,3,3,L,Y,N,Manufacturing Director,NA,7,No,23,4,H,10,Y,3,10,7,1,7,80
+10376,31,Sales,6,4,1,Female,3,3,2,L,Y,N,Sales Executive,9637,4,No,14,4,H,9,Y,3,3,2,2,2,62
+10380,34,Research & Development,14,5,2,Female,3,2,2,H,N,Y,Manufacturing Director,5121,1,No,14,3,L,7,Y,3,0,0,0,0,54
+10388,36,Sales,8,4,3,Male,2,1,4,H,N,Y,Sales Representative,3407,7,No,23,2,H,10,Y,3,5,3,0,3,63
+10399,31,Sales,11,4,2,Female,1,1,2,L,Y,N,Sales Representative,1359,4,No,12,2,L,1,N,3,1,0,0,0,36
+10424,44,Research & Development,11,4,1,Female,2,3,1,H,N,Y,Customercare Representative,10248,3,No,14,4,L,24,Y,3,22,6,5,17,58
+10473,31,Sales,8,3,1,Male,3,2,2,L,N,Y,Sales Executive,8346,9,No,19,3,L,6,N,3,5,2,0,2,41
+10508,33,Production,15,3,3,Male,3,1,2,H,N,N,Machinists,2496,4,No,11,4,H,7,Y,3,1,1,0,0,72
+10552,37,Finance,24,4,2,Male,2,2,1,L,Y,N,Accountant,8745,4,No,16,2,L,10,Y,2,8,3,1,4,82
+10563,32,Sales,14,4,3,Male,2,2,2,L,N,N,Sales Executive,9907,4,Yes,12,3,H,7,Y,2,2,2,2,2,59
+10663,29,Research & Development,16,4,1,Male,2,1,1,H,Y,N,Research and Design Specialists,2362,4,No,13,3,L,11,N,1,9,7,0,7,35
+10732,25,Production,3,3,1,Male,3,1,2,L,Y,Y,Machinists,3229,4,No,11,2,H,7,Y,2,3,2,0,2,70
+10742,33,Sales,13,4,2,Male,3,2,4,L,Y,Y,Sales Executive,5487,8,No,14,2,L,10,Y,2,10,4,0,9,67
+10761,25,Sales,21,3,2,Female,4,5,3,L,Y,Y,IT specialists,6213,8,No,20,2,L,7,Y,3,2,6,3,7,85
+10812,28,Research & Development,20,3,3,Female,3,1,2,L,N,Y,Research and Design Specialists,3591,2,No,25,3,H,3,Y,3,3,2,1,2,60
+10860,33,Research & Development,21,2,1,Female,3,3,2,H,N,Y,Research Director,13458,1,Yes,12,3,H,15,Y,3,15,14,8,12,70
+10986,29,Sales,11,3,2,Female,3,3,2,L,N,Y,Sales Executive,7639,1,No,22,4,L,10,Y,2,10,4,1,9,50
+10992,33,Sales,7,4,1,Male,3,2,1,L,N,Y,Sales Executive,6392,5,No,13,4,H,8,N,1,2,2,2,2,47
+11001,26,Human Resources,15,4,2,Female,3,1,1,L,N,N,Human Resources,2741,0,Yes,11,2,L,8,N,2,7,7,1,0,37
+11061,27,Research & Development,7,4,4,Male,2,4,3,L,N,N,Sales Executive,NA,6,No,19,3,H,10,N,1,9,5,3,2,63
+11139,33,Production,16,2,2,Male,2,1,2,L,Y,Y,Machinists,2008,9,No,12,3,L,1,Y,2,1,1,0,0,62
+11336,44,Research & Development,22,2,2,Male,3,1,2,H,Y,Y,Research and Design Specialists,2559,9,Yes,13,4,L,8,Y,3,8,7,7,1,53
+11378,43,Research & Development,7,3,4,Female,3,2,4,L,Y,Y,Customercare Representative,5562,7,No,13,2,L,12,Y,2,5,2,2,2,67
+11414,32,Research & Development,22,2,1,Male,4,1,3,H,N,Y,Research and Design Specialists,3298,0,Yes,12,4,H,7,Y,2,6,2,0,5,76
+11436,34,Production,1,4,4,Male,3,2,2,L,Y,N,Machinists,5346,8,No,17,3,H,11,N,2,7,1,0,7,41
+11526,51,Sales,10,3,4,Male,3,5,2,H,Y,Y,Manager,19847,7,Yes,24,1,L,31,Y,2,29,10,11,10,70
+11774,27,Finance,16,4,2,Male,3,3,3,H,N,Y,Accountant,8911,4,No,20,4,H,10,N,2,5,3,3,7,31
+11784,32,Finance,19,3,1,Female,2,2,1,L,N,Y,Accountant,9189,6,Yes,15,1,H,5,Y,3,4,7,1,6,29
+11824,30,Production,1,2,3,Female,3,2,2,H,N,Y,Machinists,4011,1,No,23,4,L,12,Y,3,12,8,3,7,58
+12033,41,Research & Development,15,2,2,Female,4,1,4,L,Y,Y,Research and Design Specialists,3376,1,No,13,3,H,10,Y,3,10,6,0,8,82
+12320,47,Finance,9,4,2,Male,2,2,2,L,Y,N,Accountant,8354,7,Yes,20,2,H,10,Y,3,10,2,2,4,56
+12411,29,Finance,21,3,2,Male,2,3,2,L,N,Y,Accountant,9492,8,Yes,17,4,L,8,Y,1,8,5,2,5,49
+12492,35,IT_Support,7,3,1,Male,4,5,1,H,Y,Y,IT specialists,6916,7,No,15,1,H,6,Y,1,5,4,1,2,80
+12571,43,Research & Development,23,3,1,Male,3,3,4,L,Y,N,Customercare Representative,7510,4,No,17,2,L,10,Y,3,10,9,0,9,65
+12594,37,Research & Development,9,2,3,Female,2,2,1,H,Y,Y,Customercare Representative,5731,6,No,13,3,L,9,Y,3,6,2,1,3,51
+12723,32,Production,11,3,2,Male,4,1,4,H,Y,Y,Machinists,2794,1,No,20,3,H,5,Y,1,5,1,0,3,64
+12737,20,Production,8,3,4,Female,2,1,2,H,N,N,Machinists,2926,1,Yes,18,2,H,1,Y,3,1,0,1,0,61
+12803,47,Finance,6,3,1,Male,2,3,4,L,N,Y,Accountant,9205,8,Yes,18,2,H,7,N,1,10,5,2,2,29
+12841,46,Human Resources,14,2,2,Male,3,2,2,L,Y,N,Human Resources,5021,8,Yes,22,4,L,16,Y,3,4,2,0,2,33
+12868,53,Finance,12,4,1,Female,3,2,2,H,N,Y,Accountant,9933,8,Yes,18,1,H,10,N,2,5,5,1,7,46
+12927,40,IT_Support,10,2,1,Male,3,3,3,L,N,Y,Human Resources,6247,7,Yes,18,2,L,8,Y,3,2,7,1,2,63
+13164,35,Production,17,3,4,Male,2,1,2,L,N,Y,Machinists,2450,3,No,19,2,H,3,Y,3,3,0,1,2,73
+13223,28,Production,19,2,3,Male,3,2,1,H,N,Y,Machinists,4558,1,No,12,4,L,10,Y,3,10,0,1,8,56
+13259,21,Sales,18,1,2,Male,3,1,2,L,Y,N,Sales Representative,2679,8,No,13,2,H,1,N,3,1,0,1,0,48
+13282,51,Production,8,3,1,Male,3,2,4,L,N,Y,Production Supervisors,6735,8,No,19,3,H,10,N,1,9,5,3,2,32
+13367,28,Sales,20,4,1,Male,3,2,2,L,N,N,Sales Executive,4908,7,No,14,2,L,4,Y,3,4,2,0,2,50
+13471,44,Sales,14,3,2,Male,3,5,2,L,Y,Y,Manager,18213,6,No,11,3,H,26,N,3,22,9,3,10,49
+13549,32,Research & Development,2,3,3,Female,2,2,2,L,N,Y,Manufacturing Director,6162,4,No,12,3,L,14,N,3,14,13,6,8,44
+13593,28,Sales,16,3,4,Male,3,2,1,L,Y,Y,Sales Executive,8463,2,No,18,4,H,6,Y,3,5,4,1,3,56
+13640,38,Research & Development,12,2,3,Male,2,3,2,L,N,N,Research Director,11510,0,Yes,14,2,L,12,N,3,11,10,2,9,44
+14101,37,Research & Development,15,3,4,Female,2,2,2,H,Y,Y,Manufacturing Director,6474,6,No,13,2,L,14,Y,2,14,8,3,11,70
+14115,49,Production,13,4,1,Male,3,3,3,H,Y,Y,IT specialists,8760,1,Yes,16,1,L,6,Y,1,7,6,1,4,75
+14255,44,Human Resources,19,2,2,Male,2,3,2,L,Y,Y,Human Resources,10482,6,No,14,4,L,24,Y,3,20,6,3,6,62
+14299,27,Research & Development,9,4,1,Female,3,2,2,H,Y,Y,Manufacturing Director,4227,1,No,18,2,L,4,Y,3,3,2,2,2,53
+14390,35,Research & Development,15,4,2,Male,3,2,3,L,Y,Y,Research and Design Specialists,5098,7,No,19,2,L,10,Y,3,10,7,0,8,71
+14467,40,Research & Development,11,1,4,Female,3,5,2,H,Y,Y,Manager,19033,1,No,14,2,L,21,Y,3,20,8,9,9,59
+14599,37,Production,15,2,4,Male,2,1,1,L,Y,N,Machinists,2090,6,Yes,15,2,L,7,N,3,0,0,0,0,35
+14628,30,Research & Development,11,1,2,Male,3,1,2,L,N,N,Research and Design Specialists,2862,6,No,12,2,L,10,Y,2,10,0,0,8,50
+14669,31,Research & Development,25,1,3,Female,3,2,2,H,Y,Y,Manufacturing Director,4148,6,No,12,3,L,4,Y,3,4,3,0,3,66
+14705,47,Sales,18,3,3,Female,3,2,2,L,N,N,Sales Executive,4591,9,Yes,17,3,H,11,N,2,5,4,1,2,46
+14733,29,Research & Development,25,1,3,Female,1,2,2,L,N,Y,Customercare Representative,9715,9,No,13,3,H,9,Y,3,7,7,0,7,59
+14778,30,IT_Support,24,3,1,Male,3,2,2,H,Y,Y,IT specialists,10909,6,No,18,4,L,10,Y,1,3,4,2,6,69
+14810,36,Research & Development,8,4,1,Male,3,2,2,L,N,N,Customercare Representative,5347,7,No,14,2,L,10,N,2,3,2,0,2,46
+14948,32,Research & Development,10,4,3,Male,2,3,2,L,N,Y,Sales Representative,NA,8,No,18,1,H,6,Y,2,4,4,2,6,70
+14955,40,Production,14,3,2,Female,2,2,2,H,N,Y,Machinists,3448,6,No,22,2,H,20,Y,3,1,0,0,0,92
+14980,32,Research & Development,19,2,4,Female,3,2,2,L,Y,Y,Research and Design Specialists,4998,9,Yes,14,4,L,10,Y,3,8,7,0,7,68
+14986,52,Sales,7,4,1,Male,2,3,1,H,Y,Y,IT specialists,10266,3,No,15,1,H,10,Y,3,3,2,1,2,70
+15161,29,Production,8,3,2,Female,3,1,2,H,N,N,Machinists,3339,5,Yes,13,1,H,10,N,3,7,7,7,7,30
+15182,28,Production,15,4,1,Male,3,1,2,L,Y,N,Machinists,3485,2,No,11,3,L,5,N,1,0,0,0,0,44
+15187,56,Research & Development,20,2,1,Female,3,1,4,H,N,Y,Research and Design Specialists,2066,4,No,22,4,H,5,Y,4,3,2,1,0,63
+15317,30,Research & Development,24,4,2,Female,3,3,2,L,N,Y,Manager,11916,1,Yes,23,4,L,9,Y,3,9,1,0,8,50
+15563,56,Research & Development,16,4,2,Female,3,1,2,L,Y,N,Research and Design Specialists,4963,9,Yes,18,1,L,7,N,3,5,4,4,3,33
+15613,28,Research & Development,8,1,3,Male,1,2,1,L,N,Y,Manufacturing Director,6549,3,No,14,2,L,8,N,2,8,6,1,7,39
+15689,34,Finance,19,4,1,Male,2,3,1,L,Y,Y,Accountant,9626,7,Yes,20,1,L,8,Y,3,7,6,1,3,78
+15692,45,Research & Development,21,2,4,Female,2,4,2,L,Y,Y,Research Director,16704,5,No,11,3,L,21,N,3,21,6,8,6,42
+15837,34,Production,19,2,2,Male,2,2,2,L,N,Y,Machinists,3986,8,No,14,3,L,15,Y,4,15,10,4,13,66
+15869,29,Research & Development,11,3,4,Female,2,1,2,L,N,N,Research and Design Specialists,2109,9,No,13,3,L,1,N,3,1,0,0,0,49
+16069,40,Production,15,4,1,Male,2,2,4,H,Y,Y,Machinists,5094,1,No,14,4,L,10,Y,3,1,0,0,0,67
+16142,43,Production,11,5,4,Male,3,2,4,H,N,Y,Machinists,5679,6,Yes,13,2,L,10,Y,3,8,7,4,7,65
+16145,34,Research & Development,8,4,1,Male,3,3,3,L,N,Y,Accountant,NA,7,No,20,1,L,12,Y,2,1,0,0,0,80
+16180,36,Sales,22,4,1,Female,3,2,4,L,N,Y,Sales Executive,9278,5,Yes,16,4,H,15,Y,3,5,4,0,1,67
+16198,44,Research & Development,9,3,1,Female,3,3,2,L,N,Y,Customercare Representative,7978,4,No,11,4,H,10,N,3,10,7,0,5,25
+16203,21,Production,6,2,1,Female,2,1,2,H,N,N,Machinists,2625,2,No,20,3,H,2,N,1,2,2,2,2,24
+16337,33,Finance,10,4,2,Female,2,3,1,L,N,Y,Accountant,8359,5,Yes,15,3,L,6,N,2,8,4,2,5,32
+16426,39,Research & Development,20,3,2,Female,3,3,1,L,N,Y,Manufacturing Director,8376,8,No,18,4,H,9,Y,3,2,0,2,2,51
+16434,35,Production,6,3,2,Female,3,2,2,H,N,Y,Machinists,4425,5,No,11,4,H,10,Y,3,6,2,1,2,70
+16454,49,Sales,17,3,4,Male,2,2,1,L,N,N,Sales Executive,5390,9,No,14,4,L,17,N,2,9,6,0,8,47
+16459,49,Research & Development,17,3,3,Male,3,4,2,L,Y,Y,Manager,15379,5,No,14,1,L,23,Y,3,8,7,0,0,60
+16466,33,Research & Development,1,4,2,Female,2,3,1,H,N,Y,IT specialists,6383,1,No,19,1,L,9,N,2,6,5,1,7,45
+16517,43,Production,1,4,2,Male,2,5,2,L,Y,Y,Production Supervisors,7186,1,No,17,1,L,7,Y,1,7,5,1,5,58
+16751,45,Research & Development,24,2,4,Female,2,2,3,L,N,Y,Manufacturing Director,5770,9,No,19,1,L,10,Y,3,10,7,3,9,75
+16790,45,Research & Development,10,3,2,Male,1,3,2,H,Y,Y,Customercare Representative,10851,2,Yes,18,2,H,24,N,3,7,7,0,7,44
+16794,31,Production,20,2,3,Male,2,1,2,L,N,N,Machinists,3479,0,No,11,2,L,6,N,4,5,4,1,4,11
+16875,43,Sales,1,3,4,Male,2,2,2,L,N,Y,Sales Executive,6804,8,No,18,3,L,7,N,3,2,2,2,2,43
+16908,42,Finance,16,3,2,Male,2,2,2,L,Y,Y,Accountant,8989,4,Yes,18,4,H,10,N,1,7,3,2,3,71
+16909,51,IT_Support,7,3,2,Male,2,3,2,H,Y,Y,IT specialists,8169,5,No,17,4,H,9,Y,3,6,6,2,7,57
+16924,35,Research & Development,6,3,2,Male,3,1,3,L,N,N,Research and Design Specialists,2194,4,No,13,4,L,5,Y,2,3,2,1,2,46
+16986,40,Research & Development,13,3,3,Female,3,3,2,L,Y,Y,Manufacturing Director,7945,7,Yes,15,4,L,18,N,2,4,2,3,3,41
+17043,51,Research & Development,1,4,2,Male,2,2,4,H,N,Y,Manufacturing Director,6132,2,No,17,3,H,10,Y,3,1,0,0,0,65
+17128,31,Research & Development,24,3,3,Female,3,3,2,L,N,Y,Research Director,11031,5,No,20,3,L,13,N,4,11,7,4,8,46
+17133,37,Human Resources,15,2,3,Male,3,2,2,L,Y,Y,Human Resources,4071,5,No,13,3,H,19,N,2,10,0,4,7,48
+17135,55,Production,15,3,2,Male,4,3,1,L,N,Y,Production Supervisors,6812,2,Yes,18,4,H,7,Y,2,3,4,1,2,34
+17420,32,Research & Development,23,1,4,Male,3,1,4,H,N,Y,Research and Design Specialists,2956,1,No,13,4,L,1,Y,3,1,0,0,0,59
+17454,59,Sales,5,1,1,Female,2,2,2,L,N,N,Sales Executive,5473,7,No,11,4,L,20,Y,2,4,3,1,3,49
+17481,39,Research & Development,10,2,3,Male,2,5,4,H,N,Y,Manager,19272,1,No,15,1,H,21,Y,3,21,9,13,3,64
+17506,32,Production,3,3,3,Female,2,1,3,L,N,Y,Machinists,2743,5,No,20,3,L,2,Y,3,2,2,2,2,86
+17522,37,Research & Development,4,2,2,Female,4,5,1,L,N,Y,Sales Executive,NA,7,No,17,4,L,8,Y,1,8,5,2,5,69
+17580,56,Sales,18,3,3,Female,4,4,2,L,N,Y,Sales Executive,13212,9,No,11,4,L,36,N,2,7,7,7,7,43
+17603,31,Research & Development,17,1,3,Male,3,3,2,H,N,N,Manufacturing Director,10648,1,No,25,4,L,13,Y,4,13,8,0,8,60
+17607,27,Research & Development,11,3,3,Male,3,1,2,H,N,Y,Research and Design Specialists,3058,0,Yes,16,4,L,6,Y,2,5,2,1,1,52
+17629,36,Sales,2,3,1,Female,2,3,2,L,Y,Y,Sales Executive,7644,4,No,19,3,L,10,Y,3,9,7,3,4,68
+17697,45,Research & Development,13,2,2,Female,2,2,2,L,Y,Y,Manufacturing Director,5906,5,No,13,4,H,10,Y,2,9,8,3,8,61
+17760,30,Research & Development,4,3,2,Male,2,1,1,L,Y,N,Research and Design Specialists,2141,1,No,12,2,L,6,N,2,6,4,1,1,34
+17777,34,Research & Development,11,5,2,Male,3,1,4,H,N,Y,Research and Design Specialists,2691,2,No,12,4,L,10,Y,2,10,9,8,8,67
+17816,38,Research & Development,12,3,4,Male,4,1,2,H,N,Y,Research and Design Specialists,2610,3,No,11,4,L,4,Y,3,4,2,0,3,72
+17853,42,Sales,2,1,2,Male,3,2,2,H,N,Y,Sales Executive,4907,1,No,25,3,H,20,Y,3,20,16,11,6,70
+17936,26,Research & Development,21,1,1,Male,2,1,2,H,Y,Y,Research and Design Specialists,3904,5,No,12,4,H,5,Y,3,4,3,1,1,62
+17973,29,Sales,25,1,4,Female,2,2,2,H,N,Y,Sales Executive,8268,1,Yes,14,1,L,7,Y,3,7,7,1,7,59
+18019,44,Production,14,4,1,Male,4,1,2,H,Y,Y,Machinists,2818,2,Yes,24,3,L,10,Y,2,3,2,0,2,61
+18212,33,Sales,6,1,2,Male,3,2,4,L,N,Y,Sales Executive,9998,9,No,13,1,H,8,Y,4,5,4,1,2,80
+18286,34,Sales,1,3,4,Male,3,2,2,H,N,Y,Sales Executive,6274,4,No,22,3,L,6,Y,3,6,5,1,4,59
+18493,36,Sales,4,2,2,Female,3,3,1,L,N,Y,Sales Executive,9738,0,No,14,3,L,10,Y,3,9,7,2,8,50
+18585,51,Finance,10,3,1,Female,2,3,1,L,N,Y,Accountant,9114,5,Yes,20,3,H,9,Y,3,5,7,3,6,39
+18600,43,Research & Development,14,3,4,Male,4,1,4,H,Y,Y,Research and Design Specialists,2089,4,No,14,4,H,7,Y,4,5,4,2,2,64
+18612,33,Production,4,4,2,Male,3,2,2,L,Y,Y,Machinists,5207,4,Yes,12,2,H,15,Y,3,15,14,5,7,54
+18712,35,Research & Development,15,5,2,Male,4,2,2,L,N,N,Research and Design Specialists,5208,2,No,11,4,L,16,N,3,16,15,1,10,46
+18775,31,Production,19,4,2,Male,3,1,2,L,N,Y,Machinists,3477,6,No,14,4,L,6,Y,4,5,2,0,3,73
+18776,33,Research & Development,25,4,4,Female,3,1,2,H,Y,Y,Research and Design Specialists,2909,1,Yes,11,3,L,8,Y,3,8,7,3,0,52
+18778,34,Sales,16,4,3,Female,3,1,2,L,N,N,Sales Representative,2220,5,Yes,19,4,L,1,N,3,1,1,0,0,42
+18809,38,Sales,20,2,4,Male,3,3,4,H,Y,Y,Sales Executive,7351,8,No,16,3,H,10,Y,3,1,0,0,0,74
+18924,30,Sales,7,4,3,Female,3,3,2,L,N,Y,Sales Executive,8412,0,No,11,3,L,10,N,3,9,8,7,8,45
+18984,37,Research & Development,14,2,1,Female,1,2,2,H,N,N,Customercare Representative,4777,4,No,15,1,L,15,N,1,1,0,0,0,7
+18985,40,Production,20,2,3,Male,3,2,2,L,N,N,Machinists,2741,8,Yes,15,3,L,15,N,4,7,2,3,7,36
+19053,28,Sales,9,3,2,Male,3,2,1,H,Y,N,Sales Executive,4221,1,No,15,2,H,5,Y,4,5,4,0,4,70
+19061,45,Research & Development,13,2,1,Male,2,4,4,H,N,Y,Manager,16792,9,No,23,4,H,22,Y,3,20,8,11,8,69
+19098,38,Production,17,2,4,Male,3,1,4,H,N,N,Machinists,1702,1,Yes,23,3,H,1,Y,3,1,0,0,0,64
+19212,30,Production,16,4,3,Male,3,2,2,H,N,Y,Machinists,3491,9,No,13,1,L,10,Y,2,10,7,8,9,66
+19245,41,Finance,15,3,2,Male,3,2,2,H,Y,Y,Accountant,8352,7,Yes,19,3,H,8,Y,3,8,3,2,5,55
+19292,31,Sales,3,4,1,Female,3,2,2,L,N,Y,Sales Executive,5476,5,No,11,1,L,10,Y,3,10,0,0,2,59
+19353,39,Sales,22,4,1,Male,2,2,4,H,N,Y,Sales Executive,6120,1,Yes,12,4,H,8,Y,4,5,4,1,4,63
+19355,29,Research & Development,9,3,4,Male,3,1,1,L,N,N,Research and Design Specialists,2201,9,No,16,4,L,6,N,3,3,2,1,2,40
+19501,50,Sales,6,3,4,Male,2,3,2,L,N,Y,Sales Executive,10854,8,Yes,13,2,L,20,N,3,3,2,2,0,49
+19513,28,Research & Development,8,3,1,Male,2,1,4,L,Y,Y,Research and Design Specialists,1563,6,No,14,4,H,1,Y,1,1,0,0,0,67
+19572,36,Sales,6,4,2,Female,2,2,2,L,N,Y,Sales Executive,6652,3,No,13,1,H,8,N,2,6,3,0,0,25
+19576,38,Research & Development,16,4,1,Female,4,2,2,H,N,Y,Manufacturing Director,5980,2,Yes,12,4,H,17,Y,3,15,7,4,12,77
+19598,28,Production,17,1,3,Female,3,1,1,L,N,N,Machinists,2515,3,Yes,11,4,L,1,N,2,1,1,0,0,29
+19620,26,Production,12,3,1,Male,1,1,1,L,N,N,Machinists,2293,1,No,12,3,L,1,N,2,1,0,0,1,48
+19649,24,Production,15,1,2,Male,3,1,2,L,Y,N,Machinists,2774,0,No,12,3,L,6,Y,3,5,3,1,2,45
+19695,48,Production,23,2,1,Male,2,3,2,L,N,N,Machinists,5381,9,Yes,13,4,L,23,N,3,1,0,0,0,44
+19737,37,Production,20,3,4,Female,3,1,2,L,N,N,Machinists,3034,1,No,12,3,L,18,N,2,18,7,12,17,49
+19756,44,Research & Development,15,1,1,Female,4,1,2,L,Y,Y,Research and Design Specialists,2011,7,No,13,4,L,10,Y,3,10,5,7,7,62
+19826,38,Research & Development,7,4,2,Female,4,2,2,L,N,Y,Customercare Representative,7625,7,No,13,3,L,10,N,2,9,7,1,8,48
+19866,24,Production,10,1,2,Male,3,1,2,L,N,N,Machinists,3907,7,No,13,2,L,6,N,4,6,2,1,2,49
+19947,54,Human Resources,6,3,4,Female,4,4,1,L,N,Y,Manager,17328,2,Yes,12,3,L,23,N,3,5,3,4,4,48
+20001,36,Research & Development,3,4,3,Female,3,2,2,L,N,N,Manufacturing Director,4663,3,Yes,12,2,L,7,N,3,3,2,1,1,41
+20068,42,Research & Development,15,2,4,Female,4,2,4,H,Y,N,Research and Design Specialists,6545,3,Yes,13,3,H,10,Y,3,3,2,0,2,63
+20157,50,Research & Development,12,2,4,Male,3,4,2,L,N,Y,Research Director,17399,1,No,22,3,L,32,N,2,5,4,1,3,49
+20232,49,Production,16,4,2,Male,3,1,4,L,N,N,Production Supervisors,5858,5,Yes,15,3,L,7,Y,1,9,3,1,7,39
+20345,35,Production,1,4,3,Female,3,1,2,L,N,N,Machinists,4014,3,Yes,15,3,L,4,N,3,2,2,2,2,47
+20382,54,IT_Support,7,3,2,Male,3,2,1,L,Y,Y,IT specialists,6457,7,No,15,2,L,10,Y,2,5,2,1,4,72
+20454,44,Production,2,3,1,Male,3,1,2,L,N,N,Machinists,2362,3,No,12,3,H,10,N,4,3,2,1,2,24
+20464,47,Finance,3,3,2,Female,2,2,2,L,Y,Y,Accountant,8296,7,No,19,2,L,7,N,2,3,6,1,2,72
+20682,55,Production,25,3,1,Male,3,1,3,L,N,Y,Production Supervisors,6247,4,No,19,2,L,5,Y,3,2,4,1,3,37
+20962,35,Research & Development,2,4,3,Male,3,2,2,H,N,N,Research and Design Specialists,4249,7,Yes,11,2,L,9,Y,3,9,6,1,1,50
+20982,27,Production,17,2,4,Male,3,1,2,H,N,Y,Machinists,3816,1,No,11,2,H,5,Y,3,5,2,0,4,91
+21018,39,Research & Development,2,4,3,Female,3,3,2,H,N,Y,Customercare Representative,10938,0,No,25,4,H,20,Y,3,19,6,11,8,62
+21112,37,Finance,6,4,2,Female,2,3,1,L,Y,Y,Accountant,8170,8,Yes,19,1,L,6,Y,3,3,5,1,3,55
+21160,33,Research & Development,18,1,2,Male,3,3,1,L,N,Y,Manager,13610,7,Yes,12,4,L,15,N,4,7,6,7,7,22
+21163,39,Research & Development,15,5,2,Male,3,2,2,L,Y,N,Manufacturing Director,5377,6,No,13,4,L,10,N,3,7,7,7,7,41
+21190,35,Production,25,4,3,Male,2,1,1,L,N,N,Machinists,3743,2,Yes,24,4,L,5,N,1,4,2,0,2,34
+21200,25,Finance,15,3,1,Female,3,2,1,L,Y,Y,Accountant,8369,7,No,16,3,H,5,Y,2,4,6,2,3,81
+21207,54,Finance,12,4,2,Female,3,2,1,L,N,Y,Accountant,8540,2,No,15,4,L,7,N,3,4,5,3,6,29
+21293,37,Sales,16,2,2,Male,2,2,4,L,Y,Y,Sales Executive,4189,8,No,14,1,H,5,Y,3,5,2,0,3,79
+21326,31,Finance,24,3,1,Male,2,3,1,L,N,Y,Accountant,9112,5,Yes,19,2,H,5,Y,1,6,2,3,5,35
+21379,23,Production,4,1,2,Male,3,1,2,H,N,Y,Machinists,2500,6,No,14,4,L,5,Y,4,4,3,0,2,61
+21432,35,Research & Development,10,4,3,Female,3,3,1,H,N,Y,Customercare Representative,10388,4,Yes,11,3,L,16,N,2,16,10,10,1,39
+21502,40,Sales,22,2,1,Male,3,2,4,H,Y,Y,Sales Executive,5473,9,No,12,4,H,9,Y,4,8,4,7,1,63
+21572,41,Research & Development,5,3,4,Male,2,4,2,H,N,Y,Manager,17181,4,No,13,2,H,21,Y,2,7,6,7,7,61
+21667,33,Sales,2,3,4,Male,3,2,1,L,N,N,Sales Executive,4373,7,No,14,1,H,5,N,3,4,3,0,3,47
+22054,42,IT_Support,11,3,2,Male,2,3,1,L,N,N,IT specialists,5319,5,Yes,18,3,L,9,N,3,3,5,2,2,28
+22290,39,Finance,22,4,1,Female,2,3,3,H,Y,Y,Accountant,9412,2,Yes,15,4,L,5,Y,1,4,5,3,2,68
+22353,49,Research & Development,14,4,3,Female,3,2,2,L,N,Y,Manufacturing Director,6567,1,No,14,3,L,16,N,2,15,11,5,11,43
+22403,31,Sales,2,3,4,Female,3,1,1,H,Y,N,Sales Representative,2302,4,Yes,11,1,H,3,N,4,3,2,2,2,39
+22469,32,Sales,4,4,3,Female,3,3,2,L,Y,Y,Sales Executive,10422,1,No,19,3,L,14,Y,3,14,10,5,7,70
+22506,44,Sales,3,5,2,Female,3,2,2,H,N,Y,Sales Executive,5454,5,Yes,21,3,L,9,Y,2,4,3,1,3,59
+22540,38,Sales,10,4,1,Female,2,2,1,H,N,Y,Sales Executive,8686,4,No,22,3,L,12,Y,4,8,3,0,7,55
+22553,58,Sales,16,3,4,Female,3,4,2,L,N,Y,Manager,17875,7,Yes,13,3,L,29,N,2,1,0,0,0,46
+22658,38,Production,24,5,4,Female,3,2,2,L,N,N,Machinists,2406,1,No,11,4,L,10,N,3,10,3,9,9,40
+22821,38,Research & Development,8,3,4,Male,3,2,1,L,Y,Y,Manufacturing Director,6261,3,No,18,1,L,9,N,1,7,7,1,7,18
+22827,32,Research & Development,12,3,4,Male,3,1,3,L,Y,N,Research and Design Specialists,2439,1,No,14,4,L,4,Y,3,4,2,1,2,75
+22877,50,Research & Development,1,4,1,Male,3,4,1,L,Y,Y,Manager,17924,7,No,11,4,L,31,Y,3,31,6,14,7,58
+22942,30,Research & Development,22,3,1,Male,1,1,2,L,N,N,Research and Design Specialists,2613,1,No,25,3,L,10,N,2,10,7,0,9,44
+22999,29,Production,5,1,2,Male,3,1,1,H,Y,Y,Machinists,4723,9,Yes,18,4,H,10,Y,3,10,9,1,5,58
+23022,32,Sales,15,2,4,Male,1,2,1,L,N,N,Sales Executive,4668,0,No,17,4,L,9,N,4,8,7,0,7,47
+23027,50,Production,13,3,1,Male,3,1,2,H,Y,Y,Machinists,2380,7,No,18,2,H,8,Y,3,1,0,0,0,78
+23116,47,Research & Development,7,5,4,Male,3,5,4,H,N,Y,Research Director,18300,4,No,11,2,H,21,Y,3,3,2,1,1,80
+23130,36,Research & Development,7,3,4,Male,3,3,2,L,Y,Y,Customercare Representative,8321,8,Yes,13,4,H,15,N,3,12,8,5,7,45
+23338,38,Finance,14,3,2,Male,2,2,2,L,Y,N,Accountant,8560,2,Yes,16,1,L,8,Y,2,2,5,1,3,75
+23347,27,Research & Development,12,3,4,Male,3,1,4,L,Y,Y,Research and Design Specialists,2580,6,No,13,3,L,6,Y,2,4,2,1,2,74
+23605,40,Production,5,3,4,Female,3,2,2,L,Y,Y,Machinists,6323,2,No,11,1,L,10,Y,4,10,9,9,4,68
+23668,38,Research & Development,25,3,3,Female,3,3,3,H,N,Y,Manufacturing Director,7861,5,Yes,14,4,H,10,Y,4,1,0,0,0,71
+23681,51,Finance,13,4,1,Female,3,3,1,H,N,Y,Accountant,9741,2,Yes,18,2,L,8,N,1,6,5,3,3,29
+23708,37,Research & Development,8,4,4,Male,3,2,2,L,N,N,Research and Design Specialists,4284,1,Yes,22,3,H,16,N,3,5,3,0,4,42
+23714,23,Research & Development,12,1,3,Male,3,1,2,L,Y,N,Research and Design Specialists,2904,1,No,12,3,L,4,Y,2,4,2,0,2,50
+23800,44,Research & Development,18,4,4,Male,3,2,2,H,Y,Y,Research and Design Specialists,4541,7,No,25,2,L,20,Y,3,20,11,13,17,54
+23828,51,Research & Development,13,4,2,Male,2,3,2,L,N,Y,Research Director,12490,5,No,16,4,L,16,N,1,10,9,4,7,46
+23930,35,Human Resources,19,4,3,Male,3,1,4,H,N,Y,Human Resources,4323,1,No,17,2,H,6,Y,1,5,4,1,4,74
+23945,32,Sales,23,1,3,Male,3,2,4,H,Y,Y,Sales Executive,4078,7,Yes,13,1,H,4,Y,2,3,2,1,2,79
+24091,42,Human Resources,1,1,3,Male,3,1,2,H,Y,Y,Human Resources,2696,0,Yes,11,3,L,4,Y,3,3,2,1,0,60
+24099,42,Sales,21,3,3,Male,3,4,2,L,Y,Y,Sales Executive,13758,7,Yes,12,2,L,22,N,2,21,9,13,14,44
+24147,23,Sales,17,1,3,Male,3,1,2,H,Y,Y,Sales Representative,2322,3,No,13,3,L,3,Y,3,0,0,0,0,55
+24168,38,Sales,5,3,2,Female,3,2,2,H,N,Y,Sales Executive,4198,3,No,12,2,H,8,Y,4,3,2,1,2,57
+24188,42,Human Resources,13,5,4,Male,4,2,2,H,N,Y,Human Resources,6272,8,No,16,1,L,10,Y,4,4,3,0,3,70
+24190,34,Sales,3,2,2,Male,3,1,1,H,Y,Y,Sales Representative,2308,1,Yes,25,2,H,12,Y,3,11,10,5,7,58
+24286,31,Sales,3,3,2,Female,1,2,1,L,N,N,Sales Executive,4559,3,Yes,11,3,L,4,N,3,2,2,2,2,15
+24324,26,Human Resources,15,2,4,Female,3,1,1,L,N,N,Human Resources,2148,7,Yes,11,3,H,6,N,3,5,1,1,4,38
+24334,29,Research & Development,25,3,3,Male,3,1,2,H,N,Y,Research and Design Specialists,2058,0,No,14,4,H,7,Y,2,6,2,1,5,62
+24337,52,Finance,21,4,2,Male,3,3,2,L,N,Y,Accountant,9190,2,Yes,17,1,H,9,Y,3,10,3,2,2,30
+24403,29,Production,7,2,4,Male,2,2,1,,,,,4025,3,Yes,13,1,H,10,N,3,4,3,0,3,38
+24579,41,Research & Development,7,3,2,Female,3,5,2,H,Y,Y,Research Director,19545,1,No,12,4,H,23,N,3,22,15,15,8,69
+24620,24,Sales,13,1,1,Female,3,1,2,H,N,Y,Sales Representative,3202,1,Yes,16,2,L,6,Y,3,5,3,1,4,57
+24625,40,Sales,2,4,1,Male,2,3,2,H,Y,Y,Sales Executive,9705,4,No,12,2,L,11,Y,2,1,0,0,0,62
+24637,43,Research & Development,11,2,4,Female,4,1,2,L,Y,Y,Research and Design Specialists,2645,1,No,12,4,L,6,Y,2,5,3,1,4,50
+24677,40,Sales,24,3,2,Female,4,4,1,L,N,Y,Sales Executive,13194,7,Yes,16,4,L,22,N,2,1,0,0,0,29
+24756,30,Sales,6,1,4,Male,3,1,2,L,N,N,Sales Representative,2983,0,No,14,1,L,4,N,3,3,2,1,2,42
+24951,32,Research & Development,8,4,3,Female,3,2,4,L,Y,Y,Customercare Representative,6667,4,No,18,2,L,9,Y,3,5,1,1,2,67
+25289,48,Finance,6,3,1,Male,2,2,2,L,Y,Y,Accountant,8911,6,Yes,17,2,L,8,N,2,7,6,1,7,70
+25340,31,Research & Development,3,3,2,Male,3,2,2,L,Y,Y,Manufacturing Director,9936,8,No,19,2,L,10,Y,3,9,4,1,7,70
+25467,45,Production,21,3,2,Male,4,2,2,L,N,N,Production Supervisors,5984,6,Yes,19,1,H,10,N,1,7,5,3,3,31
+25557,54,Finance,12,4,2,Female,2,2,2,L,Y,Y,Accountant,9691,5,Yes,16,4,L,9,Y,3,6,7,1,2,57
+25602,48,Sales,3,1,2,Male,4,2,1,H,N,Y,Sales Executive,8120,3,No,12,4,L,12,Y,3,2,2,2,2,55
+25603,32,Production,19,4,1,Female,2,2,2,L,N,Y,Production Supervisors,6830,5,No,15,2,H,10,Y,1,6,4,2,5,32
+25620,46,Sales,11,2,2,Male,2,2,2,L,Y,N,Sales Executive,7991,2,No,15,3,H,6,Y,3,2,2,2,2,52
+25793,54,Finance,19,3,2,Male,2,2,1,L,Y,N,Accountant,9225,5,No,17,2,L,10,Y,3,2,3,1,3,79
+25879,53,Sales,12,3,3,Female,2,3,1,H,Y,Y,Sales Executive,7525,5,No,12,1,L,30,Y,3,15,7,6,12,58
+25883,43,Research & Development,14,2,2,Male,3,4,2,L,N,Y,Research Director,17159,3,No,24,3,L,22,N,3,-4,1,1,0,41
+25912,46,Sales,12,3,3,Female,3,4,3,H,N,Y,Manager,16606,2,No,12,4,H,23,Y,4,13,12,5,1,76
+25940,39,Human Resources,9,3,3,Female,4,2,2,H,N,Y,Human Resources,6389,9,No,15,3,L,12,Y,1,8,3,3,6,59
+26017,33,Research & Development,22,4,4,Male,3,1,1,L,N,N,Research and Design Specialists,2686,8,Yes,13,3,L,10,N,2,10,9,7,8,38
+26024,54,Sales,2,4,3,Female,2,3,1,L,N,Y,Sales Executive,10686,9,No,11,2,L,13,N,3,9,4,7,0,47
+26037,27,Finance,8,4,2,Female,3,2,1,L,Y,Y,Accountant,9908,8,Yes,19,1,L,5,N,2,8,2,2,6,85
+26228,27,Human Resources,9,3,1,Female,2,1,1,L,N,N,Human Resources,2863,3,No,12,1,H,1,N,3,1,0,0,0,23
+26232,42,IT_Support,2,3,2,Male,2,3,1,L,N,N,IT specialists,5319,5,Yes,18,3,L,9,N,3,3,5,2,2,28
+26262,34,Sales,11,4,1,Female,2,2,2,H,Y,N,Sales Executive,4599,3,Yes,23,3,L,16,N,4,15,9,10,10,36
+26270,26,Finance,9,3,2,Female,3,3,2,L,N,Y,Accountant,8829,7,No,17,4,H,10,N,1,7,4,2,2,35
+26321,52,Finance,14,4,2,Male,3,2,2,L,Y,N,Accountant,8719,2,Yes,16,4,L,5,Y,3,6,6,1,7,73
+26622,20,Sales,13,3,4,Female,3,1,1,H,N,N,Sales Representative,2323,9,Yes,14,2,L,2,N,3,2,2,0,2,23
+26676,40,Sales,1,4,3,Male,2,3,4,H,N,Y,Sales Executive,10855,7,No,11,1,H,15,Y,2,12,11,2,11,64
+26769,32,Production,10,3,3,Female,2,1,1,H,N,N,Machinists,2332,6,No,20,3,L,5,N,3,3,0,0,2,39
+26788,28,Research & Development,14,3,4,Male,3,1,2,H,N,Y,Research and Design Specialists,2070,1,No,23,4,H,5,Y,2,5,2,0,4,66
+26863,48,Sales,15,2,4,Female,3,1,1,L,N,N,Sales Representative,2655,6,Yes,11,3,L,19,N,3,9,7,7,7,40
+26883,34,Production,21,3,2,Male,4,5,1,L,N,N,Production Supervisors,5959,5,No,19,4,L,6,N,2,5,4,3,6,33
+26908,55,Research & Development,22,1,3,Male,2,4,2,L,Y,Y,Manager,16756,2,No,15,2,L,31,Y,4,9,7,6,2,62
+26977,24,Research & Development,6,3,3,Male,4,1,2,L,N,N,Research and Design Specialists,4401,1,No,16,4,L,5,N,3,5,3,0,4,36
+27264,34,Sales,2,2,2,Male,4,2,2,L,Y,Y,Sales Executive,6799,3,No,21,3,H,10,Y,3,10,8,4,8,59
+27369,40,Research & Development,2,1,2,Female,4,2,3,H,N,Y,Customercare Representative,6377,8,No,20,2,L,15,Y,3,12,11,11,8,83
+27401,42,Sales,19,4,3,Male,3,2,2,H,Y,Y,Sales Executive,6825,0,No,11,4,H,10,Y,3,9,7,4,2,62
+27424,29,Human Resources,9,1,4,Male,2,1,4,L,Y,Y,Human Resources,2804,7,No,11,4,H,1,Y,3,1,0,0,0,65
+27495,26,Finance,6,3,2,Female,2,2,4,H,N,Y,Accountant,9566,2,Yes,15,4,L,9,N,3,5,3,1,2,27
+27561,20,Production,9,3,1,Male,2,1,4,L,N,Y,Machinists,3033,2,No,12,1,L,2,Y,2,2,2,1,2,64
+27844,32,Production,1,2,4,Male,3,1,2,H,N,Y,Machinists,3068,0,No,13,3,H,8,Y,2,7,7,3,6,61
+27967,54,Research & Development,15,3,4,Male,3,4,2,L,Y,Y,Research Director,17779,6,No,14,1,L,36,Y,3,10,9,0,9,57
+27968,34,Production,3,3,2,Male,4,2,1,L,Y,Y,Machinists,4404,2,No,12,1,L,6,Y,4,4,3,1,2,56
+27999,32,Sales,8,4,2,Male,3,2,4,H,Y,Y,Sales Executive,5010,1,No,16,1,H,12,Y,3,11,8,5,7,66
+28127,31,Production,10,3,3,Male,3,1,1,L,Y,N,Machinists,2610,9,No,12,3,L,2,N,2,2,2,2,2,29
+28286,34,Sales,18,4,2,Male,3,2,2,L,N,N,Sales Executive,4568,0,No,20,3,L,10,N,3,9,5,8,7,42
+28320,28,Production,20,4,4,Male,2,1,1,L,Y,Y,Machinists,3196,8,No,12,3,L,6,Y,3,6,5,3,3,58
+28382,51,Finance,23,4,2,Male,2,3,1,L,Y,N,Accountant,9621,1,Yes,18,3,L,10,N,3,5,5,3,4,55
+28456,38,Sales,15,2,1,Female,4,2,1,H,N,N,Sales Executive,5605,1,Yes,24,3,L,8,Y,3,8,0,7,7,51
+28479,40,Production,18,4,3,Male,3,2,4,L,N,Y,Machinists,3975,3,No,11,3,H,11,Y,4,8,7,0,7,65
+28530,26,Research & Development,13,2,3,Female,2,1,2,L,N,N,Research and Design Specialists,2366,6,Yes,14,1,L,8,N,3,8,7,1,7,46
+28596,35,Production,25,4,2,Male,1,1,2,L,Y,N,Machinists,2705,8,No,16,2,H,6,N,4,5,4,0,3,48
+28665,35,Finance,16,4,1,Male,2,3,2,L,Y,Y,Accountant,9881,4,Yes,16,2,L,8,N,2,8,5,3,7,85
+28711,33,Sales,6,3,2,Male,2,2,4,H,N,Y,Sales Executive,4682,3,No,14,3,H,9,Y,2,7,7,0,1,67
+28766,34,Research & Development,10,4,3,Female,2,2,2,H,N,Y,Research and Design Specialists,4505,6,No,15,3,H,12,N,3,1,0,0,0,65
+28860,35,Research & Development,16,4,1,Male,2,1,2,L,N,Y,Research and Design Specialists,4930,1,Yes,14,3,H,6,Y,4,5,4,1,4,85
+28892,38,R&D,3,1,3,Female,3,1,4,H,N,Y,Research and Design Specialists,2619,1,No,17,4,L,8,Y,2,0,0,0,0,64
+28899,45,Research & Development,9,4,4,Male,3,2,2,H,Y,Y,Research and Design Specialists,3697,9,No,14,1,L,12,Y,3,10,9,9,8,59
+29033,36,Production,1,2,3,Male,4,2,1,L,N,N,Machinists,2571,6,No,17,3,H,17,N,3,5,2,0,3,32
+29042,45,Sales,2,3,1,Female,1,5,2,H,Y,Y,Manager,18824,2,Yes,16,1,L,26,Y,3,24,10,1,11,50
+29086,45,Finance,21,,1,Male,3,3,2,L,N,N,Accountant,8140,1,Yes,18,3,H,9,Y,1,8,2,1,6,32
+29120,55,Research & Development,9,1,4,Male,3,3,3,H,Y,Y,Manufacturing Director,10976,2,No,18,2,H,23,Y,3,3,2,1,2,75
+29196,29,Production,25,1,2,Female,3,1,1,H,Y,N,Machinists,3131,6,No,13,1,L,10,N,3,10,8,0,8,47
+29220,29,Sales,8,3,1,Female,3,2,2,H,Y,Y,Sales Executive,5765,2,No,11,1,H,7,Y,1,5,3,0,0,57
+29222,42,Production,1,4,2,Female,3,1,2,H,N,Y,Machinists,2576,3,No,16,2,H,8,Y,3,5,2,1,2,62
+29280,35,Production,20,1,4,Male,4,1,2,H,Y,Y,Machinists,2269,1,No,19,4,H,1,Y,3,1,0,0,1,69
+29367,26,Production,6,3,3,Male,3,1,2,L,Y,Y,Machinists,2867,4,No,13,4,L,8,Y,2,7,7,7,6,60
+29419,38,Sales,3,3,3,Male,3,2,3,H,N,Y,Sales Executive,9924,6,No,11,4,H,10,Y,3,9,8,7,7,76
+29467,32,Sales,22,2,1,Male,1,2,1,L,Y,N,Sales Executive,6735,8,No,15,2,L,10,N,3,0,0,0,0,29
+29500,42,Research & Development,25,3,3,Male,4,1,2,L,N,N,Research and Design Specialists,2759,4,Yes,12,4,L,7,N,3,2,2,2,2,42
+29562,55,Research & Development,9,4,3,Male,4,5,2,H,N,Y,Research Director,18722,8,No,11,4,L,36,Y,3,24,15,2,15,59
+29681,26,Finance,17,3,1,Male,3,3,2,L,Y,N,Accountant,8281,7,No,19,2,L,9,N,1,9,6,2,5,75
+29747,48,Research & Development,25,4,3,Female,3,1,2,H,Y,Y,Research and Design Specialists,2367,2,No,12,4,H,10,Y,2,8,2,7,6,54
+29776,32,Finance,14,3,2,Male,2,3,1,L,N,Y,Accountant,9133,6,Yes,15,3,H,8,N,2,7,2,3,7,37
+29793,20,Research & Development,6,3,4,Female,2,1,2,L,N,N,Research and Design Specialists,2600,5,Yes,15,1,L,1,N,3,1,0,0,0,36
+29799,30,Production,20,3,4,Male,1,1,2,H,Y,Y,Machinists,3833,6,No,21,3,H,7,Y,3,2,2,0,2,73
+29911,32,Finance,21,3,1,Male,3,2,2,L,Y,N,Accountant,8255,1,Yes,15,4,L,10,N,2,3,4,1,7,56
+29954,40,Research & Development,2,2,1,Male,3,5,2,H,N,Y,Research Director,19436,0,No,19,4,H,22,Y,3,21,7,3,9,66
+29966,47,Human Resources,4,4,4,Female,3,5,1,L,Y,Y,Manager,19658,3,No,11,3,L,27,N,3,5,2,1,0,34
+29998,29,Sales,6,3,3,Female,3,1,4,H,Y,Y,Customercare Representative,2157,3,No,15,2,L,3,Y,3,3,1,0,2,63
+30033,38,Finance,2,3,1,Female,3,3,2,L,Y,N,Accountant,8923,3,No,19,2,H,7,N,1,10,7,1,7,58
+30034,36,Production,4,3,1,Male,3,2,1,H,N,N,Machinists,4834,8,No,14,2,L,9,N,2,1,0,0,0,35
+30108,54,Research & Development,9,4,4,Female,3,2,1,L,N,N,Manufacturing Director,5485,8,Yes,11,2,L,9,N,3,5,3,1,4,47
+30137,27,Research & Development,15,3,4,Female,3,1,2,H,N,N,Research and Design Specialists,2279,1,No,16,4,L,7,Y,2,7,7,0,3,59
+30139,42,IT_Support,9,2,3,Male,2,3,1,L,N,Y,Research and Design Specialists,6830,8,No,17,1,H,9,Y,2,10,4,2,2,71
+30188,31,Research & Development,3,3,4,Female,3,1,1,H,N,N,Research and Design Specialists,4084,3,No,12,1,L,7,N,1,7,2,7,7,26
+30233,26,Sales,23,3,4,Male,2,2,2,L,N,N,Sales Executive,5326,5,No,17,3,L,6,N,2,4,3,1,2,41
+30270,32,Research & Development,19,5,3,Male,3,1,2,H,Y,Y,Research and Design Specialists,3038,3,No,20,1,H,8,Y,3,5,4,1,4,70
+30283,33,Sales,22,3,4,Female,3,1,1,L,Y,N,Sales Representative,2851,1,Yes,13,2,L,1,N,3,1,0,0,0,38
+30307,39,Production,14,3,4,Male,3,1,1,H,N,N,Machinists,2404,7,Yes,21,4,L,8,N,1,2,2,2,2,37
+30320,41,Sales,7,2,4,Male,3,3,2,L,N,Y,Sales Executive,7082,9,Yes,16,4,L,21,N,3,2,0,0,2,41
+30353,46,Research & Development,9,3,1,Male,3,4,2,H,N,Y,Research Director,17861,6,No,13,3,L,26,Y,1,3,2,0,1,53
+30356,38,Production,17,2,4,Female,3,1,1,L,N,Y,Machinists,3306,2,No,19,4,L,7,Y,2,0,0,0,0,56
+30527,32,Finance,3,4,1,Male,2,3,1,L,Y,Y,Accountant,9512,8,No,18,1,L,8,Y,1,3,2,3,2,69
+30534,42,Finance,21,3,1,Male,2,3,2,L,N,Y,Accountant,9912,7,No,20,2,H,5,N,1,7,6,2,6,25
+30555,55,Production,1,3,2,Male,4,3,1,L,N,Y,Production Supervisors,6812,2,Yes,18,4,H,7,Y,2,3,4,1,2,34
+30607,27,Production,11,4,1,Female,3,2,4,L,N,N,Production Supervisors,5435,1,No,18,4,L,9,N,1,6,6,1,4,35
+30623,34,Finance,13,3,2,Male,3,3,1,L,N,N,Accountant,9629,2,Yes,15,3,H,6,Y,2,9,2,3,4,36
+30673,44,Production,17,3,3,Male,2,1,1,L,Y,Y,Machinists,3162,9,No,14,4,H,7,Y,3,5,2,0,3,55
+30749,37,Research & Development,3,3,3,Male,3,3,1,H,N,Y,Manufacturing Director,9434,8,No,15,3,L,10,Y,3,10,7,7,8,58
+30792,32,Research & Development,1,4,4,Male,3,2,2,H,N,Y,Research and Design Specialists,4087,7,No,14,2,H,9,Y,2,6,5,1,2,57
+30800,49,Research & Development,18,1,3,Female,2,4,1,L,Y,Y,Customercare Representative,13966,3,Yes,19,2,L,30,N,3,15,11,2,12,47
+30855,50,IT_Support,17,4,1,Male,4,5,1,L,N,Y,IT specialists,10492,3,No,19,3,H,7,N,2,9,3,1,5,41
+30888,33,Research & Development,2,3,4,Female,3,1,2,L,N,N,Research and Design Specialists,2756,1,No,13,4,L,8,N,3,8,7,1,6,41
+30940,52,Research & Development,5,3,4,Male,2,3,2,H,N,Y,Manufacturing Director,7969,2,Yes,14,3,H,28,Y,3,5,4,0,4,61
+30949,41,Sales,2,2,3,Male,1,2,4,H,Y,Y,Sales Executive,6151,9,No,13,1,L,19,Y,3,19,2,11,9,67
+30963,19,Production,20,3,2,Male,2,1,2,L,Y,N,Machinists,1102,1,No,22,3,L,1,N,2,1,0,1,0,49
+31036,37,Research & Development,9,3,1,Male,3,2,2,H,N,Y,Research and Design Specialists,4285,9,No,17,1,H,10,Y,3,10,8,3,7,66
+31041,42,Production,2,2,1,Female,3,1,1,H,N,Y,Machinists,3673,2,No,13,3,H,12,Y,3,12,9,5,8,55
+31049,30,Research & Development,17,3,3,Male,4,2,1,L,Y,N,Customercare Representative,5294,8,No,16,3,L,10,N,3,7,0,1,7,20
+31052,50,Finance,11,4,2,Male,3,3,1,L,Y,Y,Accountant,9819,9,Yes,15,2,L,9,N,2,4,6,3,5,69
+31110,39,Sales,20,4,2,Male,3,4,4,L,Y,Y,Sales Executive,13341,6,No,12,1,L,21,Y,3,20,8,11,10,80
+31134,34,Sales,22,2,4,Female,1,1,2,H,N,Y,Sales Manager,2351,0,No,16,4,L,3,Y,2,2,2,1,0,52
+31183,30,Finance,23,4,2,Male,3,3,4,H,N,Y,Accountant,8400,9,No,15,3,L,9,N,1,9,2,3,5,36
+31444,40,Research & Development,16,4,3,Male,2,1,2,L,Y,Y,Research and Design Specialists,2809,6,No,14,4,L,8,Y,3,2,2,2,2,59
+31472,49,Sales,14,4,4,Male,2,4,2,L,Y,Y,Sales Executive,13120,3,No,17,2,H,22,Y,3,9,8,2,3,72
+31492,35,Production,11,3,2,Male,3,1,2,L,N,N,Machinists,3917,7,No,20,1,L,3,N,2,3,2,1,2,41
+31515,43,Sales,8,2,3,Male,3,4,2,H,N,Y,Manager,16959,1,Yes,12,4,L,25,Y,4,25,12,4,12,59
+31518,43,Research & Development,22,4,3,Female,3,2,2,H,N,Y,Customercare Representative,4522,4,Yes,14,4,L,8,Y,3,5,2,0,2,57
+31558,48,Sales,23,1,1,Female,3,3,2,H,N,Y,Manager,12504,3,No,21,2,L,15,Y,1,0,0,0,0,52
+31582,20,Sales,16,3,3,Female,2,1,4,H,Y,Y,Customercare Representative,2044,9,No,13,4,L,2,Y,2,2,2,0,2,67
+31585,54,Finance,19,3,2,Male,2,2,1,L,Y,N,Accountant,9225,5,No,17,2,L,10,Y,3,2,3,1,3,79
+31641,31,Sales,13,4,4,Female,3,3,2,L,N,Y,Sales Executive,9852,8,Yes,19,1,L,10,Y,2,10,8,9,6,61
+31709,45,Research & Development,15,3,3,Male,3,1,1,L,N,N,Research and Design Specialists,3452,5,No,13,2,L,9,N,2,6,5,0,3,39
+31764,47,Sales,16,3,3,Male,1,4,2,L,Y,Y,Sales Executive,12936,2,No,11,3,L,25,Y,1,23,5,14,10,50
+31794,53,Research & Development,3,4,3,Male,3,4,2,H,Y,N,Research Director,17584,3,Yes,16,4,H,21,Y,2,5,3,1,3,61
+31886,39,Finance,19,4,1,Female,3,2,2,H,N,Y,Accountant,9023,8,Yes,19,1,H,9,N,2,8,3,2,4,45
+31902,42,Research & Development,6,4,2,Female,4,2,2,H,N,N,Research and Design Specialists,2372,7,Yes,16,4,H,18,N,3,1,0,0,0,46
+32026,37,IT_Support,20,4,2,Male,3,2,2,L,Y,Y,IT specialists,8648,5,No,16,4,L,8,Y,3,3,7,1,7,65
+32110,25,Sales,6,1,1,Male,4,2,2,H,Y,Y,Sales Executive,6232,4,No,11,2,H,6,Y,2,3,2,1,2,61
+32124,32,Sales,23,3,4,Male,2,2,2,H,Y,N,Sales Executive,5484,1,No,14,3,L,13,Y,2,13,8,4,8,57
+32167,36,Research & Development,14,3,3,Female,1,3,1,L,N,Y,Manufacturing Director,10252,1,Yes,21,3,L,17,Y,3,7,7,7,7,55
+32169,31,Finance,11,4,2,Male,3,2,1,H,Y,Y,Accountant,9799,3,Yes,20,1,L,9,Y,3,10,5,3,4,78
+32170,37,Research & Development,3,4,1,Male,2,2,2,H,N,Y,Manufacturing Director,5993,1,No,18,3,H,7,Y,4,7,5,0,7,66
+32232,34,Research & Development,6,4,2,Male,3,2,1,H,N,Y,Research and Design Specialists,5484,1,No,17,2,H,9,Y,2,2,2,2,1,56
+32242,43,Research & Development,1,3,1,Female,3,2,2,H,Y,Y,Manufacturing Director,4765,3,No,21,3,L,4,Y,4,1,0,0,0,68
+32344,,Research & Development,3,3,1,Male,2,2,2,H,Y,Y,Customercare Representative,4240,5,No,13,4,L,19,Y,3,2,2,2,2,53
+32544,45,Sales,20,3,4,Male,3,2,1,H,N,Y,Sales Executive,4805,0,No,19,2,L,9,Y,4,8,7,3,7,58
+32595,32,IT_Support,2,3,1,Male,4,4,4,L,N,Y,IT specialists,6861,7,No,18,4,H,7,N,3,3,4,2,5,37
+32884,32,Research & Development,13,3,2,Male,3,2,4,L,N,Y,Research and Design Specialists,6220,1,No,17,2,L,10,Y,3,10,4,0,9,34
+32889,44,Finance,20,4,1,Male,3,3,1,L,N,Y,Accountant,8928,7,Yes,,2,H,6,Y,1,4,6,2,7,34
+33326,33,Fin,8,4,2,Male,3,2,1,L,N,Y,Accountant,9847,2,Yes,19,2,L,8,Y,2,4,3,3,4,45
+33334,32,Sales,17,4,4,Male,1,3,2,L,Y,Y,Sales Executive,10400,1,No,11,3,L,14,N,2,14,8,9,8,48
+33400,39,Research & Development,22,2,1,Male,3,2,3,L,Y,Y,Manufacturing Director,5151,9,No,25,4,L,10,Y,3,10,0,7,9,71
+33424,45,Finance,8,3,1,Female,2,2,2,L,N,Y,Accountant,9209,9,Yes,16,3,L,8,N,2,4,5,3,3,25
+33431,33,Finance,6,3,1,Female,3,3,2,L,N,Y,Accountant,8676,3,Yes,19,4,L,6,N,1,9,7,2,3,36
+33473,30,Sales,4,3,3,Male,2,2,1,L,Y,Y,Sales Executive,6578,4,No,18,1,L,10,Y,3,10,3,1,4,55
+33502,28,Research & Development,3,2,2,Male,4,2,1,L,Y,N,Customercare Representative,5661,0,No,19,3,L,9,N,3,8,3,0,7,38
+33540,31,Sales,2,2,3,Female,3,2,1,L,N,Y,Sales Executive,6583,1,Yes,11,4,L,8,N,3,5,2,1,4,47
+33646,51,Finance,4,3,2,Male,3,1,1,H,Y,Y,IT specialists,8160,3,No,19,4,L,9,Y,3,5,6,1,2,76
+33674,31,Finance,21,3,1,Male,2,3,2,L,Y,N,Accountant,9556,5,Yes,16,2,L,9,Y,2,7,7,2,2,58
+33736,31,Research & Development,6,2,3,Female,2,3,2,H,N,Y,Manufacturing Director,8943,1,No,24,1,H,10,Y,3,10,9,8,9,66
+33757,46,Research & Development,6,4,4,Male,3,3,4,H,N,Y,Customercare Representative,9396,7,No,16,3,H,17,Y,3,4,2,0,3,65
+33807,53,IT_Support,19,4,1,Male,2,4,1,L,N,Y,IT specialists,10075,3,Yes,16,2,H,10,N,1,2,6,2,7,30
+33834,42,Research & Development,16,2,3,Female,3,2,1,H,N,Y,Manufacturing Director,5265,2,No,16,2,L,11,Y,3,5,3,0,2,55
+33835,41,Production,12,4,2,Male,3,1,2,H,N,N,Machinists,4766,4,Yes,11,1,L,6,N,3,1,0,0,0,49
+33879,29,Production,8,1,1,Female,2,1,2,H,Y,Y,Machinists,2532,1,No,14,3,L,8,Y,3,4,3,0,3,62
+33910,47,Finance,22,3,2,Male,2,2,2,L,N,Y,Accountant,9017,1,Yes,18,3,H,6,Y,1,8,3,3,7,33
+33963,38,Sales,17,3,3,Female,3,2,4,L,Y,Y,Sales Executive,5666,9,Yes,13,2,L,6,Y,3,5,3,1,3,63
+33997,23,Research & Development,2,3,1,Male,4,1,1,L,N,N,Research and Design Specialists,2819,2,No,16,1,L,5,N,4,3,2,0,2,37
+34021,38,Sales,10,4,2,Male,3,2,1,L,Y,Y,Sales Executive,6861,4,Yes,12,3,L,19,Y,3,1,0,0,0,58
+34105,37,IT_Support,24,3,1,Male,3,3,4,L,Y,Y,IT specialists,7110,6,No,20,3,H,6,Y,2,10,7,1,5,54
+34148,31,Finance,17,3,2,Male,3,2,2,L,N,Y,Accountant,9339,9,No,17,4,H,9,Y,3,2,2,1,7,39
+34158,38,Research & Development,14,2,1,Female,2,3,2,L,N,Y,Research Director,12061,3,No,17,3,L,19,N,3,10,8,0,1,48
+34222,44,Finance,21,3,1,Male,2,2,2,L,Y,Y,Accountant,9979,7,No,17,1,L,7,Y,1,8,5,1,7,85
+34266,40,Production,8,3,1,Male,2,4,4,L,N,Y,Production Supervisors,6572,8,Yes,17,4,H,7,Y,3,6,3,3,5,33
+34371,31,Research & Development,7,4,2,Male,3,3,2,H,N,Y,Research Director,13675,9,No,12,1,H,9,Y,3,2,2,2,2,68
+34661,34,Research & Development,6,4,3,Female,3,2,2,H,N,Y,Customercare Representative,6687,1,No,11,4,L,14,Y,4,14,11,4,11,60
+34787,44,Finance,23,3,2,Female,3,2,1,L,N,Y,Accountant,9083,1,Yes,19,4,H,8,Y,1,7,3,1,6,38
+34855,48,Research & Development,19,4,3,Male,2,3,4,L,Y,Y,Customercare Representative,10999,1,No,14,2,L,27,Y,3,15,11,4,8,69
+34891,32,Sales,15,2,3,Female,2,2,1,L,Y,N,Sales Executive,5228,1,Yes,11,4,L,13,N,3,13,12,11,9,35
+34986,31,Sales,21,2,1,Male,3,3,2,H,N,Y,Sales Executive,10793,4,No,18,1,H,13,Y,3,13,7,9,9,61
+35086,37,Finance,9,4,1,Male,2,3,2,L,N,Y,Accountant,9670,8,Yes,19,2,L,8,N,1,10,2,2,2,34
+35156,37,IT_Support,10,3,2,Male,3,4,2,L,Y,Y,Customercare Representative,NA,6,Yes,18,4,L,10,Y,2,10,4,2,6,68
+35219,34,Sales,16,4,3,Female,3,1,2,H,N,Y,Sales Representative,2231,6,No,18,4,H,6,Y,3,4,3,1,2,66
+35341,27,Research & Development,12,3,2,Female,3,1,4,L,Y,Y,Research and Design Specialists,2318,4,No,19,3,L,1,Y,3,1,1,0,0,64
+35351,53,Sales,23,4,1,Male,3,3,2,L,N,Y,Sales Executive,10448,9,Yes,13,2,H,15,N,2,2,2,2,2,24
+35379,50,Research & Development,25,5,3,Male,1,4,2,L,N,Y,Research Director,14411,1,Yes,13,4,H,32,Y,3,32,6,13,9,54
+35469,60,Sales,21,4,1,Male,3,2,1,L,N,N,Sales Executive,5405,6,No,14,4,L,10,N,3,2,2,2,2,32
+35510,25,Research & Development,14,2,2,Male,4,2,2,H,N,Y,Customercare Representative,4000,1,No,12,4,L,6,Y,3,6,3,1,5,60
+35814,42,Sales,22,2,3,Female,2,2,4,L,Y,Y,Sales Executive,6244,2,No,17,1,L,10,Y,3,5,4,0,3,69
+35872,37,Research & Development,13,3,3,Male,3,2,2,L,Y,N,Manufacturing Director,5768,3,No,17,1,L,9,N,2,4,3,0,2,19
+35922,34,Research & Development,24,4,1,Female,3,2,2,H,Y,Y,Research and Design Specialists,4809,1,No,14,3,L,16,Y,3,16,13,2,10,56
+36203,52,Sales,15,4,3,Male,2,4,2,H,N,Y,Manager,16856,5,No,11,1,L,34,Y,4,34,6,1,16,61
+36271,34,Research & Development,4,4,3,Male,2,2,1,L,N,N,Research and Design Specialists,5747,6,Yes,15,2,H,16,N,3,15,10,6,11,32
+36352,26,Sales,9,4,4,Male,2,2,2,L,N,N,Sales Executive,5828,1,Yes,12,2,L,8,N,3,8,7,7,4,48
+36458,32,Sales,24,3,4,Male,3,2,2,H,N,Y,Sales Executive,5396,8,No,12,4,L,10,Y,2,10,7,0,8,62
+36629,50,Finance,17,4,1,Male,2,3,1,L,Y,Y,Accountant,9029,4,Yes,19,2,L,9,Y,3,3,3,1,6,75
+36834,22,Production,18,3,2,Female,3,1,3,H,N,Y,Machinists,2871,1,No,15,3,H,1,Y,3,0,0,0,0,62
+36870,47,Sales,7,4,4,Female,2,1,1,H,Y,Y,Sales Representative,3294,5,Yes,18,1,L,3,Y,2,3,2,1,2,51
+37227,31,Production,17,4,1,Female,2,3,2,L,N,N,Production Supervisors,5800,9,No,17,4,H,10,Y,2,4,6,3,7,30
+37385,37,Research & Development,7,2,4,Male,4,1,2,L,N,N,Research and Design Specialists,4680,3,No,17,1,L,4,N,3,1,0,0,0,41
+37402,58,Research & Development,7,4,4,Male,3,5,1,L,N,Y,Research Director,19246,4,Yes,12,4,L,40,N,3,31,15,13,8,40
+37573,40,Research & Development,23,3,3,Male,2,5,2,H,Y,Y,Research Director,19626,6,No,14,1,L,21,Y,4,20,7,4,9,59
+37689,46,Sales,7,1,1,Male,3,4,2,H,Y,Y,Manager,17465,1,No,12,4,L,23,Y,3,12,9,4,9,60
+37712,43,Finance,2,4,1,Female,3,3,3,L,N,Y,Accountant,8016,3,No,17,1,H,7,N,3,2,4,3,7,29
+37763,28,Sales,17,3,1,Male,3,1,1,L,N,N,Sales Representative,2909,1,No,15,4,L,5,N,4,3,2,1,2,27
+37820,49,Research & Development,25,3,3,Female,3,1,2,L,Y,Y,Research and Design Specialists,3580,4,No,16,2,L,7,Y,3,4,2,0,2,60
+37873,27,Sales,9,3,4,Male,3,2,2,H,N,Y,Sales Executive,4478,1,Yes,11,1,H,5,,3,5,4,0,4,70
+37895,53,Research & Development,5,5,3,Female,2,3,2,H,N,Y,Manufacturing Director,10169,6,No,16,2,H,34,N,3,33,7,1,9,43
+37984,44,Research & Development,10,4,4,Male,3,2,3,H,Y,Y,Customercare Representative,6465,2,Yes,13,4,H,9,Y,4,4,2,1,3,84
+38018,30,Human Resources,23,3,3,Male,3,2,4,H,N,Y,Human Resources,6347,0,Yes,19,4,H,12,Y,1,11,9,4,7,65
+38096,28,Production,15,3,3,Male,2,1,2,L,Y,N,Machinists,2028,5,Yes,14,2,L,6,N,3,4,2,0,3,30
+38391,41,Sales,16,3,4,Male,3,3,3,L,N,Y,Sales Executive,9241,1,No,12,2,L,10,Y,3,10,8,8,7,76
+38429,48,Research & Development,6,4,1,Male,4,4,2,H,Y,Y,Manager,16885,2,No,22,3,L,27,Y,2,5,4,2,1,62
+38450,34,Research & Development,14,1,1,Female,2,1,1,H,Y,N,Research and Design Specialists,2029,9,No,20,3,H,5,N,3,5,4,0,0,47
+38520,30,Sales,4,4,4,Female,3,2,2,L,Y,Y,Sales Executive,4779,7,No,14,2,H,8,Y,3,3,2,0,2,70
+38556,28,Research & Development,17,3,3,Male,3,1,1,L,N,N,Research and Design Specialists,2713,1,No,11,3,L,5,N,1,5,2,0,2,28
+38562,18,Sales,9,3,2,Male,3,1,1,L,N,N,Sales Representative,1878,1,Yes,14,4,L,0,N,3,0,0,0,0,39
+38588,32,Sales,8,4,2,Male,2,1,2,L,Y,Y,Sales Representative,2269,4,No,14,2,L,3,Y,3,2,2,2,2,72
+38638,37,Sales,11,4,4,Male,2,2,1,H,Y,Y,Sales Executive,6334,4,No,19,4,L,9,Y,3,1,0,0,0,56
+38656,33,Research & Development,18,3,1,Male,3,1,1,L,N,N,Research and Design Specialists,3348,8,Yes,11,1,L,10,N,3,10,8,9,7,37
+38791,50,Production,25,3,1,Male,4,4,4,L,N,Y,Production Supervisors,6784,2,No,18,2,H,5,N,3,6,3,1,7,34
+38796,37,Sales,5,4,3,Male,3,2,1,H,N,Y,Sales Executive,6502,4,No,14,2,L,7,Y,4,5,4,0,1,56
+38917,34,Research & Development,5,4,4,Male,2,2,2,L,N,Y,Customercare Representative,5063,9,No,14,2,H,8,Y,2,8,2,7,7,52
+38928,32,Production,15,4,4,Female,3,1,2,L,N,N,Machinists,4025,5,No,12,2,L,10,N,3,8,7,7,7,24
+38992,46,Research & Development,18,4,3,Male,3,5,2,L,Y,N,Research Director,19328,1,Yes,17,3,H,24,Y,3,2,1,2,2,60
+39204,34,Human Resources,7,2,3,Male,3,1,2,H,Y,Y,Human Resources,3737,9,No,19,3,L,4,Y,1,3,2,0,2,57
+39224,31,Sales,16,1,2,Male,3,2,2,H,N,N,Sales Executive,6582,4,Yes,13,3,H,10,Y,4,6,5,0,5,72
+39353,59,Human Resources,7,2,2,Male,3,1,4,H,N,Y,Human Resources,2267,8,No,17,4,H,7,Y,2,2,2,2,2,67
+39490,26,IT_Support,9,1,4,Male,4,3,3,L,N,N,Sales Executive,NA,7,No,19,1,L,7,N,1,3,5,1,6,69
+39582,53,Finance,4,4,1,Female,2,3,2,L,Y,Y,Accountant,8670,3,Yes,19,3,L,6,Y,2,3,3,3,5,78
+39585,38,Research & Development,1,4,4,Male,3,2,1,H,N,Y,Customercare Representative,5745,9,No,14,2,L,10,Y,3,2,2,1,2,55
+39588,34,Finance,10,3,1,Male,2,2,2,L,Y,Y,Accountant,8175,2,No,20,1,H,8,N,1,9,5,3,6,61
+39697,46,Finance,1,4,1,Female,2,2,1,L,N,N,Accountant,9246,9,Yes,16,2,H,7,N,1,2,3,2,7,26
+39736,37,Finance,2,3,2,Female,3,2,2,L,Y,Y,Accountant,8861,2,No,19,2,L,5,Y,3,5,2,2,2,80
+39928,47,Sales,21,2,4,Female,3,2,2,H,Y,Y,Sales Executive,4163,5,Yes,17,3,L,9,Y,3,9,0,0,7,68
+39973,22,Production,6,1,3,Male,3,1,2,L,Y,N,Machinists,2523,0,No,14,3,L,3,N,3,2,1,2,1,44
+39982,38,Finance,14,3,1,Female,3,2,2,L,Y,N,Accountant,8702,3,Yes,20,3,H,7,Y,1,2,4,1,4,61
+40057,29,Research & Development,19,3,1,Female,3,1,3,L,Y,Y,Research and Design Specialists,3760,4,No,15,1,L,3,Y,3,3,2,1,2,75
+40064,28,Research & Development,14,3,4,Female,3,3,2,L,Y,Y,Manufacturing Director,7655,7,No,17,2,L,10,Y,2,9,7,1,7,62
+40109,48,Finance,19,4,1,Male,2,2,2,L,Y,Y,Accountant,8138,5,No,18,1,L,6,N,2,7,2,3,6,79
+40149,50,Research & Development,10,1,1,Male,3,5,4,H,N,Y,Research Director,19144,3,No,14,1,H,28,Y,2,10,4,1,6,80
+40159,54,Research & Development,1,4,1,Female,3,3,2,H,N,N,Research Director,13549,9,No,12,1,H,16,Y,1,4,3,0,3,61
+40162,35,Finance,21,4,1,Female,3,3,3,L,Y,Y,Accountant,8492,8,Yes,17,4,L,5,Y,3,3,6,1,6,57
+40211,31,Sales,15,3,4,Male,3,2,1,H,N,Y,Sales Executive,7547,4,No,12,4,L,13,Y,3,7,7,1,7,56
+40276,26,Production,23,2,1,Female,1,1,3,H,N,Y,Machinists,4364,5,No,14,1,H,5,Y,3,2,2,2,0,87
+40287,26,IT_Support,9,3,2,Male,4,3,2,H,Y,Y,IT specialists,5171,3,No,15,1,H,5,Y,1,8,7,1,6,68
+40356,36,Sales,9,1,3,Male,2,3,2,L,N,Y,Sales Executive,10325,2,Yes,11,1,L,16,N,3,16,7,3,7,49
+40416,58,Research & Development,1,3,4,Male,3,1,2,H,N,N,Research and Design Specialists,2479,4,No,24,1,L,7,N,3,1,0,0,0,41
+40457,34,Production,24,3,1,Male,3,4,2,L,N,Y,Production Supervisors,7241,9,Yes,17,1,L,8,Y,3,7,5,1,5,33
+40572,49,Production,7,2,1,Male,2,2,1,H,Y,N,Machinists,4284,2,No,20,1,L,20,N,3,4,3,1,3,15
+40575,35,Sales,25,3,3,Male,3,3,1,H,N,Y,Sales Executive,8020,0,No,15,3,L,12,Y,2,11,9,6,9,58
+40579,31,Research & Development,20,4,3,Male,3,1,4,H,Y,N,Research and Design Specialists,4821,0,Yes,12,3,H,6,Y,3,5,2,0,3,63
+40689,38,Research & Development,16,4,4,Male,3,2,2,L,N,Y,Manufacturing Director,6553,9,No,14,2,L,14,N,3,1,0,0,0,49
+40736,50,Research & Development,22,2,2,Female,2,5,4,H,Y,Y,Research Director,18740,5,Yes,12,4,L,29,Y,2,27,3,13,8,60
+40799,29,Sales,23,3,2,Female,2,1,2,H,N,N,Sales Representative,2800,9,Yes,19,3,L,5,N,3,3,2,0,2,49
+40814,44,Finance,20,3,2,Female,3,3,2,L,Y,Y,Accountant,9970,6,No,17,1,L,6,Y,1,9,5,1,5,82
+40855,40,Sales,3,2,2,Female,3,2,2,L,Y,N,Sales Executive,5677,1,No,14,3,L,15,Y,3,11,8,5,10,78
+41087,38,Human Resources,2,3,3,Male,4,1,2,L,Y,N,Human Resources,2844,3,No,13,4,L,7,N,4,7,6,5,0,49
+41162,31,Sales,12,3,3,Female,2,1,2,L,N,N,Customercare Representative,2785,1,No,14,3,H,3,N,4,1,0,0,0,49
+41215,30,Research & Development,14,3,3,Male,3,1,1,H,Y,Y,Research and Design Specialists,1274,2,No,13,2,H,1,Y,2,1,0,0,0,51
+41266,26,Research & Development,21,2,1,Male,3,2,2,H,N,Y,Customercare Representative,4741,1,Yes,13,3,H,5,Y,3,5,3,3,3,66
+41432,22,Production,24,2,4,Male,4,1,2,H,N,Y,Machinists,2935,1,Yes,13,2,L,1,Y,2,1,0,0,0,52
+41543,33,Research & Development,13,4,4,Male,4,1,2,L,N,Y,Research and Design Specialists,3143,6,No,19,2,H,14,Y,3,10,8,7,6,60
+41566,27,Production,2,5,1,Male,1,1,2,L,Y,Y,Machinists,4621,2,No,19,4,L,3,Y,3,3,2,1,2,57
+41610,31,Human Resources,5,3,1,Male,2,2,2,H,N,Y,Human Resources,6410,3,No,12,4,H,9,Y,3,2,2,1,0,68
+41645,38,Sales,7,2,2,Male,4,3,1,H,Y,N,IT specialists,6097,7,Yes,18,4,H,7,Y,2,3,4,1,2,75
+41662,29,Finance,19,3,1,Male,3,2,2,L,N,Y,Accountant,9112,3,No,,4,H,8,Y,2,8,6,3,5,40
+41723,50,Finance,19,3,1,Male,3,2,1,L,Y,Y,Accountant,9101,5,Yes,20,4,L,7,Y,2,5,5,2,6,77
+41735,36,Production,17,4,3,Female,4,1,1,L,N,N,Machinists,2743,4,No,16,3,L,18,N,3,17,13,15,14,26
+41742,51,Production,24,2,2,Female,2,1,4,H,N,Y,Machinists,2838,4,No,14,2,L,8,Y,2,7,0,7,7,79
+41847,38,Research & Development,4,2,4,Female,2,3,4,L,N,Y,Manufacturing Director,7756,8,Yes,19,4,L,10,Y,4,5,4,0,2,65
+41908,34,Sales,24,3,4,Male,3,2,2,L,N,Y,Sales Executive,4001,7,Yes,14,3,L,15,Y,3,15,14,0,7,61
+41982,31,Research & Development,2,4,3,Female,3,3,2,H,Y,Y,Manufacturing Director,7143,1,Yes,14,3,L,11,Y,2,11,9,4,10,60
+42042,42,Production,18,3,2,Male,3,1,2,L,N,Y,Machinists,2766,9,No,22,2,L,7,Y,2,5,3,0,4,60
+42142,32,Sales,17,2,3,Female,3,1,2,H,N,Y,Sales Representative,3931,2,No,11,1,L,6,Y,3,4,3,1,2,53
+42182,33,Finance,15,3,1,Female,2,2,3,H,Y,Y,Accountant,6253,7,No,15,2,H,6,Y,2,7,2,1,6,69
+42249,38,Sales,14,4,3,Male,2,3,2,L,Y,Y,Sales Executive,8740,7,Yes,14,2,H,9,Y,3,8,7,2,7,73
+42308,44,Finance,15,3,1,Female,2,3,1,L,Y,Y,Accountant,8160,9,Yes,19,3,L,5,N,3,3,2,1,2,68
+42310,45,Sales,19,2,2,Male,1,2,2,H,N,Y,Customercare Representative,6632,3,No,13,1,L,9,Y,3,8,7,3,1,54
+42353,28,Finance,8,4,2,Female,2,3,2,L,Y,Y,Accountant,8146,8,Yes,19,2,H,8,Y,3,8,2,3,6,55
+42387,37,Research & Development,12,1,3,Male,3,1,2,L,N,Y,Research and Design Specialists,2996,1,Yes,15,4,H,8,Y,3,6,4,1,3,59
+42477,30,Research & Development,15,3,1,Female,3,3,2,L,N,Y,Manufacturing Director,9667,4,No,14,2,H,9,Y,3,7,7,0,2,66
+42485,34,Research & Development,4,4,1,Male,3,1,1,L,N,N,Research and Design Specialists,2972,4,No,13,3,H,1,N,1,1,0,0,0,47
+42524,22,Research & Development,10,2,2,Female,2,1,2,L,Y,N,Research and Design Specialists,2814,8,Yes,14,2,L,4,N,2,4,2,1,3,49
+42628,56,Human Resources,10,4,4,Male,3,5,2,H,N,Y,Manager,19717,8,No,14,1,L,36,Y,3,7,3,7,7,62
+42639,19,Production,10,1,2,Female,3,1,2,L,N,N,Machinists,1483,1,No,14,4,L,1,N,3,1,0,0,0,43
+42650,31,Research & Development,18,1,4,Female,3,2,1,L,Y,N,Manufacturing Director,5238,2,No,20,4,L,9,N,2,5,4,1,4,34
+42688,36,Research & Development,1,1,3,Male,3,2,2,L,Y,Y,Customercare Representative,6586,5,Yes,17,1,L,17,Y,2,16,8,4,11,61
+42719,27,Research & Development,9,3,2,Male,4,2,4,L,Y,Y,Manufacturing Director,6142,8,Yes,20,2,L,6,Y,3,6,2,0,3,64
+42772,29,Research & Development,22,5,3,Female,2,1,2,L,N,N,Research and Design Specialists,2546,5,No,16,2,L,6,N,4,2,2,1,1,7
+42833,31,Research & Development,8,4,3,Male,3,1,3,H,N,N,Research and Design Specialists,2695,0,Yes,18,2,H,3,Y,1,2,2,2,2,75
+42939,31,Sales,15,3,3,Male,2,3,4,H,N,Y,Manager,11557,9,No,21,3,H,10,Y,2,5,4,0,1,67
+42978,44,Research & Development,4,3,3,Female,4,3,4,L,N,Y,Customercare Representative,7879,6,Yes,19,2,L,9,Y,3,8,7,6,7,63
+42996,20,Production,15,3,1,Male,3,1,2,L,N,N,Machinists,2973,8,No,19,2,L,1,N,3,1,0,0,0,44
+43067,47,Sales,25,3,4,Female,3,4,2,H,N,Y,Sales Executive,13770,2,Yes,12,4,L,28,Y,2,22,2,11,13,53
+43223,26,Sales,14,3,3,Male,3,2,2,L,N,N,Sales Executive,4684,9,No,13,1,H,5,N,3,5,3,1,2,48
+43578,58,Research & Development,19,4,1,Male,3,4,1,L,N,Y,Research Director,15787,6,Yes,14,2,H,23,Y,3,2,2,2,2,55
+43657,32,Finance,16,4,1,Male,3,2,2,L,N,Y,Accountant,8059,3,No,17,4,H,9,Y,3,7,5,2,7,25
+43679,49,Research & Development,4,1,3,Male,2,2,4,H,N,Y,Research and Design Specialists,5130,1,No,23,4,H,10,Y,3,10,7,1,7,79
+43704,46,Sales,25,3,3,Female,3,4,4,H,N,Y,Manager,17048,3,No,23,1,H,28,Y,3,26,15,15,9,79
+43824,43,Finance,9,3,1,Male,2,3,2,L,Y,Y,Accountant,8576,2,No,20,3,L,10,N,2,10,3,3,7,85
+43891,32,Research & Development,5,2,4,Female,2,2,4,L,Y,Y,Research and Design Specialists,5878,2,No,12,1,H,12,Y,3,7,1,2,5,74
+44110,52,Research & Development,7,4,3,Male,2,5,3,H,Y,Y,Manager,19999,0,No,14,1,H,34,Y,3,33,18,11,9,81
+44117,27,Research & Development,4,2,3,Female,3,3,3,H,N,N,Manufacturing Director,7412,,,,,,,Y,3,9,7,0,7,75
+44127,37,Research & Development,11,3,3,Female,4,3,1,L,Y,Y,Research Director,13744,7,Yes,25,1,L,16,Y,3,16,11,6,8,56
+44136,38,Research & Development,20,3,3,Female,3,2,2,H,N,Y,Customercare Representative,9824,9,No,19,3,L,18,Y,3,1,0,0,0,52
+44141,50,Research & Development,1,4,2,Male,3,5,2,L,Y,Y,Research Director,19237,2,Yes,11,4,H,29,Y,2,8,1,7,7,78
+44159,23,Research & Development,2,2,4,Male,3,1,2,H,N,Y,Research and Design Specialists,1223,1,No,22,4,L,1,Y,3,1,0,0,1,72
+44193,31,Sales,19,4,1,Male,3,2,1,L,N,N,Sales Executive,5617,2,Yes,11,3,H,10,N,3,10,7,0,8,23
+44243,44,Sales,19,5,1,Female,3,2,1,H,Y,Y,Sales Executive,4768,2,No,12,3,H,11,Y,2,1,0,0,0,51
+44266,29,Production,9,2,4,Female,2,2,1,L,N,Y,Machinists,4193,0,Yes,12,4,L,10,N,3,9,5,0,8,40
+44299,29,Research & Development,3,4,4,Female,2,1,2,L,N,N,Research and Design Specialists,3785,9,No,14,2,L,5,N,1,5,4,0,4,44
+44416,51,Production,13,3,2,Male,3,4,4,L,N,N,Production Supervisors,5737,8,No,18,3,L,6,Y,2,2,5,2,5,36
+44582,34,Production,1,3,2,Male,3,2,1,L,N,N,Machinists,5429,5,No,13,1,H,10,N,3,8,7,7,7,47
+44598,46,Sales,18,3,3,Male,3,3,2,L,Y,Y,Sales Executive,10368,9,Yes,12,2,L,13,Y,2,10,6,0,3,61
+44670,30,Sales,19,4,3,Female,2,2,1,L,Y,N,Sales Executive,6696,5,No,15,3,L,9,N,2,6,3,0,1,26
+44722,51,Finance,2,3,2,Male,3,2,2,L,N,N,Accountant,9560,8,No,15,4,H,5,Y,1,10,7,3,2,38
+44749,50,Sales,22,4,2,Male,3,2,2,L,N,Y,Sales Executive,6728,5,No,12,4,L,12,N,3,6,3,0,1,46
+44779,42,Sales,14,4,2,Male,3,2,2,H,N,Y,Sales Executive,5155,1,No,13,4,L,9,Y,4,6,4,1,5,62
+44860,36,Research & Development,4,3,3,Female,3,2,2,H,Y,Y,Manufacturing Director,5228,8,No,15,1,L,10,Y,3,9,7,0,5,60
+44948,27,Sales,1,1,3,Male,3,2,2,H,N,Y,Sales Executive,4342,7,No,19,2,L,5,Y,3,4,2,1,1,53
+45009,25,Finance,7,4,1,Male,3,3,4,H,Y,Y,Accountant,9768,1,Yes,16,4,L,8,Y,1,7,2,1,7,85
+45087,31,Finance,19,4,1,Male,3,2,1,L,Y,Y,Accountant,8585,6,No,17,1,L,5,Y,1,2,4,1,6,52
+45294,36,Human Resources,23,3,3,Male,3,1,2,H,Y,Y,Human Resources,2143,2,No,13,2,L,8,Y,3,5,2,0,4,54
+45424,57,Research & Development,18,2,3,Male,4,3,2,H,N,Y,Customercare Representative,9439,3,Yes,16,2,L,12,Y,1,5,3,1,4,54
+45428,28,Research & Development,16,3,3,Female,3,2,3,L,Y,Y,Research and Design Specialists,3660,3,No,13,4,H,10,Y,4,8,7,1,7,71
+45470,43,Research & Development,12,3,1,Male,3,1,3,L,Y,Y,Research and Design Specialists,2438,3,No,13,3,H,7,Y,2,3,2,1,2,76
+45605,29,IT_Support,8,3,2,Female,3,5,2,L,Y,Y,IT specialists,9224,4,No,17,1,H,7,Y,2,8,2,1,4,78
+45619,40,Research & Development,18,2,3,Female,2,2,2,L,Y,Y,Research and Design Specialists,4422,7,Yes,13,4,L,16,Y,1,1,1,0,0,59
+45635,34,Sales,4,4,4,Male,3,3,2,L,N,N,Sales Executive,8628,7,No,18,3,L,9,N,2,8,7,1,1,48
+45701,39,Research & Development,21,3,4,Female,3,3,2,H,N,Y,Manufacturing Director,10880,1,Yes,13,3,L,21,N,3,21,6,2,8,46
+45888,35,Sales,7,2,1,Male,1,2,1,L,Y,N,Sales Executive,5440,9,Yes,14,4,L,7,N,2,2,2,2,2,40
+46103,27,Research & Development,9,3,3,Male,2,1,1,H,N,Y,Research and Design Specialists,2566,1,Yes,15,4,L,1,Y,2,1,1,0,1,55
+46124,33,Research & Development,17,4,4,Female,3,3,2,H,N,Y,Manager,11878,6,No,11,2,H,12,Y,3,10,6,8,8,72
+46232,18,Research & Development,16,3,2,Female,3,1,2,L,Y,N,Research and Design Specialists,1514,9,No,16,3,H,0,Y,1,0,0,0,0,50
+46233,30,Human Resources,15,3,3,Male,3,1,2,H,Y,Y,Human Resources,2064,2,No,21,1,H,6,Y,4,5,3,1,3,59
+46319,45,Production,11,3,2,Male,3,2,1,H,N,Y,Machinists,2348,8,No,18,3,L,20,Y,1,17,9,0,15,51
+46322,40,Production,1,3,1,Male,3,1,2,L,N,Y,Machinists,2166,6,Yes,14,2,L,10,Y,1,4,2,0,3,57
+46339,30,IT_Support,2,3,2,Female,3,1,3,L,Y,Y,IT specialists,6985,6,No,15,3,L,5,Y,1,5,5,2,7,73
+46351,43,Sales,9,3,4,Female,3,4,1,L,N,Y,Manager,16064,5,Yes,22,3,L,22,N,3,17,13,1,9,34
+46367,49,Research & Development,23,4,4,Male,2,5,2,L,N,N,Research Director,19502,5,Yes,17,3,L,31,N,3,31,9,0,9,46
+46466,40,Research & Development,19,3,2,Female,3,2,2,L,N,N,Customercare Representative,4448,6,No,12,2,H,15,N,3,7,4,7,7,49
+46473,41,Research & Development,5,4,1,Female,2,4,1,L,N,Y,Manufacturing Director,13570,4,No,23,3,H,21,N,3,20,7,0,10,31
+46519,28,Finance,17,4,2,Female,2,3,1,H,Y,Y,Accountant,9471,2,Yes,15,2,L,6,Y,1,5,5,2,2,78
+46547,45,Production,8,2,3,Male,3,2,2,L,Y,Y,Machinists,4447,8,No,12,2,L,9,Y,2,9,7,0,8,52
+46628,30,IT_Support,6,4,2,Female,2,2,2,L,Y,Y,IT specialists,6026,1,Yes,18,1,L,6,Y,2,8,5,2,7,62
+46737,37,Production,10,3,3,Female,3,1,4,H,N,Y,Machinists,3452,6,No,20,2,H,17,Y,3,5,4,0,3,63
+46772,33,Research & Development,11,3,1,Male,3,1,2,L,N,Y,Research and Design Specialists,2781,1,No,13,2,L,15,Y,3,14,10,4,10,59
+46895,43,Research & Development,21,4,2,Male,2,4,2,H,N,Y,Research Director,16627,5,Yes,14,3,L,21,Y,2,1,0,0,0,60
+46896,39,Research & Development,25,1,3,Male,3,3,1,L,N,Y,Research Director,13464,6,No,21,3,H,9,Y,3,4,3,2,2,55
+47051,30,Sales,10,5,3,Male,3,2,1,L,N,N,Sales Executive,5304,6,No,23,4,L,10,N,2,8,7,7,7,47
+47079,55,Finance,11,4,1,Male,2,3,1,L,Y,Y,Accountant,8117,6,Yes,15,3,L,5,Y,2,6,6,3,2,58
+47117,51,Finance,4,3,2,Female,3,3,2,H,Y,Y,Accountant,8694,2,Yes,16,1,L,10,Y,3,6,5,3,7,85
+47130,31,Production,1,4,4,Male,3,2,1,L,Y,N,Machinists,5915,3,No,22,4,L,10,Y,2,7,7,1,7,33
+47141,34,Research & Development,23,3,3,Female,2,3,1,H,Y,Y,Manager,11631,2,No,12,4,H,14,Y,3,11,10,5,8,62
+47172,30,Research & Development,8,3,3,Male,3,2,2,H,N,Y,Manufacturing Director,9957,9,No,15,3,L,7,N,2,6,2,0,2,45
+47215,47,Research & Development,8,2,1,Female,3,2,2,L,N,N,Manufacturing Director,5070,5,No,13,3,L,20,N,3,5,0,0,4,41
+47252,29,Finance,10,4,2,Female,2,2,4,L,N,Y,Accountant,8270,2,Yes,16,1,H,8,N,1,9,5,3,7,43
+47286,27,Sales,7,3,4,Female,2,2,2,L,N,N,Sales Executive,5769,8,Yes,11,4,H,6,Y,3,6,2,4,4,50
+47380,50,Research & Development,7,5,4,Female,2,3,1,L,Y,Y,Research Director,13269,7,No,15,3,L,19,N,3,14,11,1,11,38
+47556,34,Research & Development,21,4,4,Male,3,1,2,H,N,Y,Research and Design Specialists,2996,4,No,14,3,H,10,Y,3,4,3,1,3,73
+47604,48,Research & Development,9,3,4,Male,2,5,2,L,Y,Y,Research Director,19665,3,No,12,4,H,29,Y,3,22,10,12,9,78
+47680,48,Sales,15,5,2,Female,3,2,4,H,N,Y,Sales Executive,4051,2,No,14,1,H,14,Y,3,9,7,6,7,64
+47942,36,Research & Development,7,4,1,Male,3,2,2,H,Y,Y,Manufacturing Director,7779,4,No,20,1,L,18,Y,3,11,9,0,9,59
+47990,44,Research & Development,12,1,2,Male,3,3,2,L,N,Y,Manufacturing Director,10209,6,Yes,18,2,H,16,Y,2,2,2,2,2,66
+48160,32,Sales,24,1,3,Female,3,1,2,H,N,N,Sales Representative,2827,1,No,12,3,L,1,N,3,1,0,0,0,49
+48217,42,Research & Development,19,4,3,Male,3,1,1,L,N,N,Research and Design Specialists,2936,2,No,22,2,H,10,Y,2,6,3,3,3,58
+48238,55,Sales,9,3,1,Male,4,2,3,L,Y,Y,IT specialists,6996,9,Yes,19,3,H,10,Y,3,5,4,1,5,84
+48297,54,Research & Development,13,2,1,Female,3,2,1,L,Y,Y,Research and Design Specialists,2897,5,No,11,3,L,9,Y,2,4,3,2,3,51
+48316,33,Sales,24,3,4,Female,3,2,2,L,N,Y,Sales Executive,5147,3,No,15,4,L,13,Y,2,11,7,1,7,73
+48370,44,Research & Development,12,4,2,Male,4,2,3,L,Y,Y,Customercare Representative,5033,8,No,15,4,H,10,Y,3,2,0,2,2,71
+48577,37,Research & Development,6,4,3,Male,3,2,2,H,N,Y,Manufacturing Director,4197,2,Yes,12,4,L,18,Y,2,1,0,0,1,60
+48813,28,Production,7,3,3,Male,2,1,1,L,N,N,Machinists,2367,6,No,12,1,H,6,N,2,4,1,0,3,18
+48866,58,Research & Development,14,4,3,Female,2,3,2,L,N,Y,Manufacturing Director,10008,2,Yes,14,4,L,31,Y,2,10,9,5,9,59
+48877,45,Sales,17,4,2,Female,2,2,1,L,Y,Y,Sales Executive,5593,4,No,13,4,L,15,Y,3,15,10,4,12,55
+48923,28,Research & Development,18,3,3,Male,2,1,4,H,Y,Y,Research and Design Specialists,2703,8,Yes,14,4,L,3,Y,3,3,1,0,2,67
+49036,45,Sales,7,3,1,Male,2,2,2,L,N,N,Sales Executive,4385,9,No,15,1,L,10,N,3,10,7,4,5,41
+49089,37,Production,25,3,1,Male,3,1,1,L,N,Y,Production Supervisors,6698,5,No,18,4,L,5,Y,3,6,6,1,4,38
+49181,36,Sales,2,4,1,Male,3,2,1,L,Y,Y,Sales Executive,5079,5,No,13,4,L,12,Y,3,7,7,0,7,51
+49192,35,Sales,21,3,4,Male,2,3,2,L,Y,Y,Sales Executive,10306,9,No,17,3,L,15,Y,3,13,12,6,0,54
+49207,28,Finance,19,3,2,Male,3,2,1,L,Y,Y,Accountant,8631,1,Yes,17,3,L,10,N,1,5,5,3,4,59
+49208,43,Sales,9,4,4,Female,2,3,2,H,N,Y,Sales Executive,10231,4,No,14,4,L,23,Y,4,21,7,15,17,73
+49252,30,Research & Development,3,3,4,Male,3,1,2,L,N,N,Research and Design Specialists,3579,2,Yes,21,1,H,12,N,3,11,9,5,7,49
+49353,36,Research & Development,3,4,4,Female,3,3,4,L,N,Y,Customercare Representative,7094,6,No,12,1,L,10,Y,3,7,7,1,7,65
+49402,35,Research & Development,7,3,3,Male,3,3,2,H,Y,Y,Manufacturing Director,10221,9,No,21,2,L,17,Y,4,8,5,1,6,59
+49494,43,Research & Development,15,3,3,Male,1,5,2,H,N,Y,Research Director,19740,3,No,14,2,L,25,Y,3,,,,,66
+49583,28,Production,14,4,3,Male,3,1,2,L,N,N,Machinists,3441,1,Yes,13,3,L,2,N,2,2,2,2,2,46
+49618,51,Research & Development,5,3,4,Male,1,2,4,H,N,Y,Manufacturing Director,5482,5,No,18,4,H,13,Y,3,4,1,1,2,74
+49647,51,Finance,23,3,1,Male,2,3,1,L,Y,N,Accountant,8012,2,Yes,15,2,L,5,Y,1,2,7,1,5,59
+49665,26,Human Resources,6,1,3,Female,3,1,1,L,N,N,Human Resources,2942,1,No,23,4,L,8,N,3,8,7,5,7,39
+49734,40,Research & Development,16,2,1,Male,3,2,1,H,N,Y,Research and Design Specialists,3319,1,No,17,1,L,9,Y,3,9,8,4,7,58
+49816,41,Human Resources,8,4,2,Male,2,5,2,H,N,Y,Manager,19141,7,No,15,2,L,23,Y,2,21,6,12,6,61
+49902,41,Research & Development,14,3,4,Male,3,1,2,L,Y,Y,Research and Design Specialists,2782,7,No,22,1,L,12,Y,3,5,3,1,0,57
+49940,23,Sales,24,3,3,Male,3,1,2,L,Y,N,Sales Representative,2275,8,Yes,21,2,L,3,N,3,3,2,0,2,44
+50036,38,Production,15,2,4,Female,2,1,2,L,N,Y,Machinists,3702,5,No,11,2,H,5,Y,3,5,4,0,4,52
+50037,35,Research & Development,20,3,4,Male,3,3,1,H,N,Y,Customercare Representative,7632,4,Yes,12,3,L,10,Y,3,8,7,0,0,55
+50038,25,Sales,25,3,3,Male,2,2,2,H,N,Y,Sales Executive,5744,1,Yes,11,4,H,6,N,3,6,4,0,3,69
+50095,34,Research & Development,9,3,4,Male,2,2,4,H,N,Y,Customercare Representative,5343,7,No,20,3,H,14,Y,3,13,9,4,9,79
+50176,28,Research & Development,14,3,3,Female,3,1,2,H,Y,Y,Research and Design Specialists,2377,2,No,18,2,L,6,Y,3,2,2,2,2,54
+50266,34,Production,21,3,1,Male,1,2,2,L,N,Y,Machinists,6074,1,Yes,24,4,L,9,N,3,9,7,0,6,32
+50294,41,Sales,9,3,3,Female,3,2,2,L,N,Y,Sales Executive,4103,3,No,17,4,L,10,Y,3,9,3,1,7,62
+50366,28,Finance,7,4,1,Male,2,2,1,H,N,Y,Accountant,9022,8,Yes,16,3,L,10,N,3,7,5,3,6,30
+50380,25,Sales,3,1,3,Male,1,1,2,L,N,N,Sales Representative,1118,6,Yes,14,4,L,1,Y,3,1,0,1,0,50
+50384,49,Research & Development,24,4,4,Male,3,2,2,H,N,Y,Manufacturing Director,6804,1,Yes,15,1,L,7,Y,3,7,7,1,7,59
+50405,40,Finance,8,4,1,Male,2,2,1,L,N,Y,Accountant,9255,7,No,15,2,H,9,Y,3,8,4,1,6,35
+50441,38,Finance,25,4,2,Male,3,3,1,L,N,Y,Accountant,8686,6,No,16,4,H,5,Y,1,7,3,2,6,39
+50458,40,Sales,17,3,3,Male,3,2,4,L,Y,Y,Sales Executive,8396,3,No,14,2,L,8,Y,2,7,7,7,5,65
+50512,33,Sales,17,4,4,Male,3,2,2,L,N,Y,Sales Executive,5505,9,No,14,3,L,6,Y,3,6,2,0,4,60
+50652,57,Research & Development,7,4,4,Male,3,2,1,H,N,Y,Customercare Representative,6755,2,No,11,3,L,15,Y,3,3,2,1,2,55
+50665,33,Sales,6,3,1,Male,4,2,2,H,Y,Y,Sales Executive,4037,1,No,22,1,L,9,Y,3,9,8,0,8,61
+50861,36,Human Resources,20,1,2,Male,2,2,2,L,Y,Y,Human Resources,3886,7,No,21,4,H,10,Y,2,10,1,0,8,78
+50900,30,Production,14,3,3,Male,3,1,2,H,N,N,Machinists,2097,4,No,15,3,L,9,Y,1,5,3,1,4,60
+50946,60,Research & Development,12,3,1,Female,3,5,2,L,N,Y,Manager,19566,5,No,11,4,L,33,N,1,29,8,11,10,44
+50994,42,Research & Development,5,3,2,Male,4,2,4,L,Y,N,Customercare Representative,5538,4,No,18,3,H,10,Y,2,0,0,0,0,67
+51006,39,Research & Development,5,2,1,Male,3,2,1,H,N,Y,Manufacturing Director,4534,6,No,11,1,L,9,Y,3,8,7,1,7,51
+51051,33,Sales,20,3,1,Female,3,2,1,L,N,N,Sales Executive,5324,9,No,15,3,L,6,N,3,3,2,0,2,20
+51064,40,Production,19,4,1,Male,3,1,2,L,Y,Y,Machinists,2406,3,No,19,3,L,8,Y,2,1,0,0,0,72
+51150,29,Research & Development,22,1,3,Male,2,1,1,L,N,N,Research and Design Specialists,2389,1,Yes,13,3,L,4,N,2,4,3,0,1,15
+51197,48,Research & Development,7,3,4,Female,3,4,1,L,N,Y,Manager,17174,8,No,11,2,H,24,N,3,22,17,4,7,34
+51260,31,Research & Development,16,4,3,Male,1,2,4,H,N,N,Manufacturing Director,4345,0,No,12,4,H,6,Y,3,5,4,1,4,69
+51270,29,Research & Development,25,1,2,Female,1,1,2,L,Y,N,Research and Design Specialists,2168,9,Yes,18,1,L,6,N,2,5,4,1,3,41
+51294,31,Research & Development,2,2,3,Male,2,1,1,H,N,N,Research and Design Specialists,2321,6,Yes,22,1,L,4,N,3,3,2,1,2,47
+51295,33,Research & Development,15,5,4,Male,3,2,1,H,N,Y,Customercare Representative,6388,5,Yes,17,1,H,14,Y,3,0,0,0,0,58
+51302,24,Research & Development,21,,,Male,4,1,2,H,N,Y,Research and Design Specialists,2725,3,Yes,11,2,L,6,Y,3,6,5,1,4,59
+51344,28,Sales,14,2,2,Male,2,3,2,H,Y,Y,Customercare Representative,8722,8,No,12,1,L,10,Y,2,10,7,1,9,53
+51364,30,Production,18,2,4,Male,2,1,2,L,N,N,Machinists,2206,1,No,13,1,L,10,Y,3,10,0,1,8,50
+51408,52,IT_Support,21,3,2,Male,2,3,3,H,Y,Y,IT specialists,9028,3,Yes,19,4,L,9,Y,3,5,2,3,4,65
+51498,20,Research & Development,5,1,4,Male,3,1,2,L,N,N,Research and Design Specialists,1009,9,Yes,11,4,L,1,N,3,1,0,1,1,36
+51673,47,Sales,15,4,4,Male,3,2,2,L,N,N,Sales Executive,4960,1,No,12,4,L,20,N,3,7,7,1,7,48
+51685,50,Human Resources,3,3,1,Male,3,5,3,H,N,Y,Manager,18200,5,No,11,3,H,32,Y,3,32,5,10,7,86
+51737,51,Finance,17,4,1,Male,2,3,2,L,N,Y,Accountant,9008,3,Yes,18,4,H,6,Y,3,10,7,3,3,29
+51740,30,Sales,18,2,3,Male,3,3,2,L,Y,Y,Sales Executive,7264,8,No,11,1,L,10,Y,4,8,4,7,7,70
+51763,52,Sales,13,4,1,Male,3,1,1,L,N,N,Sales Representative,3482,5,No,15,2,H,16,N,2,9,8,0,0,37
+51840,26,Research & Development,5,1,4,Male,4,3,3,L,N,N,Machinists,5100,6,No,15,1,H,6,Y,1,4,7,1,3,75
+51938,35,Sales,19,4,4,Male,3,3,3,L,Y,Y,Sales Executive,7823,4,No,13,2,H,12,Y,3,10,9,0,8,81
+51972,25,Research & Development,25,3,1,Female,3,2,2,H,N,N,Manufacturing Director,4898,0,No,12,4,H,5,Y,3,4,2,1,2,68
+52005,38,Sales,1,2,4,Male,2,2,3,H,N,Y,Sales Executive,5249,3,No,18,4,H,13,Y,3,8,7,7,5,83
+52061,22,Production,3,1,2,Male,1,1,1,L,Y,Y,Machinists,2451,4,No,15,1,L,4,Y,2,4,3,1,1,58
+52076,32,Sales,7,4,2,Male,3,2,3,H,Y,Y,Sales Executive,4403,3,No,11,3,H,8,Y,2,5,2,0,3,81
+52138,29,Production,21,1,4,Female,3,1,2,H,N,Y,Machinists,3180,8,No,13,3,H,4,Y,3,3,2,0,2,66
+52205,33,Sales,13,3,1,Female,3,3,2,L,N,Y,Sales Executive,8564,1,Yes,20,3,L,11,N,2,0,0,0,0,46
+52246,33,Sales,25,5,4,Male,4,3,4,L,Y,Y,Sales Executive,8380,5,Yes,14,4,L,10,Y,3,9,8,0,8,79
+52311,38,Research & Development,18,3,4,Female,2,2,1,L,Y,Y,Research and Design Specialists,2133,7,Yes,16,3,L,20,Y,3,20,11,0,7,55
+52351,39,Research & Development,12,2,3,Male,3,3,2,H,Y,Y,Customercare Representative,10920,9,No,21,2,H,13,N,3,6,4,0,5,41
+52386,43,Finance,5,3,1,Male,3,3,1,L,N,Y,Accountant,8917,6,No,19,3,L,7,N,1,2,6,1,2,50
+52431,27,Research & Development,12,4,1,Female,2,1,1,H,N,Y,Research and Design Specialists,2187,4,No,12,3,L,6,Y,2,5,3,0,3,58
+52464,53,Finance,14,3,2,Male,3,3,2,L,N,Y,Accountant,9596,3,Yes,19,4,L,5,N,1,9,6,1,7,45
+52587,29,Sales,24,3,4,Male,3,1,2,H,N,Y,Sales Representative,2297,3,No,14,4,L,2,Y,3,2,2,2,2,70
+52630,38,Research & Development,22,3,1,Male,2,2,2,H,Y,Y,Customercare Representative,6288,6,No,15,3,L,13,Y,2,4,3,1,2,70
+52665,40,Research & Development,12,3,3,Male,3,1,2,L,Y,Y,Research and Design Specialists,2345,4,No,14,3,H,8,Y,4,3,1,1,2,68
+52701,34,Research & Development,25,3,3,Female,4,1,2,L,Y,N,Research and Design Specialists,2585,4,No,17,4,H,2,N,2,1,0,0,0,44
+52760,48,Production,24,2,4,Male,4,1,2,L,N,Y,Machinists,2559,4,No,11,3,L,7,Y,2,1,0,0,0,62
+52765,40,Research & Development,10,4,1,Male,3,4,2,L,N,Y,Manager,16823,2,No,11,1,H,22,N,3,19,7,11,16,46
+52771,33,Finance,16,3,1,Female,3,2,4,L,N,Y,Accountant,8833,6,Yes,18,4,H,8,N,3,2,2,2,6,35
+52840,35,Sales,11,4,2,Female,2,1,2,H,Y,N,Sales Representative,2430,9,No,23,1,H,6,N,3,5,3,4,2,43
+53023,37,Sales,15,4,1,Male,2,3,1,H,Y,Y,Sales Executive,10609,4,No,11,3,L,17,Y,1,14,1,11,7,51
+53081,35,Production,20,4,2,Female,4,3,3,L,N,Y,Production Supervisors,6058,1,No,18,1,H,7,Y,2,9,4,1,2,33
+53151,21,Sales,23,2,1,Male,3,1,2,H,N,Y,Sales Representative,2610,1,No,24,3,H,3,Y,2,3,2,2,2,66
+53176,45,Sales,18,2,3,Female,3,2,4,H,N,Y,Sales Executive,5006,4,Yes,11,1,H,9,Y,,,,,,69
+53267,31,Finance,1,3,2,Female,2,3,2,H,Y,Y,Accountant,9830,2,Yes,20,3,L,5,Y,3,2,5,1,3,64
+53303,35,Sales,22,4,4,Male,3,2,1,L,Y,N,Sales Executive,4581,8,Yes,24,1,L,13,N,4,11,9,6,7,29
+53366,44,Finance,7,4,2,Male,3,3,4,L,N,Y,Accountant,8173,7,Yes,15,4,H,6,N,1,9,6,2,7,32
+53448,52,Production,13,4,3,Female,3,1,1,L,N,N,Machinists,2950,2,No,13,3,L,12,N,1,5,4,0,4,31
+53542,30,Production,24,2,4,Male,3,1,2,L,Y,Y,Machinists,3748,4,No,13,3,L,12,Y,2,12,8,1,7,70
+53571,55,Research & Development,2,3,3,Male,2,5,4,L,Y,Y,Research Director,19038,4,No,12,2,L,34,Y,3,1,0,0,0,74
+53627,27,Production,22,1,1,Male,3,1,2,L,N,N,Machinists,3468,9,No,12,4,L,6,N,3,2,2,2,2,42
+53696,31,Sales,22,4,1,Female,2,2,2,L,N,N,Sales Executive,5468,5,No,14,1,H,13,N,3,12,7,5,7,45
+53808,35,Research & Development,9,3,3,Male,2,3,2,H,N,Y,Manufacturing Director,10274,8,No,18,2,H,15,Y,4,7,7,6,4,93
+53821,33,Production,15,4,1,Male,2,2,3,L,N,N,Production Supervisors,5758,7,Yes,15,1,L,9,N,1,2,2,1,5,37
+53827,28,Finance,17,4,1,Female,3,2,3,H,N,Y,Accountant,8716,2,Yes,16,1,H,5,N,2,10,3,3,4,49
+53857,29,Research & Development,12,1,1,Male,3,2,4,H,N,Y,Customercare Representative,8853,1,No,19,4,H,6,Y,4,6,4,1,3,67
+54053,42,Production,4,3,3,Female,4,2,4,L,Y,Y,Machinists,5231,1,Yes,13,2,H,17,Y,2,5,3,1,3,74
+54055,19,Human Resources,14,2,1,Male,2,1,1,L,N,N,Human Resources,2564,1,No,12,3,L,1,N,4,1,0,0,0,29
+54187,36,Sales,4,4,2,Female,2,2,2,L,N,N,Sales Executive,5673,8,Yes,13,1,H,10,N,3,10,9,1,7,43
+54222,47,Finance,12,4,1,Female,3,3,3,H,N,Y,Accountant,9542,2,No,15,3,H,9,N,3,7,7,3,4,48
+54360,40,Research & Development,25,3,3,Male,3,2,4,L,Y,Y,Research and Design Specialists,4661,3,No,13,3,L,9,Y,3,9,8,8,8,67
+54413,42,Production,8,3,2,Male,1,2,2,H,N,N,Machinists,4272,7,No,19,1,L,16,N,3,1,0,0,0,49
+54456,36,Sales,1,2,2,Male,3,2,3,H,Y,Y,Sales Executive,6201,5,Yes,14,4,H,18,Y,2,18,14,4,11,87
+54481,40,Production,14,4,1,Female,2,4,1,L,N,Y,Production Supervisors,6377,2,Yes,18,4,L,6,N,1,10,7,2,7,39
+54516,45,Sales,9,4,3,Female,3,2,1,L,Y,Y,Sales Executive,5154,2,No,22,2,H,10,Y,4,8,7,5,7,55
+54535,42,Research & Development,10,3,3,Male,3,3,4,L,Y,Y,Research Director,13348,4,No,13,2,L,18,Y,4,13,7,5,7,69
+54542,18,Production,14,1,3,Male,3,1,1,H,N,Y,Machinists,1904,8,No,12,4,L,0,Y,3,0,0,0,0,55
+54630,54,Finance,23,4,2,Male,2,3,3,L,Y,Y,Accountant,8424,4,No,19,1,L,7,Y,3,2,5,3,3,55
+54748,54,Production,25,4,3,Female,3,2,2,H,N,N,Machinists,3780,7,No,11,3,L,19,Y,3,1,0,0,0,60
+54888,39,Production,16,3,2,Male,4,2,1,L,N,N,Production Supervisors,5880,6,No,18,1,L,7,N,1,2,4,3,7,30
+54953,46,Sales,8,3,1,Male,3,3,1,L,N,Y,Sales Executive,10096,7,No,11,1,L,28,N,4,7,7,4,3,37
+55130,48,Finance,23,3,2,Female,3,2,2,L,Y,Y,Accountant,8836,4,No,18,3,L,7,N,2,4,4,1,6,75
+55184,45,Sales,10,3,4,Female,2,3,2,L,Y,N,Sales Executive,8865,6,No,12,4,L,23,Y,3,19,7,12,8,50
+55236,32,Production,18,3,4,Male,3,1,2,L,Y,Y,Machinists,2314,8,No,12,2,L,4,Y,3,3,0,0,2,68
+55268,58,Research & Development,21,4,4,Female,3,3,1,L,Y,Y,Customercare Representative,10312,1,No,12,4,L,40,N,2,40,10,15,6,26
+55269,52,Research & Development,18,4,3,Male,2,2,2,L,N,N,Research and Design Specialists,4941,2,No,15,1,L,11,N,2,8,2,7,7,43
+55325,22,Research & Development,22,2,4,Male,3,1,2,L,Y,Y,Research and Design Specialists,3375,8,No,12,4,L,4,Y,4,3,2,1,2,66
+55454,46,Research & Development,9,4,3,Female,3,2,2,L,N,N,Manufacturing Director,5258,2,No,14,3,L,7,N,4,1,0,0,0,48
+55502,55,Finance,12,3,1,Male,3,2,4,L,Y,Y,Accountant,8618,2,Yes,15,4,L,8,Y,2,3,6,3,5,73
+55523,31,Research & Development,10,2,3,Male,3,1,1,L,N,N,Research and Design Specialists,3065,6,Yes,13,4,H,4,N,4,4,2,2,3,39
+55643,38,Sales,3,3,1,Male,2,1,2,L,Y,Y,Sales Representative,2858,5,No,14,1,L,20,Y,2,1,0,0,0,54
+55735,27,Research & Development,24,3,4,Female,2,1,2,L,Y,Y,Research and Design Specialists,4774,1,No,19,4,H,8,Y,2,7,6,7,3,60
+55903,38,Human Resources,11,4,3,Male,3,2,4,L,N,Y,Human Resources,6077,3,No,11,3,H,10,Y,3,6,3,1,2,64
+55993,56,Production,25,2,4,Male,3,1,2,L,Y,Y,Machinists,2339,8,No,11,4,L,14,Y,1,10,9,9,8,53
+56099,50,Research & Development,8,3,3,Female,3,5,2,L,Y,Y,Manager,19926,3,No,15,2,L,21,N,3,5,4,4,4,49
+56104,28,Production,23,2,3,Male,2,1,1,H,Y,N,Machinists,2561,8,No,11,3,L,8,N,2,0,0,0,0,38
+56246,27,Sales,24,3,3,Female,4,1,1,H,Y,N,Sales Representative,2534,3,No,14,2,H,5,N,3,1,0,0,0,39
+56262,47,Research & Development,17,1,3,Female,3,3,2,L,Y,Y,Research Director,11957,7,No,18,1,L,14,Y,1,13,8,5,12,60
+56380,56,Research & Development,25,4,3,Male,3,2,2,L,Y,Y,Customercare Representative,6306,9,No,21,1,L,13,Y,2,13,12,1,9,57
+56386,44,Research & Development,7,2,3,Male,4,5,4,L,Y,Y,Manager,19190,6,No,14,4,L,26,Y,2,25,9,14,13,65
+56409,38,Research & Development,23,3,2,Male,1,2,1,L,Y,N,Customercare Representative,5811,6,Yes,16,3,L,15,N,3,1,0,1,0,39
+56434,47,Production,6,4,2,Female,3,1,2,L,Y,Y,Machinists,2105,2,No,12,3,H,7,Y,3,2,2,2,0,61
+56439,29,Research & Development,24,3,1,Male,3,2,4,L,Y,N,Customercare Representative,5373,6,No,12,1,L,6,Y,2,5,3,0,2,74
+56684,32,Sales,20,3,2,Female,3,3,1,H,N,N,Sales Executive,8998,1,No,14,4,L,9,Y,3,9,8,3,7,58
+56762,41,Sales,25,3,1,Male,3,2,2,L,Y,Y,Sales Executive,9355,1,No,18,3,L,8,N,3,8,7,7,7,45
+56772,29,Finance,24,4,2,Female,2,2,1,L,N,Y,Accountant,7309,7,No,20,1,H,9,N,2,2,2,3,6,29
+56780,30,Sales,25,3,2,Male,2,2,1,L,N,Y,Sales Executive,9714,8,No,11,4,L,10,N,3,10,8,6,7,32
+56976,34,Research & Development,15,4,4,Male,2,2,3,H,N,N,Manufacturing Director,5957,6,No,13,2,H,13,Y,3,11,9,5,9,84
+57036,35,Production,19,3,2,Male,3,3,3,L,N,Y,Production Supervisors,6854,6,No,19,1,H,7,N,3,2,6,1,4,31
+57052,44,Production,19,3,2,Male,3,2,1,H,N,Y,Machinists,2042,4,No,12,3,H,17,N,4,3,2,1,2,64
+57068,29,Production,5,3,4,Male,3,1,4,L,Y,Y,Machinists,2062,2,No,14,2,H,11,Y,3,3,2,1,2,65
+57108,40,Research & Development,19,3,2,Female,3,2,2,L,N,N,Research and Design Specialists,5605,1,No,11,1,L,20,N,3,20,7,2,13,44
+57114,32,Research & Development,23,3,1,Male,3,2,4,H,N,Y,Manufacturing Director,6162,1,Yes,22,2,L,9,Y,3,9,8,7,8,55
+57203,37,Sales,17,4,1,Male,3,1,2,H,N,N,Sales Manager,2793,4,No,17,3,L,13,Y,3,9,8,5,8,59
+57253,56,Sales,22,5,4,Female,2,2,3,L,Y,Y,Sales Executive,5380,4,No,16,3,L,6,Y,3,0,0,0,0,83
+57307,45,Human Resources,13,4,2,Male,3,1,1,L,Y,Y,Human Resources,2177,4,No,16,1,L,6,Y,3,6,3,0,4,55
+57352,41,IT_Support,11,3,1,Male,3,4,4,L,Y,Y,IT specialists,6073,2,No,18,4,L,6,Y,2,7,2,2,7,79
+57455,48,Research & Development,15,3,4,Male,2,5,2,H,Y,Y,Research Director,18265,8,No,12,3,L,25,Y,4,1,0,0,0,72
+57502,34,Human Resources,17,3,2,Female,3,3,1,L,N,Y,Human Resources,9950,9,Yes,15,3,L,11,N,3,3,2,0,2,16
+57527,34,Sales,1,3,1,Male,4,2,1,L,N,N,Sales Executive,5304,8,Yes,13,2,L,9,N,2,5,2,0,4,39
+57601,28,Research & Development,8,2,1,Female,1,1,2,L,N,N,Research and Design Specialists,2216,3,Yes,13,4,L,10,N,3,7,7,3,7,48
+57632,39,Production,18,1,3,Female,3,1,2,H,N,Y,Machinists,3755,1,No,11,1,H,8,Y,3,8,3,0,7,62
+57880,55,Research & Development,5,3,1,Male,2,1,2,L,N,N,Research and Design Specialists,3537,3,No,12,4,L,8,N,3,4,2,1,2,44
+57884,29,Sales,10,3,1,Male,2,2,2,H,N,Y,Sales Executive,6644,2,No,19,2,H,10,Y,3,0,0,0,0,66
+57914,49,Finance,10,3,1,Male,3,2,3,H,N,Y,Accountant,9050,7,Yes,18,1,H,10,N,3,9,6,2,6,31
+57989,24,Sales,7,2,1,Female,3,2,2,H,N,Y,Sales Executive,4999,0,No,21,1,H,4,Y,2,3,2,0,2,66
+57995,31,Sales,15,4,2,Male,2,1,2,L,Y,Y,Sales Representative,2329,4,No,15,2,L,13,Y,4,7,7,5,2,60
+58067,51,Research & Development,20,4,1,Male,1,3,2,L,Y,Y,Manufacturing Director,10650,2,No,15,4,L,18,N,3,4,2,0,3,46
+58208,45,Sales,4,4,1,Female,3,2,2,L,N,N,Sales Executive,4286,2,No,14,4,L,5,N,3,1,1,0,0,33
+58255,40,Sales,6,2,3,Male,2,2,1,L,N,Y,Sales Executive,6380,2,Yes,12,1,L,8,N,3,6,4,1,0,35
+58271,37,Sales,19,3,4,Male,3,2,3,H,N,Y,Sales Executive,9602,8,Yes,11,3,H,17,Y,2,3,0,1,0,75
+58375,50,Sales,1,2,1,Male,2,1,1,L,N,N,Sales Manager,2683,1,Yes,14,3,L,3,N,3,3,2,0,2,50
+58393,31,Sales,24,3,4,Female,3,1,2,H,N,Y,Sales Representative,2789,1,No,11,3,H,2,Y,2,2,2,2,2,62
+58458,51,Sales,9,4,1,Female,3,4,2,L,N,Y,Manager,16307,4,No,14,3,L,29,N,2,20,6,4,17,42
+58459,44,Research & Development,14,3,4,Male,3,1,1,H,Y,Y,Research and Design Specialists,3420,8,No,13,3,H,6,Y,2,5,2,1,3,55
+58731,36,Research & Development,11,4,4,Female,2,2,2,L,N,N,Manufacturing Director,4374,7,No,15,3,L,4,N,3,3,2,1,2,48
+58769,38,Research & Development,8,3,3,Male,3,2,2,L,N,Y,Manufacturing Director,4855,5,No,11,1,H,7,Y,3,5,2,1,4,54
+58780,31,Research & Development,25,3,4,Male,1,2,2,L,Y,Y,Research and Design Specialists,5003,1,No,21,2,L,10,Y,3,10,8,8,7,78
+58785,50,Research & Development,24,3,4,Male,3,4,2,H,Y,Y,Manufacturing Director,13973,7,Yes,18,4,L,22,Y,3,12,11,1,5,54
+58836,31,Research & Development,15,3,3,Female,2,2,1,H,Y,Y,Customercare Representative,6812,3,No,19,2,H,10,N,3,10,9,1,8,28
+58892,29,Sales,3,2,2,Male,3,2,1,H,N,Y,Sales Executive,4554,1,No,18,1,L,10,Y,2,10,7,0,9,55
+59084,29,Research & Development,12,2,4,Male,2,1,1,L,N,N,Research and Design Specialists,2439,7,Yes,24,2,L,1,N,2,1,0,1,0,21
+59100,36,Production,9,2,1,Female,3,1,4,H,N,Y,Machinists,2835,5,No,22,1,H,7,Y,3,1,0,0,0,64
+59105,35,Production,8,2,3,Male,2,1,4,L,N,Y,Machinists,2690,5,No,18,4,H,1,Y,2,1,0,0,1,64
+59110,48,Finance,24,4,1,Male,2,3,1,L,Y,Y,Accountant,9382,9,No,18,4,L,5,N,3,3,5,2,3,65
+59242,39,Research & Development,17,1,4,Male,2,3,3,L,Y,Y,Customercare Representative,9991,5,No,15,1,L,9,Y,3,7,7,1,7,75
+59325,35,Production,25,3,4,Female,2,2,4,H,Y,Y,Machinists,5363,9,No,12,2,L,10,Y,3,9,7,0,0,82
+59365,42,Research & Development,10,3,2,Male,3,5,2,H,Y,N,Manager,18430,3,No,13,2,L,24,Y,2,24,7,14,9,61
+59522,29,Sales,7,1,2,Female,3,3,2,H,N,Y,Sales Executive,7918,1,No,14,4,H,11,Y,3,11,10,4,1,66
+59615,59,Human Resources,21,4,3,Female,2,5,2,L,N,Y,Manager,18844,9,No,21,4,L,30,Y,3,3,2,2,2,40
+59688,47,Finance,19,4,1,Male,3,3,1,L,N,Y,Accountant,9335,6,No,17,2,H,10,N,1,7,2,3,6,35
+59695,38,Sales,10,2,1,Female,3,2,2,L,Y,N,Sales Executive,5343,5,No,11,3,L,10,Y,3,10,7,1,9,61
+59733,40,Research & Development,24,3,3,Female,3,2,2,L,N,Y,Customercare Representative,6513,2,No,17,4,H,12,Y,3,5,3,0,3,60
+59919,30,Sales,12,3,2,Female,3,2,1,L,N,N,Sales Executive,6577,0,No,11,2,L,6,N,3,5,4,4,4,39
+60158,33,Sales,17,3,3,Female,4,2,2,H,Y,Y,Sales Executive,5376,2,No,19,1,L,10,Y,3,5,3,1,3,60
+60191,34,Production,6,3,2,Male,3,1,1,L,N,N,Machinists,2008,5,No,14,2,L,1,N,3,1,0,1,0,47
+60245,19,Sales,22,1,3,Female,1,1,1,L,N,N,Sales Representative,2325,0,No,21,1,L,1,N,4,0,0,0,0,40
+60352,38,Finance,19,3,2,Female,3,3,2,L,Y,Y,Accountant,8285,5,No,17,2,H,8,N,1,3,3,3,6,62
+60375,33,IT_Support,13,4,1,Male,3,3,4,L,N,Y,IT specialists,8542,1,Yes,17,1,L,7,N,3,9,5,1,7,39
+60572,25,Finance,18,4,1,Male,3,2,2,L,Y,Y,Accountant,8208,5,No,16,2,L,7,Y,3,8,4,1,7,83
+60624,31,Production,7,3,1,Female,3,1,1,L,N,N,Production Supervisors,5838,9,No,20,3,H,9,N,3,5,6,2,2,37
+60889,20,Sales,25,1,4,Male,3,1,1,L,N,N,Sales Representative,2728,4,No,11,1,L,2,N,3,2,2,0,2,38
+60937,35,Research & Development,18,4,4,Female,3,2,1,H,N,Y,Customercare Representative,5093,2,No,11,1,L,16,Y,4,1,0,0,0,51
+61018,41,Research & Development,5,2,4,Female,3,2,2,L,Y,Y,Manufacturing Director,5003,9,No,14,2,L,8,Y,3,2,2,2,1,57
+61083,21,Production,24,3,3,Female,2,1,2,L,N,N,Machinists,1416,7,No,13,1,L,1,N,2,1,0,1,0,30
+61103,33,Research & Development,8,4,3,Male,2,1,2,L,Y,Y,Research and Design Specialists,2799,3,Yes,11,2,L,6,Y,3,3,2,0,2,59
+61175,41,Sales,6,4,4,Male,3,4,1,L,N,Y,Manager,16015,1,No,19,2,L,22,N,3,22,10,0,4,47
+61193,33,Sales,21,3,2,Female,2,2,4,L,Y,Y,Customercare Representative,6949,4,No,14,1,L,6,Y,3,5,0,1,4,64
+61335,36,Research & Development,8,3,3,Male,3,2,2,L,N,N,Research and Design Specialists,4485,4,No,12,4,L,10,N,3,8,0,7,7,30
+61360,36,Human Resources,20,3,1,Male,2,1,4,L,Y,Y,Human Resources,2342,8,No,21,3,L,6,Y,3,5,4,0,3,64
+61361,50,Finance,24,3,1,Female,2,3,1,L,Y,Y,Accountant,8389,4,Yes,18,1,H,9,N,2,8,3,3,2,53
+61412,36,Production,18,4,1,Male,2,2,2,L,Y,Y,Machinists,5810,6,No,16,3,H,10,Y,2,10,4,1,8,54
+61450,54,Research & Development,24,4,2,Female,4,3,1,L,N,Y,IT specialists,10773,9,No,20,2,L,5,N,1,3,3,2,2,27
+61474,42,Production,18,2,2,Male,3,1,4,H,N,Y,Machinists,2093,4,No,17,4,H,8,Y,3,2,2,2,0,69
+61577,53,Research & Development,15,2,4,Female,4,2,2,L,Y,N,Manufacturing Director,4450,1,No,11,3,L,5,N,3,4,2,1,3,48
+61663,53,Sales,18,2,1,Female,2,3,2,H,Y,Y,Sales Executive,10934,9,Yes,18,4,L,35,Y,3,5,2,0,4,54
+61710,40,Finance,3,4,2,Female,3,2,2,L,N,Y,Accountant,8756,2,Yes,16,1,H,10,N,3,4,3,3,6,33
+61755,47,Sales,11,2,2,Female,4,2,1,L,N,N,Sales Executive,6397,8,Yes,12,4,L,8,N,3,5,4,1,3,26
+62107,39,Research & Development,13,3,4,Male,3,2,2,L,N,Y,Manufacturing Director,5295,6,No,21,3,L,7,Y,3,5,4,1,0,62
+62147,52,Finance,18,4,1,Male,2,3,2,L,N,N,Accountant,8098,1,No,16,1,H,8,Y,3,5,5,1,5,36
+62197,36,Research & Development,1,3,3,Female,3,3,2,L,N,Y,Customercare Representative,10096,1,No,13,2,L,17,Y,3,17,14,12,8,45
+62212,30,Research & Development,5,3,3,Female,1,2,3,H,N,N,Manufacturing Director,6091,2,No,20,3,H,11,Y,3,5,4,0,2,76
+62302,55,Human Resources,6,4,3,Male,4,5,1,L,N,N,Manager,19636,1,Yes,18,1,L,35,N,3,10,9,1,4,47
+62502,41,Sales,4,3,2,Male,4,3,2,H,N,Y,Sales Executive,8392,1,No,16,3,H,10,Y,3,10,7,0,7,68
+62662,39,Production,22,3,1,Female,2,1,1,L,Y,N,Machinists,3646,1,Yes,23,2,L,11,N,4,1,0,0,0,40
+62674,51,IT_Support,20,3,1,Male,2,2,2,L,Y,Y,IT specialists,9897,2,Yes,15,1,L,7,Y,3,5,7,3,4,62
+62680,51,Sales,16,4,3,Male,3,2,1,L,Y,N,Sales Executive,5441,0,Yes,22,4,L,11,N,1,10,7,1,0,50
+62683,27,Sales,13,1,2,Female,2,2,2,L,N,N,Sales Representative,3540,9,No,21,4,H,9,N,3,9,8,5,8,45
+62688,33,Sales,23,3,4,Female,3,2,1,H,Y,Y,Sales Executive,4302,5,No,17,3,L,4,Y,3,3,2,0,2,58
+62740,28,Finance,20,4,2,Male,2,2,1,L,N,Y,Accountant,9158,3,No,17,1,H,9,Y,2,6,7,1,3,25
+62916,37,Research & Development,25,4,1,Female,3,3,1,H,N,Y,Research Director,13603,2,Yes,18,1,L,15,Y,3,5,2,0,2,55
+62951,37,Research & Development,17,5,2,Female,3,2,1,L,N,N,Research and Design Specialists,4449,3,Yes,15,1,L,15,N,3,13,11,10,7,31
+62976,44,Sales,8,3,4,Female,4,4,2,H,Y,Y,Sales Executive,13320,2,Yes,18,3,L,23,Y,3,12,11,11,11,53
+63035,30,Production,10,1,2,Male,2,1,2,L,Y,N,Machinists,2720,0,No,13,4,L,6,N,3,5,3,1,2,44
+63224,51,IT_Support,23,4,1,Male,2,3,1,H,N,Y,IT specialists,8508,4,No,15,2,H,7,N,1,3,2,1,2,46
+63354,31,Sales,7,4,1,Male,3,3,2,L,N,Y,Sales Executive,8161,5,No,13,1,L,10,Y,3,1,0,0,0,57
+63361,41,Research & Development,19,2,3,Male,3,2,2,H,N,Y,Research and Design Specialists,3072,2,No,16,1,L,17,Y,2,1,0,0,0,57
+63366,51,Research & Development,3,4,1,Female,2,3,4,L,Y,Y,Customercare Representative,7484,3,No,20,3,L,23,Y,2,13,12,12,8,43
+63568,30,Production,25,3,2,Male,3,3,3,L,N,N,Production Supervisors,5964,9,Yes,18,2,H,5,N,3,7,3,2,6,34
+63660,34,Sales,24,3,4,Male,2,3,2,L,Y,Y,Sales Executive,7083,6,Yes,14,4,H,10,Y,3,10,9,8,6,73
+63714,25,Finance,8,3,1,Male,2,3,1,L,Y,Y,Accountant,9830,7,Yes,16,4,L,9,N,2,8,4,2,5,58
+63901,27,Research & Development,7,1,3,Male,2,3,2,L,N,Y,Research Director,12808,8,Yes,16,2,L,9,N,3,9,8,0,8,42
+63986,31,Finance,5,3,2,Female,3,3,1,H,Y,Y,Accountant,8285,6,No,18,2,H,7,Y,1,4,2,1,4,62
+64023,36,Production,22,4,3,Male,4,1,1,L,Y,N,Machinists,3688,4,No,18,4,L,4,N,3,1,0,0,0,35
+64069,49,IT_Support,19,3,2,Male,3,4,2,L,N,N,IT specialists,5931,2,No,19,2,H,5,N,2,2,7,3,7,38
+64076,23,Research & Development,4,1,1,Male,4,1,2,H,N,Y,Research and Design Specialists,3505,4,No,18,4,L,2,Y,3,2,2,0,2,66
+64122,42,Production,22,4,1,Male,4,2,3,L,N,Y,Production Supervisors,7413,2,No,15,2,L,8,N,3,2,2,1,4,34
+64265,30,Sales,1,3,4,Female,2,2,2,H,N,Y,Sales Executive,6118,1,No,13,3,L,10,Y,3,10,9,1,2,54
+64266,31,IT_Support,5,3,2,Female,4,3,3,H,Y,Y,Production Supervisors,6058,6,Yes,19,1,H,10,N,1,7,5,3,3,61
+64281,22,Production,1,1,3,Female,3,1,2,L,N,Y,Machinists,2398,1,Yes,17,3,H,1,Y,3,1,0,0,0,68
+64375,47,Research & Development,18,3,1,Male,3,1,2,L,N,N,Research and Design Specialists,3420,7,No,12,3,H,17,Y,2,6,5,1,2,50
+64486,18,Production,4,3,3,Male,3,1,2,L,N,N,Machinists,1420,1,No,13,3,L,0,N,3,0,0,0,0,42
+64644,34,Sales,3,3,3,Female,3,2,4,L,N,Y,Sales Executive,4538,4,Yes,12,4,L,4,Y,3,3,2,0,2,67
+64652,26,Sales,7,2,1,Male,3,2,2,L,N,N,Sales Executive,4306,5,No,12,1,L,8,N,3,0,0,0,0,44
+64703,24,Production,21,3,1,Female,3,1,1,L,N,N,Machinists,2886,8,Yes,16,4,L,6,N,3,6,3,1,2,34
+64742,39,Production,10,3,3,Male,3,2,2,L,N,Y,Machinists,6782,7,No,15,3,L,9,N,2,5,4,0,3,49
+64809,58,Research & Development,5,4,4,Male,1,2,2,H,N,Y,Customercare Representative,5660,2,Yes,13,4,H,12,Y,3,5,3,1,2,91
+64845,37,Research & Development,12,3,4,Female,3,2,2,H,Y,Y,Customercare Representative,4107,9,No,15,1,L,8,Y,2,4,3,0,1,61
+64986,27,Finance,23,3,1,Female,2,3,2,L,Y,Y,Accountant,9847,1,Yes,18,3,H,9,Y,1,8,4,3,3,67
+64996,36,Production,7,4,3,Male,3,1,2,L,N,N,Machinists,2519,6,No,21,3,L,16,N,3,11,8,3,9,43
+65115,52,IT_Support,1,3,1,Male,4,4,3,L,N,Y,IT specialists,8109,7,No,19,4,H,8,N,2,3,3,3,7,36
+65121,53,Sales,1,3,1,Male,3,4,2,L,Y,Y,Sales Executive,11836,4,No,14,3,L,28,Y,3,2,0,2,2,61
+65210,38,Research & Development,17,4,3,Male,3,1,1,H,Y,Y,Research and Design Specialists,2821,5,No,16,1,L,8,Y,3,2,2,2,2,51
+65221,56,Research & Development,24,3,3,Female,3,1,4,H,N,N,Research and Design Specialists,4257,4,Yes,18,3,H,19,Y,3,2,2,2,2,65
+65237,21,Sales,8,1,3,Male,3,1,2,L,Y,Y,Sales Representative,2380,4,Yes,11,4,L,2,Y,3,2,2,1,2,53
+65248,41,Production,15,4,3,Male,3,1,1,H,N,Y,Machinists,2238,2,No,21,4,L,7,Y,3,5,0,1,4,51
+65300,36,Research & Development,19,4,2,Female,3,3,2,L,N,Y,Customercare Representative,8008,1,No,12,3,L,9,N,3,3,2,0,2,48
+65389,39,Sales,6,5,1,Male,4,3,2,L,Y,Y,Sales Executive,7880,7,No,18,4,H,9,Y,3,8,7,0,7,72
+65412,38,Sales,16,4,4,Male,3,2,2,L,Y,N,Sales Executive,4440,8,No,15,1,L,16,Y,3,15,13,5,8,54
+65450,25,Sales,10,1,2,Male,3,1,2,L,N,N,Sales Representative,2096,5,No,11,3,L,7,N,3,7,4,0,6,36
+65459,30,Research & Development,9,3,3,Female,2,2,2,H,Y,Y,Manufacturing Director,6877,1,Yes,24,2,L,12,Y,2,0,0,0,0,61
+65465,42,Finance,18,4,1,Male,2,2,2,L,N,N,Accountant,9450,4,Yes,20,4,H,5,Y,2,2,5,1,3,33
+65558,31,Human Resources,9,5,4,Male,4,1,1,L,Y,Y,Human Resources,2956,3,No,17,3,H,2,Y,3,1,0,0,0,55
+65623,40,Production,23,4,2,Male,3,1,2,L,Y,Y,Machinists,2387,5,No,22,3,L,7,Y,3,4,2,0,3,68
+65630,38,Finance,11,3,2,Male,3,3,2,L,N,Y,Accountant,8891,4,Yes,16,2,H,7,N,3,6,5,2,3,35
+65651,29,Finance,16,4,1,Male,2,2,2,L,N,Y,Accountant,8525,3,No,17,2,H,10,Y,3,3,6,3,7,25
+65694,27,Finance,16,3,2,Male,2,3,2,L,N,Y,Accountant,8254,6,Yes,18,3,H,8,N,3,7,2,3,3,37
+65786,43,Research & Development,7,1,4,Male,4,3,1,L,N,Y,Sales Executive,NA,8,No,15,2,L,7,N,3,0,0,0,0,74
+65816,45,Production,14,4,1,Male,2,5,4,L,N,Y,Production Supervisors,6842,5,Yes,18,1,H,6,Y,2,4,4,2,6,39
+65909,29,Research & Development,24,2,3,Male,4,1,2,L,N,N,Research and Design Specialists,2700,5,No,24,3,L,10,N,3,10,7,0,7,43
+65943,40,Research & Development,15,2,2,Female,3,2,1,L,N,Y,Manufacturing Director,6516,5,Yes,16,2,L,18,Y,3,1,0,0,0,58
+65975,24,Sales,16,,,Male,3,1,2,L,N,N,Sales Representative,2400,3,No,13,3,L,3,N,3,2,2,2,1,44
+66010,49,Research & Development,8,4,3,Female,3,5,1,H,Y,Y,Research Director,18665,9,Yes,11,4,L,22,Y,3,3,2,1,2,56
+66082,37,Research & Development,4,3,2,Male,3,3,4,H,Y,Y,Research Director,12185,1,Yes,14,3,H,10,Y,3,10,8,0,7,69
+66123,41,Sales,5,2,2,Female,3,2,1,L,N,N,Sales Executive,5993,8,Yes,11,1,L,8,N,1,6,4,0,5,29
+66174,19,Sales,4,3,4,Male,2,1,1,H,N,N,Sales Representative,2121,5,Yes,13,2,L,1,N,4,1,0,0,0,39
+66226,50,Finance,9,3,2,Male,2,2,2,L,Y,Y,Accountant,8126,5,No,20,1,H,7,Y,2,9,7,1,3,72
+66391,32,Research & Development,18,2,1,Female,4,1,2,L,N,N,Research and Design Specialists,2432,8,Yes,14,1,L,8,Y,3,4,1,0,3,50
+66566,37,Research & Development,2,4,2,Female,3,2,4,H,N,Y,Manufacturing Director,6447,2,No,12,2,H,8,Y,2,6,5,4,3,64
+66601,26,Research & Development,9,3,1,Female,3,1,2,H,N,Y,Research and Design Specialists,2061,1,No,21,1,H,1,Y,3,1,0,0,0,61
+66776,44,Finance,17,3,2,Male,3,3,2,L,Y,N,Accountant,9012,8,Yes,18,4,L,7,N,3,6,6,3,7,60
+66787,45,Production,14,4,4,Female,3,1,2,H,Y,Y,Machinists,2270,5,No,14,4,L,8,Y,3,5,3,0,2,68
+66799,43,Finance,19,4,1,Male,2,3,2,L,Y,N,Accountant,9368,5,Yes,16,4,L,6,Y,3,7,4,3,2,83
+66863,46,Sales,19,4,1,Male,3,2,2,H,N,Y,Sales Executive,5772,4,Yes,21,3,H,14,Y,3,9,6,0,8,64
+66964,35,Research & Development,11,3,2,Female,4,3,1,H,N,Y,Manager,11996,7,No,18,2,L,10,Y,2,7,7,6,2,56
+67083,33,Research & Development,20,3,1,Male,2,1,1,L,N,N,Research and Design Specialists,2313,1,Yes,20,2,L,5,N,3,2,2,2,2,31
+67091,35,Production,22,4,4,Male,2,1,2,H,Y,Y,Machinists,2258,3,No,12,2,L,10,Y,3,8,0,1,7,66
+67233,28,Finance,2,3,1,Female,3,3,2,L,Y,Y,Accountant,9156,3,Yes,19,4,L,8,Y,3,5,7,1,6,64
+67269,18,Production,19,3,4,Female,3,1,4,L,N,Y,Machinists,1611,6,No,15,3,L,0,Y,4,0,0,0,0,65
+67317,22,Research & Development,12,2,4,Male,2,2,2,H,Y,Y,Manufacturing Director,4775,3,No,22,1,H,4,Y,1,2,2,2,2,72
+67357,28,Sales,23,3,3,Male,2,2,1,H,Y,N,Sales Executive,4724,5,No,11,3,L,5,N,3,5,3,0,4,38
+67366,34,Research & Development,14,3,4,Female,2,3,4,H,N,Y,Customercare Representative,8621,8,No,14,2,L,9,Y,4,8,7,7,7,63
+67379,43,Finance,5,3,1,Male,3,3,1,L,N,Y,Accountant,8164,8,Yes,18,3,H,7,Y,3,8,2,2,3,32
+67403,31,Production,2,3,1,Female,4,2,3,L,N,Y,Production Supervisors,6097,2,Yes,19,4,L,10,Y,2,8,4,3,5,33
+67417,26,Production,22,2,1,Male,2,1,2,L,Y,Y,Machinists,3955,2,No,16,1,L,6,Y,3,5,3,1,3,61
+67448,39,Research & Development,18,1,2,Male,3,5,2,H,N,Y,Manager,19197,1,Yes,14,3,H,21,Y,3,21,8,1,6,66
+67480,44,Finance,3,4,2,Male,3,3,2,L,N,Y,Accountant,8944,4,No,19,4,L,5,Y,3,10,6,1,2,44
+67608,50,Sales,2,2,2,Male,3,2,2,L,N,Y,Sales Executive,6796,7,Yes,14,1,L,18,N,3,4,3,1,3,42
+67658,43,Production,24,3,4,Male,4,1,2,L,Y,N,Machinists,4876,3,No,12,3,H,8,N,3,6,4,0,2,49
+67672,22,Research & Development,12,4,3,Male,2,1,2,H,N,Y,Research and Design Specialists,2853,1,Yes,11,2,L,1,Y,3,0,0,0,0,54
+67681,46,Research & Development,11,4,3,Male,3,2,1,L,Y,N,Customercare Representative,5562,5,No,14,4,L,19,N,3,10,7,0,9,47
+67985,30,IT_Support,7,2,2,Male,2,2,3,L,N,Y,Sales Executive,7413,7,No,20,3,L,10,Y,2,8,3,2,6,80
+68267,40,Finance,15,3,2,Male,2,2,2,H,Y,Y,Accountant,8599,7,Yes,20,2,H,5,Y,2,9,2,2,7,79
+68305,54,Finance,12,4,2,Male,2,2,3,L,N,Y,Accountant,8858,3,Yes,20,3,L,6,N,1,10,2,1,3,36
+68388,,Research & Development,10,3,1,Male,3,3,4,L,Y,Y,Customercare Representative,8633,3,No,23,2,L,25,Y,3,17,14,12,11,64
+68494,35,Research & Development,8,2,2,Male,2,2,1,H,N,Y,Manufacturing Director,5916,3,Yes,13,1,L,8,Y,3,1,0,0,1,55
+68576,37,Human Resources,21,4,3,Male,3,1,2,L,Y,N,Human Resources,2073,4,Yes,22,4,L,7,Y,3,3,2,0,2,33
+68619,33,Production,10,3,3,Male,3,1,2,L,Y,N,Machinists,2436,5,Yes,13,3,L,8,N,1,5,4,0,4,30
+68788,22,Research & Development,15,1,4,Male,3,1,2,L,Y,Y,Research and Design Specialists,2472,8,Yes,23,1,H,1,Y,3,1,0,0,0,54
+68808,32,Production,10,4,3,Female,2,1,2,L,Y,Y,Machinists,2837,5,No,13,3,L,6,Y,3,6,2,4,1,59
+68879,52,Production,8,3,1,Male,4,5,1,L,N,Y,IT specialists,6794,5,No,17,3,H,7,N,2,3,6,2,6,41
+68882,28,Production,23,2,1,Male,3,1,2,H,N,N,Machinists,2207,2,No,16,4,L,4,N,2,4,2,2,2,36
+68896,38,Research & Development,17,1,2,Male,3,2,1,L,N,Y,Customercare Representative,6673,7,Yes,19,2,L,17,N,3,1,0,0,0,18
+68929,44,Research & Development,3,3,4,Male,3,2,4,H,Y,Y,Customercare Representative,5933,3,No,12,4,L,10,Y,2,5,2,2,3,64
+68967,36,Research & Development,14,4,2,Male,3,1,2,L,N,N,Research and Design Specialists,4678,1,No,18,3,L,8,N,3,6,2,0,1,46
+69056,46,Production,20,2,4,Male,3,3,2,H,Y,Y,Manufacturing Director,10845,2,No,13,2,L,13,Y,3,8,7,0,7,70
+69077,26,Research & Development,21,1,3,Male,3,1,2,L,N,N,Research and Design Specialists,3102,0,No,22,3,L,7,N,3,6,4,0,4,45
+69082,40,Production,14,4,4,Female,4,1,1,L,N,N,Machinists,2213,3,Yes,13,3,L,10,N,3,7,7,1,7,47
+69085,52,Research & Development,24,3,2,Male,2,2,3,H,Y,Y,IT specialists,5004,6,No,16,3,L,10,Y,2,3,2,2,2,52
+69109,30,Finance,9,3,2,Male,3,2,1,L,N,N,Accountant,9124,4,Yes,16,1,L,10,Y,1,7,7,3,7,49
+69215,51,Sales,11,2,3,Female,3,2,2,H,N,Y,Sales Executive,4936,4,No,11,3,L,18,Y,2,7,7,0,7,60
+69381,27,Research & Development,18,3,2,Female,4,1,3,L,Y,Y,Research and Design Specialists,3517,2,No,17,1,L,5,Y,3,3,2,0,2,71
+69413,28,Sales,2,3,3,Male,3,2,1,L,Y,Y,Sales Executive,4898,9,No,14,4,H,5,Y,3,4,2,1,3,55
+69587,49,Finance,23,4,2,Female,3,3,1,L,Y,Y,Accountant,8974,1,No,18,3,L,5,N,1,6,2,1,6,61
+69671,42,Production,17,3,4,Female,2,1,4,H,N,Y,Machinists,2593,0,Yes,11,3,H,10,Y,3,9,6,7,8,63
+69859,35,Production,3,3,4,Male,1,1,1,H,N,Y,Machinists,4230,0,No,15,3,L,6,Y,3,5,4,4,3,55
+69996,46,Sales,13,3,3,Female,1,4,1,H,Y,Y,Manager,16872,3,Yes,12,2,L,28,Y,2,7,7,7,7,56
+70117,25,Research & Development,5,1,4,Male,2,2,2,H,Y,N,Accountant,NA,8,Yes,12,4,L,6,N,3,2,2,2,2,63
+70129,29,Research & Development,3,3,3,Male,3,1,4,H,Y,Y,Research and Design Specialists,2703,0,No,23,4,L,6,Y,3,5,4,0,4,52
+70168,38,Production,20,3,1,Male,3,2,1,L,N,Y,Production Supervisors,6693,9,No,18,4,L,10,Y,2,10,4,2,6,40
+70360,39,Production,2,2,3,Male,2,2,2,L,Y,N,Machinists,3069,7,No,15,4,L,11,Y,3,10,8,0,7,50
+70408,27,Research & Development,5,2,4,Male,3,3,2,H,N,Y,Manufacturing Director,8793,6,No,21,3,L,9,Y,2,9,7,1,7,62
+70556,25,Research & Development,9,3,4,Female,3,1,2,L,N,N,Research and Design Specialists,2096,4,No,18,4,H,2,N,2,2,2,2,1,42
+70638,48,Research & Development,17,4,4,Male,3,1,2,H,N,N,Research and Design Specialists,2259,4,No,17,1,L,13,N,2,0,0,0,0,45
+70644,45,Production,8,3,2,Male,4,2,2,L,N,N,Production Supervisors,5984,6,Yes,19,1,H,10,N,1,7,5,3,3,31
+70695,48,Research & Development,20,3,4,Male,3,3,4,L,N,Y,Manufacturing Director,7898,9,No,11,3,L,11,Y,3,10,9,0,8,63
+70734,30,Production,6,3,3,Male,3,2,1,H,Y,Y,Machinists,3072,1,No,11,3,L,12,Y,3,12,9,6,10,58
+70890,30,Sales,17,3,2,Male,3,1,2,L,N,N,Sales Manager,1081,4,No,13,3,H,1,N,2,1,0,0,0,44
+71007,32,Sales,22,3,3,Male,4,2,4,L,N,Y,Sales Executive,6209,7,No,15,3,L,10,Y,4,10,7,0,8,69
+71078,530,Finance,7,3,2,Male,2,3,2,L,N,Y,Accountant,9497,7,No,15,4,L,10,N,1,8,2,2,6,50
+71131,26,IT_Support,11,3,1,Female,3,3,2,L,Y,Y,IT specialists,9715,9,No,17,3,H,5,Y,2,10,7,3,3,77
+71236,41,Production,13,3,4,Male,3,1,1,H,Y,Y,Machinists,4721,6,Yes,13,3,L,20,Y,3,18,13,2,17,55
+71271,29,Production,11,4,4,Female,3,1,1,L,Y,N,Machinists,2974,1,No,17,3,L,9,N,3,5,3,1,2,38
+71289,34,Research & Development,24,4,2,Female,4,1,2,H,N,Y,Research and Design Specialists,3280,5,No,16,3,L,10,Y,3,4,2,1,3,60
+71343,39,Human Resources,24,3,4,Female,2,2,3,L,Y,Y,Human Resources,5204,3,No,11,3,H,13,Y,3,5,4,0,4,83
+71459,53,IT_Support,13,4,2,Male,3,3,1,L,Y,Y,IT specialists,5782,7,No,17,3,H,5,Y,3,8,2,2,7,57
+71625,28,Sales,24,4,2,Male,3,2,4,H,N,Y,Sales Executive,5253,1,No,16,4,H,7,Y,3,7,5,0,7,65
+71628,50,Sales,6,3,4,Female,3,2,2,H,Y,Y,Sales Executive,6347,3,No,12,1,L,19,Y,3,18,7,0,13,57
+71692,33,Research & Development,14,2,4,Male,3,2,2,L,Y,Y,Customercare Representative,5968,6,No,20,3,L,9,Y,3,9,7,2,8,53
+71833,43,Research & Development,23,3,3,Male,2,1,1,L,N,N,Research and Design Specialists,2437,4,Yes,16,4,L,6,N,3,1,0,0,0,21
+71886,29,Research & Development,9,4,2,Male,1,1,4,H,N,N,Research and Design Specialists,2720,9,No,18,4,L,10,Y,3,10,7,2,8,65
+71930,32,Production,13,3,4,Male,2,1,2,L,N,N,Machinists,3730,0,Yes,14,4,L,4,N,1,3,2,1,2,36
+71931,48,Production,15,3,2,Male,2,3,1,L,N,Y,Production Supervisors,7652,4,No,16,1,H,5,N,1,10,3,2,5,28
+71969,55,Finance,12,4,1,Male,3,2,1,L,Y,Y,Accountant,8413,7,No,16,4,L,6,N,2,10,2,2,4,81
+72037,31,Finance,25,3,2,Female,3,2,1,L,Y,Y,Accountant,8333,1,Yes,19,1,H,9,N,1,2,5,1,7,51
+72065,36,Sales,4,4,2,Female,3,2,2,H,N,Y,Sales Executive,6815,9,No,13,1,H,15,Y,3,1,0,0,0,52
+72095,53,Production,13,3,4,Male,3,2,2,H,N,N,Machinists,2450,9,No,17,4,L,19,Y,3,2,2,2,2,61
+72225,45,Research & Development,4,4,2,Male,3,2,2,L,Y,Y,Customercare Representative,5399,5,No,12,3,L,12,Y,3,4,2,0,3,73
+72255,18,Sales,10,3,4,Female,2,1,2,L,N,N,Sales Representative,1200,1,No,12,1,L,0,N,3,0,0,0,0,45
+72407,21,Research & Development,9,1,4,Female,3,1,1,H,N,N,Research and Design Specialists,2693,9,No,19,1,L,1,N,2,1,0,0,0,31
+72481,26,Research & Development,5,3,1,Male,3,1,1,L,N,N,Research and Design Specialists,2042,9,Yes,14,2,L,6,N,3,3,2,1,2,39
+72591,55,Research & Development,22,2,4,Female,1,5,2,L,Y,Y,Manager,19187,8,No,14,4,L,23,Y,3,19,9,9,11,68
+72636,31,Sales,19,2,4,Female,3,2,2,H,N,Y,Sales Executive,6932,8,No,13,4,L,9,N,2,9,8,0,0,43
+72735,20,Sales,5,3,3,Male,4,1,2,L,Y,N,Customercare Representative,2678,8,No,17,4,H,2,N,3,2,1,2,2,41
+72856,35,Sales,19,4,3,Male,2,2,1,L,N,N,Sales Executive,4312,0,No,14,2,L,16,Y,3,15,13,2,8,32
+72878,32,IT_Support,9,2,3,Male,2,2,3,L,N,N,Sales Executive,5964,8,Yes,15,2,H,9,Y,3,8,4,1,6,75
+72963,35,Sales,2,3,1,Female,3,2,3,H,N,Y,Sales Executive,4859,1,No,16,4,H,5,Y,3,5,4,0,3,71
+73061,45,Research & Development,19,4,4,Male,3,3,1,L,N,Y,Research Director,13245,4,Yes,14,2,L,17,Y,4,0,0,0,0,38
+73268,50,Finance,15,3,1,Male,3,3,1,H,Y,Y,Accountant,9863,7,No,19,1,L,9,Y,1,2,4,1,5,83
+73296,38,Research & Development,14,3,2,Female,1,2,3,L,Y,N,Research and Design Specialists,5329,7,Yes,12,4,L,17,Y,3,13,11,1,9,33
+73402,37,Research & Development,2,3,2,Female,3,1,2,L,N,Y,Research and Design Specialists,3936,5,No,11,1,L,8,Y,1,8,4,7,7,53
+73471,47,Sales,17,1,2,Male,3,2,4,H,N,Y,Sales Representative,2976,3,No,19,1,H,5,Y,3,0,0,0,0,63
+73487,46,Production,4,3,2,Male,4,3,3,L,N,N,Production Supervisors,5100,2,Yes,20,2,H,5,Y,3,10,2,3,7,40
+73651,36,Research & Development,17,4,4,Female,3,2,3,L,Y,Y,Research and Design Specialists,6962,1,Yes,22,4,H,15,Y,3,1,0,0,0,75
+73807,35,Production,14,3,2,Male,4,2,2,L,N,N,Machinists,3407,5,No,17,4,H,10,N,2,10,9,6,8,45
+73944,29,Sales,7,3,3,Male,3,1,1,L,N,N,Sales Representative,2642,6,No,11,3,L,1,N,3,1,0,0,0,29
+73983,40,Research & Development,6,3,1,Female,2,3,2,L,Y,Y,Manufacturing Director,10435,5,No,13,4,L,18,Y,3,18,15,14,12,50
+74040,30,IT_Support,4,2,3,Male,4,2,2,L,Y,Y,Research and Design Specialists,NA,8,Yes,20,1,H,6,Y,3,2,2,2,3,76
+74119,35,Research & Development,17,2,2,Male,3,2,2,L,Y,Y,Manufacturing Director,5762,1,No,14,3,H,15,Y,3,7,7,1,7,68
+74165,51,Human Resources,18,3,3,Male,3,4,2,H,Y,Y,Manager,14026,2,Yes,11,2,L,33,Y,3,33,9,0,10,59
+74296,37,Research & Development,12,2,3,Female,2,1,2,H,Y,Y,Research and Design Specialists,3920,2,No,14,1,H,17,Y,2,3,1,0,2,73
+74374,34,Finance,11,3,1,Female,2,2,2,H,N,Y,Accountant,8634,3,No,20,4,L,8,N,2,4,3,1,7,37
+74401,38,Finance,6,3,1,Male,2,2,1,L,Y,Y,Accountant,9967,3,Yes,18,3,L,10,Y,2,5,4,1,5,67
+74430,18,Research & Development,23,2,2,Male,3,1,2,H,Y,Y,Research and Design Specialists,1051,2,No,15,4,L,0,Y,3,0,0,0,0,57
+74636,55,Research & Development,7,3,3,Female,3,4,2,L,N,Y,Manager,16659,2,Yes,13,3,L,30,Y,3,5,4,1,2,50
+74667,34,Finance,19,4,1,Male,2,3,1,L,Y,Y,Accountant,9665,8,Yes,20,3,L,10,Y,2,8,3,2,6,70
+74684,47,Research & Development,18,2,3,Female,3,4,2,H,Y,Y,Manager,16752,4,Yes,11,3,H,26,Y,2,26,14,3,0,78
+74749,42,Research & Development,23,3,2,Male,3,2,2,L,N,N,Manufacturing Director,4434,6,No,13,4,L,10,N,2,9,8,7,8,43
+74849,21,Sales,7,1,1,Female,2,1,1,L,N,N,Sales Manager,2174,1,Yes,11,3,L,3,N,3,3,2,1,2,35
+74965,28,Finance,21,4,1,Male,3,3,2,L,N,Y,Accountant,9028,3,No,17,1,L,7,N,1,2,6,3,7,27
+74966,53,Production,1,3,1,Male,4,4,2,L,N,Y,Production Supervisors,6432,4,No,16,2,L,8,N,1,5,7,3,4,33
+75069,50,Research & Development,10,4,2,Male,2,4,1,L,N,Y,Manager,17046,0,No,15,2,L,28,N,3,27,10,15,7,34
+75383,41,Sales,13,2,4,Male,3,2,2,H,N,Y,Sales Executive,6230,7,No,14,4,H,16,Y,3,14,3,1,10,66
+75402,29,Production,18,3,2,Female,3,2,1,L,N,N,Production Supervisors,5982,6,No,18,2,H,6,Y,3,8,4,2,5,35
+75588,54,Research & Development,25,4,4,Female,3,3,2,L,N,Y,Manufacturing Director,10502,1,No,17,1,L,33,Y,1,5,4,1,4,66
+75619,24,Sales,12,4,4,Female,3,2,2,L,N,N,Sales Executive,4260,1,Yes,12,4,L,5,N,4,5,2,0,3,43
+75625,54,Finance,4,3,1,Female,3,3,2,L,Y,Y,Accountant,8453,8,Yes,18,4,H,5,N,1,10,7,3,3,72
+75683,50,Finance,7,3,2,Male,3,3,2,L,Y,Y,Accountant,9399,8,No,19,1,L,7,N,1,3,5,1,6,61
+75684,55,Research & Development,9,4,2,Male,4,4,2,H,Y,Y,Research Director,14732,3,No,13,4,H,31,Y,4,7,7,0,0,66
+75702,46,Research & Development,15,2,4,Male,3,5,2,H,Y,Y,Research Director,19081,4,No,11,1,L,25,Y,3,4,2,0,3,57
+75751,28,Finance,9,3,2,Male,2,2,2,L,N,Y,Accountant,9814,8,Yes,17,2,H,7,Y,3,3,2,3,6,40
+75800,28,Research & Development,22,3,3,Male,3,1,4,L,Y,Y,Research and Design Specialists,2144,7,No,14,3,L,5,Y,2,5,3,1,4,63
+75833,29,Finance,5,3,2,Male,2,3,2,L,Y,Y,Accountant,9447,2,No,15,2,L,5,Y,2,3,5,2,3,79
+75849,51,Research & Development,9,2,4,Female,2,4,1,L,Y,Y,Manufacturing Director,13142,7,No,16,2,L,29,Y,2,5,2,0,3,56
+75902,49,Sales,10,3,3,Female,3,3,2,L,N,Y,Sales Executive,7654,9,No,18,1,L,9,N,4,9,8,7,7,33
+75928,59,Sales,6,3,1,Female,3,3,1,H,N,Y,Sales Executive,7637,7,No,11,4,H,28,N,2,21,16,7,9,68
+76037,41,Research & Development,15,4,1,Female,2,2,2,H,N,Y,Customercare Representative,6811,2,Yes,17,1,H,10,Y,3,8,7,0,7,66
+76195,29,Production,5,3,1,Male,2,3,4,L,N,N,Production Supervisors,5929,8,No,15,1,H,6,Y,1,4,7,1,3,30
+76254,35,Research & Development,13,4,1,Female,3,2,2,H,Y,Y,Customercare Representative,6142,4,Yes,16,3,H,10,Y,3,5,2,0,4,57
+76303,19,Research & Development,24,3,1,Female,2,1,2,H,N,N,Research and Design Specialists,1859,9,Yes,25,2,H,1,N,4,1,1,0,0,36
+76317,31,Research & Development,10,5,1,Female,3,4,2,L,N,Y,Research Director,16422,5,No,11,3,H,9,Y,4,3,2,1,0,77
+76328,47,Research & Development,13,3,3,Female,2,3,2,L,Y,Y,Manufacturing Director,10333,3,Yes,12,3,H,28,N,3,22,11,14,10,48
+76599,29,Research & Development,22,4,2,Male,2,3,2,H,N,Y,Research Director,11935,1,No,18,3,H,10,Y,3,10,2,0,7,70
+76614,33,Research & Development,6,4,3,Female,2,1,2,L,N,N,Research and Design Specialists,2622,6,No,21,4,L,7,N,3,3,2,1,1,48
+76691,23,Production,16,1,4,Male,2,1,2,L,Y,N,Machinists,3989,1,Yes,11,1,L,5,N,3,5,4,1,2,33
+76794,37,Finance,19,3,2,Male,2,2,1,L,Y,Y,Accountant,9477,8,Yes,16,3,L,5,Y,2,10,3,2,6,56
+76796,35,Research & Development,20,4,2,Male,1,2,1,H,N,N,Research and Design Specialists,6646,5,No,13,2,L,17,Y,3,17,11,11,8,51
+76815,45,Research & Development,14,2,3,Male,3,4,2,H,N,N,Customercare Representative,13496,0,Yes,14,2,H,21,Y,3,20,7,4,10,77
+76821,43,Finance,8,3,2,Male,2,2,1,L,Y,Y,Accountant,8045,8,Yes,20,1,L,5,Y,2,8,6,2,4,81
+76830,42,Research & Development,16,2,4,Male,2,2,2,L,Y,N,Research and Design Specialists,4332,4,No,12,4,L,20,Y,3,20,9,3,7,60
+76840,32,Finance,2,3,2,Female,3,2,2,L,Y,Y,Accountant,8538,4,Yes,15,4,L,5,N,2,2,7,1,3,77
+77061,40,Sales,11,3,2,Female,4,4,4,L,Y,Y,IT specialists,8070,3,No,15,1,L,7,Y,3,5,4,1,4,66
+77081,56,Research & Development,8,3,3,Male,3,4,4,H,N,Y,Customercare Representative,11103,4,No,11,3,L,30,Y,2,10,7,1,1,69
+77101,54,Sales,8,3,4,Female,3,2,2,H,N,Y,Sales Executive,5940,2,No,14,4,L,16,Y,3,6,2,0,5,52
+77122,34,Finance,14,4,2,Male,3,3,2,L,N,Y,Accountant,9481,5,No,16,4,L,10,N,2,4,7,2,6,46
+77167,52,Sales,19,1,1,Female,1,5,2,L,N,Y,Manager,19845,8,No,15,4,L,33,N,3,32,14,6,9,48
+77194,44,Research & Development,18,4,4,Male,3,5,1,L,N,Y,Manager,19513,2,Yes,12,1,L,26,N,4,2,2,0,1,39
+77266,32,Finance,7,4,2,Female,2,2,1,L,N,N,Accountant,8707,7,Yes,17,4,H,5,N,2,4,3,3,6,26
+77304,54,Research & Development,23,4,4,Female,3,2,2,L,Y,Y,Research and Design Specialists,6854,1,No,15,2,H,14,Y,2,7,1,1,7,70
+77333,25,Sales,1,4,3,Male,3,2,3,L,Y,Y,Sales Executive,4950,5,No,14,2,L,5,Y,3,4,3,1,1,88
+77460,22,Research & Development,7,1,1,Male,3,1,2,H,N,Y,Research and Design Specialists,2773,7,No,20,4,L,3,Y,3,2,2,2,2,61
+77531,40,Sales,9,2,4,Female,3,2,4,H,N,Y,Sales Executive,5715,7,No,12,3,H,8,Y,3,5,4,1,3,74
+77677,30,Sales,12,4,2,Male,2,1,1,L,N,N,Sales Representative,2033,9,No,18,3,L,1,N,4,1,0,0,0,39
+77703,38,Human Resources,6,3,1,Male,3,1,2,L,N,Y,Human Resources,2592,8,No,13,4,H,13,Y,3,11,10,3,8,70
+77743,39,Research & Development,10,1,4,Female,2,4,2,L,Y,Y,Manufacturing Director,12742,6,No,16,3,L,21,Y,3,21,6,11,8,60
+78090,56,Research & Development,20,3,1,Female,3,1,1,L,N,N,Research and Design Specialists,2942,2,No,19,2,L,18,N,3,5,4,0,3,35
+78175,38,Sales,15,2,2,Female,3,2,2,L,N,Y,Sales Executive,6893,6,No,15,4,L,11,Y,3,7,7,1,7,73
+78280,46,Production,9,3,2,Female,3,1,4,L,N,Y,Production Supervisors,6313,6,Yes,15,2,H,9,N,1,7,5,2,5,31
