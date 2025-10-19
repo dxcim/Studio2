@@ -1,0 +1,1173 @@
+Employee ID,Age,Department,DistanceFromHome,Education,EnvironmentSatisfaction,Gender,JobInvolvement,JobLevel,JobRotation,FeedbackFromManager,Mentoring,Autonomy,JobRole,MonthlyIncome,NumCompaniesWorked,OverTime,PercentSalaryHike,RelationshipSatisfaction,Tools,TotalWorkingYears,Training,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Performance
+64,25.0,Production,2,3.0,1.0,Male,3,1,1,L,N,L,Machinists,4031.0,5.0,No,13.0,3.0,L,6.0,N,3.0,2.0,2.0,0.0,2.0,47
+339,32.0,Research and Development,7,4.0,2.0,Female,4,1,2,L,Y,H,Research and Design Specialists,3312.0,6.0,No,17.0,4.0,L,6.0,Y,3.0,3.0,2.0,0.0,2.0,61
+376,33.0,Research and Development,9,3.0,4.0,Male,2,3,2,H,Y,H,Customercare Representative,7119.0,2.0,No,15.0,3.0,L,9.0,Y,3.0,3.0,2.0,1.0,2.0,62
+429,36.0,Sales,18,2.0,2.0,Male,2,3,4,H,N,H,Sales Executive,7596.0,1.0,No,13.0,2.0,H,10.0,Y,3.0,10.0,9.0,9.0,0.0,82
+441,32.0,Research and Development,17,3.0,4.0,Male,3,2,4,L,N,H,Research and Design Specialists,5470.0,9.0,No,13.0,3.0,L,10.0,Y,2.0,9.0,5.0,1.0,6.0,67
+564,28.0,Research and Development,22,3.0,3.0,Male,3,1,2,L,Y,H,Research and Design Specialists,2044.0,5.0,No,11.0,3.0,H,5.0,Y,4.0,5.0,3.0,0.0,3.0,61
+565,30.0,Research and Development,18,1.0,3.0,Male,2,3,4,H,N,H,Manufacturing Director,8474.0,1.0,No,22.0,3.0,H,12.0,Y,3.0,11.0,8.0,5.0,8.0,64
+591,46.0,Human Resources,14,2.0,2.0,Male,3,2,2,L,Y,L,Human Resources,5021.0,8.0,Yes,22.0,4.0,L,16.0,Y,3.0,4.0,2.0,0.0,2.0,33
+695,44.0,Finance,18,3.0,2.0,Male,3,3,1,L,Y,H,Accountant,9670.0,2.0,Yes,16.0,4.0,L,6.0,N,1.0,7.0,7.0,3.0,3.0,56
+718,41.0,Production,17,4.0,3.0,Male,3,1,2,L,Y,H,Machinists,2289.0,5.0,No,20.0,2.0,L,5.0,Y,3.0,5.0,3.0,0.0,4.0,68
+749,54.0,Finance,17,4.0,2.0,Female,2,2,2,L,Y,H,Accountant,9588.0,2.0,Yes,15.0,2.0,H,5.0,Y,2.0,10.0,6.0,1.0,6.0,67
+813,41.0,Sales,2,1.0,3.0,Male,3,3,2,H,N,H,Sales Executive,8189.0,3.0,Yes,13.0,3.0,H,12.0,Y,3.0,9.0,7.0,0.0,7.0,68
+928,40.0,Finance,4,4.0,1.0,Male,2,2,1,L,Y,H,Accountant,8059.0,9.0,Yes,16.0,1.0,H,9.0,Y,3.0,2.0,6.0,3.0,6.0,67
+975,50.0,Sales,2,3.0,3.0,Female,3,3,1,H,Y,H,Sales Executive,9208.0,4.0,No,11.0,4.0,L,16.0,Y,3.0,2.0,2.0,2.0,1.0,56
+983,49.0,Research and Development,22,4.0,1.0,Female,3,4,1,L,N,H,Research Director,16413.0,1.0,No,16.0,2.0,L,27.0,N,3.0,4.0,2.0,1.0,2.0,37
+1089,35.0,Sales,25,2.0,4.0,Male,3,2,4,H,Y,H,Sales Executive,4968.0,2.0,No,11.0,4.0,L,5.0,Y,3.0,5.0,2.0,0.0,2.0,69
+1110,40.0,Sales,13,4.0,3.0,Female,3,5,2,H,N,H,Manager,18041.0,0.0,No,14.0,4.0,L,21.0,Y,3.0,20.0,15.0,1.0,12.0,57
+1183,44.0,Finance,17,3.0,1.0,Male,3,2,1,L,Y,H,Accountant,9721.0,2.0,Yes,17.0,2.0,L,10.0,N,1.0,2.0,4.0,3.0,3.0,55
+1210,33.0,Finance,23,4.0,1.0,Male,3,2,1,L,N,H,Accountant,8471.0,2.0,No,16.0,1.0,H,7.0,N,1.0,5.0,6.0,3.0,7.0,50
+1250,43.0,Production,19,4.0,3.0,Female,3,1,2,H,N,H,Machinists,2455.0,0.0,No,19.0,1.0,L,9.0,Y,3.0,8.0,7.0,1.0,7.0,53
+1276,42.0,Research and Development,2,2.0,4.0,Male,2,5,4,L,Y,H,Manager,19613.0,6.0,No,22.0,4.0,H,24.0,Y,3.0,1.0,0.0,0.0,1.0,79
+1327,43.0,IT Support,14,4.0,2.0,Female,4,1,4,L,N,H,IT specialists,8574.0,1.0,No,15.0,1.0,H,6.0,N,2.0,4.0,7.0,2.0,7.0,34
+1348,32.0,Production,17,1.0,4.0,Male,2,2,2,H,N,H,Machinists,2176.0,4.0,No,13.0,4.0,L,9.0,Y,3.0,6.0,2.0,0.0,4.0,57
+1367,27.0,Sales,12,2.0,1.0,Female,4,2,4,L,Y,L,Sales Executive,6500.0,4.0,No,14.0,2.0,H,9.0,Y,2.0,8.0,7.0,0.0,7.0,63
+1415,33.0,Sales,16,4.0,3.0,Male,3,2,1,H,N,H,Sales Executive,7104.0,9.0,No,12.0,4.0,L,6.0,Y,3.0,5.0,0.0,1.0,2.0,58
+1522,26.0,Sales,10,3.0,3.0,Female,2,2,2,H,Y,H,Sales Executive,4157.0,7.0,Yes,19.0,3.0,L,5.0,N,2.0,2.0,2.0,0.0,0.0,54
+1555,25.0,Sales,14,2.0,2.0,Female,2,2,2,H,N,H,Sales Executive,4487.0,1.0,Yes,11.0,2.0,L,5.0,Y,3.0,5.0,4.0,1.0,3.0,53
+1561,35.0,Research and Development,9,4.0,3.0,Female,1,1,2,L,Y,H,Research and Design Specialists,2977.0,4.0,No,12.0,4.0,L,4.0,Y,3.0,4.0,3.0,1.0,1.0,57
+1610,41.0,Sales,17,3.0,3.0,Female,3,2,4,L,Y,H,Sales Executive,4393.0,7.0,No,21.0,3.0,L,14.0,Y,3.0,5.0,4.0,1.0,4.0,64
+1612,28.0,Production,8,3.0,3.0,Female,1,2,1,L,Y,H,Machinists,6674.0,7.0,No,11.0,1.0,H,10.0,N,3.0,9.0,8.0,7.0,5.0,47
+1726,34.0,Sales,2,2.0,3.0,Female,3,2,1,H,N,H,Sales Executive,6125.0,6.0,No,12.0,4.0,L,10.0,Y,4.0,10.0,8.0,9.0,6.0,55
+1749,42.0,Research and Development,20,1.0,2.0,Male,3,1,2,H,N,L,Research and Design Specialists,2515.0,4.0,Yes,14.0,4.0,L,8.0,N,3.0,2.0,1.0,2.0,2.0,46
+1822,22.0,Research and Development,16,1.0,2.0,Female,3,2,1,H,N,L,Manufacturing Director,4171.0,6.0,Yes,19.0,1.0,L,4.0,N,4.0,3.0,2.0,0.0,2.0,26
+1908,26.0,Production,17,3.0,1.0,Male,3,1,2,L,N,L,Machinists,2377.0,1.0,No,20.0,3.0,L,1.0,N,2.0,1.0,1.0,0.0,0.0,24
+2005,41.0,Research and Development,6,2.0,1.0,Male,2,1,2,L,N,L,Research and Design Specialists,2107.0,1.0,No,17.0,1.0,L,5.0,N,1.0,1.0,0.0,0.0,0.0,44
+2066,34.0,Research and Development,23,4.0,1.0,Female,3,3,2,H,N,L,Research Director,11994.0,0.0,No,11.0,3.0,H,13.0,Y,3.0,12.0,6.0,2.0,11.0,70
+2096,35.0,Research and Development,13,4.0,4.0,Male,3,2,1,L,N,H,Manufacturing Director,6883.0,7.0,No,16.0,2.0,L,17.0,N,3.0,7.0,7.0,0.0,7.0,26
+2111,28.0,Finance,11,4.0,2.0,Male,2,3,1,L,Y,L,Accountant,8292.0,2.0,No,19.0,1.0,L,10.0,Y,1.0,4.0,4.0,1.0,7.0,83
+2121,30.0,Research and Development,7,3.0,4.0,Female,3,1,2,L,Y,L,Research and Design Specialists,3204.0,5.0,No,14.0,4.0,L,8.0,N,3.0,3.0,2.0,2.0,2.0,46
+2254,55.0,Production,11,2.0,2.0,Male,3,2,2,L,N,L,Machinists,5415.0,3.0,Yes,19.0,4.0,L,12.0,N,3.0,10.0,7.0,0.0,8.0,42
+2283,37.0,Production,14,3.0,1.0,Female,3,1,4,H,N,H,Machinists,3629.0,5.0,No,18.0,1.0,H,8.0,Y,3.0,3.0,2.0,0.0,2.0,63
+2347,25.0,Finance,10,3.0,4.0,Female,2,2,1,L,N,L,Research and Design Specialists,5959.0,8.0,No,19.0,2.0,L,9.0,N,1.0,9.0,6.0,2.0,5.0,65
+2383,43.0,Research and Development,14,3.0,1.0,Male,2,4,1,H,N,H,Research Director,14336.0,1.0,No,11.0,3.0,L,25.0,Y,3.0,25.0,10.0,3.0,9.0,51
+2425,44.0,Finance,20,3.0,2.0,Male,3,3,1,L,Y,H,Accountant,9077.0,4.0,Yes,16.0,3.0,H,9.0,Y,1.0,6.0,4.0,2.0,2.0,79
+2454,47.0,Finance,9,3.0,1.0,Male,2,2,3,L,Y,H,Accountant,9839.0,2.0,Yes,20.0,1.0,H,7.0,Y,3.0,5.0,3.0,1.0,4.0,66
+2721,27.0,Research and Development,19,3.0,4.0,Female,2,2,2,H,N,H,Customercare Representative,6811.0,6.0,No,19.0,1.0,H,9.0,Y,1.0,7.0,6.0,0.0,7.0,72
+3034,27.0,Production,15,4.0,3.0,Female,3,1,2,L,Y,H,Machinists,2811.0,7.0,No,14.0,2.0,L,4.0,Y,3.0,2.0,2.0,2.0,2.0,60
+3066,35.0,Research and Development,8,2.0,3.0,Male,2,3,3,H,N,H,Customercare Representative,9884.0,2.0,Yes,13.0,3.0,H,10.0,Y,3.0,4.0,0.0,2.0,3.0,69
+3076,35.0,Research and Development,18,4.0,3.0,Male,2,2,2,H,N,H,Customercare Representative,6540.0,9.0,No,19.0,3.0,H,10.0,Y,3.0,1.0,1.0,0.0,0.0,70
+3105,56.0,Research and Development,14,3.0,4.0,Male,3,4,2,H,Y,H,Manufacturing Director,13402.0,3.0,Yes,12.0,1.0,H,33.0,N,3.0,19.0,16.0,15.0,9.0,33
+3203,27.0,Research and Development,19,4.0,1.0,Male,2,1,2,H,N,H,Research and Design Specialists,2045.0,6.0,No,13.0,4.0,L,5.0,Y,3.0,4.0,2.0,1.0,1.0,60
+3316,34.0,Research and Development,24,1.0,2.0,Male,3,1,1,L,Y,L,Research and Design Specialists,2960.0,2.0,No,11.0,3.0,L,8.0,N,3.0,4.0,2.0,1.0,3.0,31
+3339,34.0,Research and Development,20,2.0,2.0,Male,2,1,4,H,N,H,Research and Design Specialists,3622.0,2.0,Yes,13.0,4.0,H,6.0,Y,3.0,6.0,5.0,1.0,3.0,63
+3435,36.0,Finance,5,4.0,1.0,Male,3,3,1,L,Y,H,Accountant,8424.0,7.0,No,18.0,2.0,L,5.0,N,1.0,4.0,2.0,1.0,6.0,73
+3455,44.0,Human Resources,15,4.0,1.0,Female,2,2,1,H,N,H,Human Resources,5985.0,7.0,No,11.0,2.0,L,10.0,Y,4.0,2.0,2.0,0.0,2.0,56
+3485,47.0,Finance,2,3.0,2.0,Female,3,3,2,H,Y,H,Accountant,9641.0,9.0,No,17.0,2.0,H,5.0,Y,1.0,2.0,3.0,3.0,2.0,71
+3530,53.0,Research and Development,21,4.0,2.0,Male,4,3,1,L,Y,H,Customercare Representative,7005.0,4.0,No,15.0,3.0,L,11.0,N,3.0,4.0,3.0,1.0,2.0,29
+3570,41.0,Research and Development,24,1.0,2.0,Female,1,5,1,H,N,H,Research Director,19973.0,3.0,No,22.0,2.0,L,21.0,N,3.0,21.0,16.0,5.0,10.0,47
+3635,50.0,Sales,20,4.0,4.0,Female,3,5,2,L,N,H,Manager,19517.0,3.0,No,11.0,3.0,L,32.0,N,2.0,7.0,0.0,0.0,6.0,45
+3718,40.0,Research and Development,5,4.0,4.0,Male,3,1,2,L,Y,H,Research and Design Specialists,3617.0,8.0,Yes,14.0,4.0,L,3.0,Y,3.0,1.0,1.0,0.0,0.0,61
+3720,23.0,Research and Development,12,3.0,4.0,Male,4,1,3,L,N,H,Research and Design Specialists,2073.0,8.0,No,16.0,4.0,H,4.0,Y,3.0,2.0,2.0,2.0,2.0,76
+3864,28.0,Human Resources,4,2.0,2.0,Male,2,1,3,L,Y,H,Human Resources,4936.0,7.0,No,13.0,4.0,H,6.0,Y,3.0,5.0,1.0,0.0,4.0,76
+3886,27.0,Production,19,1.0,2.0,Male,3,1,4,H,N,H,Machinists,2099.0,8.0,No,14.0,2.0,H,6.0,Y,4.0,5.0,0.0,1.0,4.0,65
+3901,27.0,Sales,1,3.0,4.0,Male,3,3,2,L,Y,H,Sales Executive,8726.0,1.0,No,15.0,4.0,L,9.0,N,3.0,9.0,8.0,1.0,7.0,45
+3964,35.0,Sales,9,5.0,2.0,Male,3,3,2,H,N,H,Sales Executive,9069.0,1.0,No,22.0,4.0,L,9.0,Y,2.0,9.0,8.0,1.0,8.0,58
+3987,29.0,Human Resources,2,3.0,1.0,Male,2,1,2,L,N,L,Human Resources,2335.0,1.0,Yes,15.0,4.0,L,4.0,N,3.0,2.0,2.0,2.0,0.0,24
+3990,46.0,Research and Development,17,4.0,4.0,Female,2,2,2,H,N,L,Research and Design Specialists,4615.0,5.0,Yes,23.0,1.0,L,19.0,N,3.0,16.0,13.0,1.0,7.0,44
+3994,41.0,Research and Development,11,3.0,4.0,Male,2,2,2,L,N,H,Manufacturing Director,6032.0,6.0,Yes,15.0,4.0,L,8.0,N,3.0,5.0,4.0,1.0,2.0,44
+4019,36.0,Research and Development,12,2.0,2.0,Male,3,2,2,H,N,H,Manufacturing Director,4941.0,6.0,No,20.0,4.0,H,7.0,Y,3.0,3.0,2.0,0.0,1.0,70
+4208,31.0,Sales,9,3.0,3.0,Male,4,1,2,L,N,L,Sales Representative,2791.0,1.0,No,12.0,1.0,L,3.0,N,3.0,2.0,2.0,2.0,2.0,49
+4313,50.0,Sales,14,3.0,3.0,Male,3,5,3,L,N,H,Manager,19331.0,5.0,Yes,16.0,3.0,H,27.0,Y,3.0,1.0,0.0,0.0,0.0,71
+4417,46.0,Research and Development,22,3.0,3.0,Male,2,3,2,H,N,H,Customercare Representative,10673.0,2.0,Yes,13.0,3.0,L,21.0,Y,2.0,10.0,9.0,9.0,5.0,60
+4508,51.0,Finance,16,4.0,2.0,Male,2,2,2,L,Y,H,Accountant,9223.0,2.0,Yes,17.0,3.0,L,7.0,N,1.0,4.0,6.0,1.0,5.0,79
+4529,24.0,Production,8,3.0,4.0,Male,3,1,1,L,N,L,Machinists,3597.0,7.0,No,22.0,4.0,L,6.0,N,3.0,4.0,3.0,1.0,2.0,47
+4559,49.0,Production,6,3.0,4.0,Female,3,1,2,L,N,L,Machinists,2587.0,9.0,Yes,16.0,2.0,L,17.0,N,2.0,2.0,2.0,2.0,2.0,46
+4701,27.0,Production,11,3.0,4.0,Male,2,1,2,L,N,L,Machinists,4066.0,7.0,No,11.0,1.0,L,7.0,N,3.0,7.0,7.0,0.0,7.0,44
+4730,34.0,Sales,17,1.0,4.0,Female,2,2,1,L,Y,H,Sales Executive,8103.0,5.0,Yes,12.0,3.0,L,9.0,Y,2.0,4.0,2.0,0.0,1.0,56
+4762,24.0,Research and Development,18,2.0,2.0,Male,2,2,3,L,Y,H,Customercare Representative,4617.0,8.0,No,12.0,2.0,L,4.0,Y,2.0,4.0,3.0,1.0,2.0,71
+5010,45.0,Research and Development,4,2.0,1.0,Male,3,1,2,L,N,L,Research and Design Specialists,2654.0,3.0,No,21.0,4.0,L,8.0,N,2.0,2.0,2.0,0.0,2.0,48
+5133,36.0,Production,14,4.0,2.0,Female,3,2,4,H,N,H,Machinists,5674.0,7.0,No,15.0,3.0,H,11.0,Y,3.0,9.0,8.0,0.0,8.0,64
+5139,51.0,Research and Development,15,4.0,1.0,Male,3,1,1,H,N,L,Research and Design Specialists,2461.0,7.0,Yes,12.0,3.0,L,18.0,N,4.0,10.0,0.0,2.0,7.0,37
+5232,36.0,Production,17,4.0,1.0,Male,4,1,1,L,Y,H,Machinists,2810.0,7.0,No,22.0,2.0,L,5.0,Y,3.0,5.0,4.0,0.0,2.0,58
+5238,39.0,IT Support,13,4.0,2.0,Male,3,2,4,L,N,L,IT specialists,5717.0,7.0,Yes,15.0,4.0,H,5.0,N,2.0,2.0,3.0,1.0,4.0,27
+5254,26.0,Research and Development,15,3.0,1.0,Female,3,1,2,H,N,H,Research and Design Specialists,2886.0,1.0,No,22.0,2.0,L,3.0,Y,1.0,3.0,2.0,0.0,2.0,54
+5294,29.0,Sales,24,3.0,2.0,Female,1,1,1,L,Y,L,Sales Representative,2760.0,5.0,No,13.0,3.0,L,2.0,N,3.0,2.0,2.0,2.0,2.0,37
+5296,33.0,Production,10,1.0,1.0,Male,1,1,2,L,N,L,Machinists,3408.0,7.0,No,13.0,1.0,L,8.0,N,3.0,4.0,3.0,1.0,3.0,30
+5320,41.0,Human Resources,11,3.0,3.0,Male,1,2,2,L,Y,H,Human Resources,6430.0,7.0,No,19.0,2.0,L,10.0,N,3.0,3.0,2.0,1.0,2.0,43
+5387,24.0,Production,2,2.0,4.0,Female,3,1,1,L,N,L,Machinists,2210.0,5.0,No,13.0,1.0,L,1.0,N,1.0,1.0,0.0,0.0,0.0,31
+5453,49.0,Research and Development,14,2.0,1.0,Male,2,5,2,L,Y,H,Manager,18711.0,6.0,No,13.0,3.0,L,23.0,Y,4.0,1.0,0.0,0.0,0.0,66
+5574,28.0,Production,8,3.0,1.0,Male,2,1,2,L,N,L,Machinists,2596.0,1.0,No,15.0,1.0,L,1.0,N,3.0,1.0,0.0,0.0,0.0,45
+5576,52.0,Research and Development,16,2.0,4.0,Male,3,4,2,H,Y,H,Manager,17099.0,7.0,No,15.0,2.0,H,26.0,Y,2.0,9.0,8.0,7.0,8.0,77
+5621,23.0,Production,2,2.0,4.0,Male,3,1,2,L,Y,L,Machinists,2647.0,9.0,No,13.0,3.0,L,5.0,Y,4.0,5.0,2.0,1.0,4.0,62
+5649,53.0,Research and Development,13,3.0,4.0,Male,4,4,2,L,Y,H,Research Director,16598.0,3.0,No,12.0,2.0,H,35.0,Y,2.0,9.0,8.0,8.0,8.0,62
+5677,20.0,Research and Development,12,3.0,4.0,Female,2,1,2,H,N,H,Research and Design Specialists,2836.0,6.0,No,13.0,4.0,L,1.0,Y,4.0,1.0,0.0,0.0,0.0,70
+5794,27.0,Production,19,4.0,4.0,Female,3,1,2,L,N,L,Machinists,2341.0,1.0,No,13.0,4.0,L,1.0,N,3.0,1.0,0.0,0.0,0.0,48
+5885,40.0,Research and Development,14,2.0,4.0,Male,3,2,4,H,Y,H,Customercare Representative,4069.0,7.0,Yes,18.0,3.0,H,8.0,Y,3.0,2.0,2.0,2.0,2.0,64
+6150,52.0,IT Support,8,4.0,1.0,Female,4,2,1,H,Y,H,IT specialists,6407.0,9.0,Yes,15.0,3.0,L,7.0,Y,2.0,4.0,6.0,2.0,3.0,62
+6158,41.0,IT Support,24,4.0,1.0,Male,2,5,4,H,Y,H,IT specialists,5514.0,2.0,Yes,17.0,1.0,H,10.0,Y,1.0,7.0,7.0,2.0,5.0,52
+6239,46.0,Sales,23,4.0,4.0,Male,4,4,2,L,Y,H,Manager,17567.0,3.0,No,15.0,2.0,H,27.0,Y,1.0,26.0,0.0,0.0,12.0,70
+6358,37.0,Finance,4,3.0,1.0,Female,3,3,2,L,Y,H,Accountant,9202.0,9.0,No,20.0,1.0,L,10.0,Y,1.0,4.0,7.0,3.0,2.0,63
+6366,43.0,Research and Development,6,3.0,2.0,Female,4,1,2,H,N,H,Research and Design Specialists,4739.0,4.0,No,12.0,4.0,L,18.0,Y,3.0,3.0,2.0,1.0,2.0,53
+6452,27.0,Research and Development,19,3.0,4.0,Male,3,1,4,H,Y,H,Research and Design Specialists,1706.0,2.0,No,11.0,3.0,H,0.0,Y,2.0,0.0,0.0,0.0,0.0,79
+6474,26.0,Research and Development,14,2.0,3.0,Male,3,1,2,L,Y,H,Research and Design Specialists,2875.0,1.0,Yes,20.0,2.0,L,8.0,Y,2.0,8.0,5.0,2.0,2.0,61
+6572,27.0,Research and Development,8,4.0,4.0,Female,3,1,1,H,Y,L,Research and Design Specialists,2394.0,8.0,Yes,13.0,4.0,L,8.0,N,3.0,8.0,2.0,7.0,7.0,27
+6596,24.0,Production,9,3.0,3.0,Male,2,1,2,H,Y,H,Machinists,2694.0,5.0,No,11.0,3.0,L,1.0,Y,3.0,1.0,0.0,0.0,0.0,54
+6621,33.0,Finance,1,3.0,2.0,Male,2,2,2,L,Y,H,Accountant,9800.0,6.0,No,18.0,1.0,L,5.0,Y,3.0,10.0,7.0,3.0,7.0,64
+6736,32.0,Research and Development,11,4.0,2.0,Male,3,1,3,L,N,H,Research and Design Specialists,2718.0,9.0,No,14.0,2.0,L,12.0,Y,3.0,7.0,7.0,0.0,7.0,76
+6837,26.0,Research and Development,22,3.0,3.0,Female,3,2,2,H,N,H,Manufacturing Director,6397.0,1.0,No,20.0,1.0,H,6.0,Y,1.0,6.0,5.0,1.0,4.0,77
+6878,39.0,Research and Development,11,1.0,1.0,Male,3,2,2,L,N,L,Research and Design Specialists,4108.0,1.0,No,13.0,1.0,L,18.0,Y,3.0,7.0,7.0,1.0,7.0,50
+6891,34.0,Sales,20,3.0,1.0,Male,3,3,2,L,Y,H,Sales Executive,9888.0,2.0,No,21.0,1.0,L,14.0,Y,2.0,14.0,8.0,2.0,1.0,57
+6907,36.0,Research and Development,5,5.0,4.0,Female,2,3,1,L,Y,H,Manufacturing Director,8858.0,5.0,No,11.0,2.0,L,15.0,Y,2.0,14.0,8.0,7.0,8.0,51
+6971,55.0,Finance,3,3.0,1.0,Female,3,2,1,L,Y,H,Accountant,9750.0,5.0,No,15.0,4.0,L,5.0,N,2.0,6.0,7.0,1.0,6.0,83
+6980,46.0,Finance,8,3.0,1.0,Male,3,3,2,L,Y,H,Accountant,8608.0,4.0,No,16.0,2.0,H,10.0,Y,2.0,7.0,3.0,2.0,6.0,53
+7003,36.0,Sales,24,4.0,3.0,Female,2,2,1,H,N,H,Sales Executive,5647.0,7.0,No,13.0,1.0,H,11.0,Y,2.0,3.0,2.0,0.0,2.0,58
+7007,31.0,Research and Development,19,1.0,3.0,Female,3,1,1,L,Y,L,Research and Design Specialists,3929.0,8.0,Yes,23.0,3.0,L,7.0,N,3.0,4.0,2.0,0.0,2.0,38
+7097,36.0,Sales,23,4.0,3.0,Female,3,2,4,L,N,H,Customercare Representative,4502.0,5.0,No,15.0,3.0,L,17.0,Y,2.0,13.0,7.0,6.0,7.0,64
+7180,42.0,Human Resources,6,3.0,3.0,Female,3,4,1,H,N,H,Manager,16799.0,9.0,No,14.0,3.0,H,21.0,Y,3.0,20.0,7.0,0.0,9.0,58
+7195,40.0,Sales,16,2.0,4.0,Female,3,2,2,L,N,L,Sales Executive,4639.0,4.0,No,15.0,3.0,L,5.0,N,3.0,5.0,4.0,1.0,2.0,33
+7286,49.0,Research and Development,3,2.0,3.0,Female,2,4,1,H,N,H,Customercare Representative,13964.0,7.0,Yes,12.0,4.0,L,25.0,Y,3.0,7.0,1.0,0.0,7.0,51
+7361,41.0,Research and Development,21,3.0,2.0,Male,4,2,1,L,Y,H,Customercare Representative,6870.0,1.0,No,12.0,1.0,H,11.0,Y,1.0,3.0,2.0,1.0,2.0,56
+7389,36.0,Research and Development,21,3.0,4.0,Female,3,1,2,L,N,L,Research and Design Specialists,2543.0,4.0,No,13.0,2.0,L,6.0,N,3.0,2.0,2.0,2.0,2.0,49
+7451,54.0,Research and Development,7,4.0,4.0,Female,3,2,1,L,N,L,Research and Design Specialists,4869.0,3.0,No,12.0,4.0,L,20.0,N,2.0,4.0,3.0,0.0,3.0,39
+7474,45.0,Production,14,5.0,3.0,Female,1,2,1,L,N,L,Machinists,5769.0,1.0,Yes,14.0,1.0,L,10.0,N,3.0,10.0,7.0,1.0,4.0,40
+7488,44.0,Finance,10,4.0,2.0,Male,2,3,1,L,Y,H,Accountant,8249.0,8.0,Yes,15.0,3.0,H,9.0,Y,2.0,4.0,3.0,3.0,6.0,57
+7551,34.0,Human Resources,9,3.0,3.0,Male,2,2,2,H,N,H,Human Resources,4490.0,7.0,No,11.0,4.0,L,14.0,Y,4.0,10.0,9.0,1.0,8.0,59
+7561,29.0,Production,13,3.0,1.0,Male,2,3,4,L,N,L,Production Supervisors,5929.0,8.0,No,15.0,1.0,H,6.0,Y,1.0,4.0,7.0,1.0,3.0,30
+7689,35.0,Research and Development,1,4.0,4.0,Female,4,1,3,H,Y,H,Research and Design Specialists,2506.0,1.0,No,13.0,3.0,H,7.0,Y,3.0,2.0,2.0,2.0,2.0,83
+7722,29.0,Research and Development,23,1.0,4.0,Male,3,2,3,H,Y,H,Manufacturing Director,4319.0,1.0,No,13.0,1.0,H,10.0,Y,3.0,10.0,7.0,0.0,9.0,76
+7725,45.0,Production,3,2.0,4.0,Male,3,2,2,H,N,L,Machinists,3633.0,5.0,Yes,15.0,3.0,L,9.0,N,3.0,9.0,8.0,0.0,8.0,46
+7784,31.0,Sales,15,4.0,1.0,Male,4,2,3,H,N,H,Sales Executive,5460.0,4.0,No,22.0,4.0,H,13.0,Y,4.0,7.0,7.0,5.0,7.0,71
+7935,22.0,Research and Development,14,1.0,3.0,Male,3,1,2,L,N,L,Research and Design Specialists,2323.0,1.0,No,24.0,1.0,L,2.0,N,3.0,2.0,2.0,2.0,2.0,45
+7952,34.0,Research and Development,18,4.0,4.0,Male,4,1,3,L,Y,H,Research and Design Specialists,2932.0,1.0,Yes,14.0,1.0,H,6.0,Y,3.0,5.0,0.0,1.0,2.0,84
+7999,24.0,Sales,19,2.0,4.0,Female,3,1,1,L,N,H,Sales Representative,2033.0,9.0,No,13.0,3.0,H,1.0,Y,3.0,1.0,0.0,0.0,0.0,56
+8019,37.0,Research and Development,13,2.0,2.0,Male,3,1,2,L,N,L,Research and Design Specialists,3022.0,4.0,No,21.0,1.0,L,8.0,Y,3.0,1.0,0.0,0.0,0.0,47
+8023,53.0,IT Support,1,4.0,2.0,Male,3,3,1,L,Y,H,IT specialists,5782.0,7.0,No,17.0,3.0,H,5.0,Y,3.0,8.0,2.0,2.0,7.0,57
+8082,27.0,Sales,21,1.0,3.0,Male,3,2,1,H,N,H,Sales Executive,6349.0,0.0,Yes,13.0,4.0,L,6.0,Y,3.0,5.0,4.0,1.0,4.0,58
+8141,35.0,Finance,16,4.0,2.0,Male,2,3,2,L,Y,H,Accountant,9662.0,2.0,Yes,19.0,2.0,L,7.0,Y,1.0,9.0,6.0,3.0,5.0,73
+8158,50.0,Production,17,1.0,4.0,Male,4,1,1,L,N,L,Machinists,3221.0,2.0,Yes,11.0,3.0,L,20.0,N,3.0,20.0,8.0,3.0,8.0,32
+8180,30.0,Production,17,3.0,2.0,Female,3,1,1,L,N,L,Machinists,2422.0,2.0,No,17.0,1.0,L,4.0,N,3.0,3.0,2.0,1.0,2.0,31
+8228,29.0,Finance,21,3.0,2.0,Male,3,3,2,H,N,H,Accountant,9218.0,8.0,Yes,18.0,1.0,H,8.0,N,3.0,4.0,6.0,1.0,4.0,35
+8443,25.0,Production,14,1.0,4.0,Male,3,1,1,L,N,L,Machinists,3691.0,2.0,Yes,15.0,2.0,L,7.0,N,4.0,7.0,7.0,5.0,6.0,28
+8566,21.0,Sales,10,3.0,3.0,Female,4,1,1,L,N,L,Sales Representative,2716.0,1.0,No,15.0,4.0,L,1.0,N,3.0,1.0,0.0,0.0,0.0,37
+8648,35.0,IT Support,11,3.0,1.0,Female,3,3,3,H,Y,H,IT specialists,10818.0,9.0,Yes,16.0,2.0,H,8.0,Y,1.0,2.0,6.0,2.0,6.0,78
+8654,34.0,Production,12,3.0,4.0,Female,2,1,4,H,Y,H,Machinists,3294.0,8.0,No,17.0,1.0,H,7.0,Y,2.0,5.0,4.0,0.0,2.0,82
+8693,40.0,Finance,14,4.0,2.0,Male,3,2,2,L,Y,H,Accountant,8979.0,9.0,Yes,18.0,2.0,L,8.0,Y,3.0,2.0,7.0,1.0,2.0,61
+8710,40.0,Research and Development,18,4.0,3.0,Female,3,1,2,L,N,L,Research and Design Specialists,2001.0,6.0,No,14.0,2.0,L,20.0,N,3.0,5.0,3.0,0.0,2.0,46
+8724,18.0,Sales,7,2.0,2.0,Female,3,1,2,L,Y,L,Sales Representative,1569.0,8.0,Yes,12.0,3.0,L,0.0,Y,4.0,0.0,0.0,0.0,0.0,50
+8810,32.0,Production,19,4.0,1.0,Male,3,2,4,H,N,H,Machinists,5309.0,6.0,No,15.0,4.0,L,10.0,Y,3.0,10.0,8.0,4.0,7.0,63
+8824,41.0,Sales,16,2.0,2.0,Female,3,1,1,L,N,L,Sales Representative,3140.0,1.0,Yes,22.0,4.0,L,4.0,N,2.0,4.0,3.0,0.0,2.0,22
+8839,54.0,Human Resources,23,4.0,3.0,Male,3,3,1,H,N,H,Human Resources,10725.0,2.0,No,15.0,3.0,L,16.0,Y,4.0,9.0,7.0,7.0,1.0,58
+9049,37.0,Finance,25,3.0,1.0,Female,3,3,4,H,Y,H,Accountant,9172.0,8.0,Yes,19.0,4.0,H,6.0,Y,3.0,6.0,6.0,1.0,6.0,56
+9087,37.0,Research and Development,1,3.0,2.0,Male,3,1,1,L,Y,L,Research and Design Specialists,2326.0,1.0,Yes,12.0,3.0,L,4.0,N,2.0,4.0,2.0,1.0,2.0,40
+9095,31.0,Research and Development,7,3.0,2.0,Male,2,2,1,H,N,H,Customercare Representative,5582.0,0.0,No,21.0,2.0,L,10.0,Y,3.0,9.0,0.0,7.0,8.0,51
+9188,53.0,Finance,9,4.0,2.0,Female,2,2,4,H,N,H,Accountant,9097.0,2.0,No,17.0,2.0,L,5.0,N,3.0,8.0,5.0,2.0,2.0,36
+9214,25.0,Research and Development,9,1.0,4.0,Male,4,2,4,L,N,H,Manufacturing Director,5206.0,5.0,No,17.0,3.0,L,7.0,Y,3.0,7.0,7.0,0.0,7.0,63
+9251,47.0,Finance,20,4.0,2.0,Female,3,3,2,L,Y,H,Accountant,8455.0,8.0,No,15.0,2.0,L,8.0,N,3.0,6.0,3.0,1.0,6.0,56
+9307,40.0,Finance,7,3.0,2.0,Male,2,2,1,L,Y,H,Accountant,8835.0,9.0,No,20.0,2.0,L,7.0,N,2.0,8.0,7.0,3.0,7.0,74
+9454,33.0,Sales,12,3.0,3.0,Female,3,2,2,L,N,L,Sales Executive,5368.0,8.0,Yes,25.0,3.0,L,7.0,Y,3.0,6.0,5.0,1.0,2.0,50
+9523,52.0,Sales,22,4.0,1.0,Male,2,5,4,H,Y,H,Manager,19068.0,1.0,Yes,18.0,4.0,H,33.0,Y,4.0,33.0,7.0,15.0,12.0,79
+9548,25.0,Production,21,4.0,1.0,Male,3,1,1,L,N,L,Production Supervisors,5217.0,5.0,No,19.0,3.0,H,7.0,N,2.0,8.0,5.0,1.0,2.0,31
+9677,46.0,Research and Development,1,2.0,4.0,Female,3,2,2,L,Y,H,Customercare Representative,8926.0,7.0,No,22.0,4.0,H,13.0,N,4.0,9.0,7.0,3.0,7.0,30
+9706,27.0,Research and Development,23,4.0,2.0,Male,3,1,3,L,Y,H,Research and Design Specialists,2226.0,6.0,No,11.0,3.0,L,6.0,Y,2.0,5.0,3.0,1.0,2.0,83
+9751,35.0,Sales,19,3.0,3.0,Male,3,2,1,L,Y,L,Sales Executive,5813.0,3.0,Yes,18.0,4.0,H,10.0,N,3.0,10.0,7.0,7.0,7.0,38
+9890,34.0,Research and Development,2,1.0,4.0,Male,2,2,2,H,Y,L,Manufacturing Director,9547.0,1.0,No,17.0,3.0,H,10.0,Y,2.0,10.0,9.0,1.0,9.0,77
+9953,59.0,Research and Development,16,4.0,4.0,Male,3,3,2,L,Y,H,Manufacturing Director,10512.0,9.0,No,12.0,4.0,H,25.0,N,2.0,9.0,7.0,5.0,4.0,43
+9978,29.0,Research and Development,15,3.0,4.0,Female,2,1,1,L,Y,H,Research and Design Specialists,2404.0,8.0,Yes,20.0,3.0,L,3.0,Y,3.0,0.0,0.0,0.0,0.0,58
+9994,47.0,Research and Development,2,4.0,3.0,Male,4,2,4,H,Y,H,Manufacturing Director,5067.0,4.0,Yes,19.0,3.0,L,20.0,Y,4.0,19.0,10.0,2.0,7.0,63
+9996,46.0,Sales,14,3.0,3.0,Female,2,3,4,H,N,H,Sales Executive,9071.0,2.0,Yes,19.0,3.0,H,15.0,Y,3.0,3.0,2.0,1.0,2.0,63
+10059,23.0,Sales,19,3.0,4.0,Male,3,1,1,L,N,L,Sales Representative,1790.0,8.0,No,19.0,1.0,H,1.0,N,2.0,1.0,0.0,1.0,0.0,37
+10292,42.0,Research and Development,9,3.0,1.0,Male,3,5,2,L,Y,H,Manager,18880.0,7.0,No,11.0,1.0,L,24.0,Y,2.0,22.0,6.0,4.0,14.0,62
+10344,55.0,Sales,4,4.0,1.0,Male,4,4,2,H,N,H,Sales Executive,13695.0,4.0,Yes,17.0,3.0,H,24.0,N,2.0,19.0,7.0,3.0,8.0,48
+10376,31.0,Sales,6,4.0,1.0,Female,3,3,2,L,Y,L,Sales Executive,9637.0,4.0,No,14.0,4.0,H,9.0,Y,3.0,3.0,2.0,2.0,2.0,62
+10380,34.0,Research and Development,14,5.0,2.0,Female,3,2,2,H,N,H,Manufacturing Director,5121.0,1.0,No,14.0,3.0,L,7.0,Y,3.0,0.0,0.0,0.0,0.0,54
+10388,36.0,Sales,8,4.0,3.0,Male,2,1,4,H,N,H,Sales Representative,3407.0,7.0,No,23.0,2.0,H,10.0,Y,3.0,5.0,3.0,0.0,3.0,63
+10399,31.0,Sales,11,4.0,2.0,Female,1,1,2,L,Y,L,Sales Representative,1359.0,4.0,No,12.0,2.0,L,1.0,N,3.0,1.0,0.0,0.0,0.0,36
+10424,44.0,Research and Development,11,4.0,1.0,Female,2,3,1,H,N,H,Customercare Representative,10248.0,3.0,No,14.0,4.0,L,24.0,Y,3.0,22.0,6.0,5.0,17.0,58
+10473,31.0,Sales,8,3.0,1.0,Male,3,2,2,L,N,H,Sales Executive,8346.0,9.0,No,19.0,3.0,L,6.0,N,3.0,5.0,2.0,0.0,2.0,41
+10508,33.0,Production,15,3.0,3.0,Male,3,1,2,H,N,L,Machinists,2496.0,4.0,No,11.0,4.0,H,7.0,Y,3.0,1.0,1.0,0.0,0.0,72
+10552,37.0,Finance,24,4.0,2.0,Male,2,2,1,L,Y,L,Accountant,8745.0,4.0,No,16.0,2.0,L,10.0,Y,2.0,8.0,3.0,1.0,4.0,82
+10563,32.0,Sales,14,4.0,3.0,Male,2,2,2,L,N,L,Sales Executive,9907.0,4.0,Yes,12.0,3.0,H,7.0,Y,2.0,2.0,2.0,2.0,2.0,59
+10663,29.0,Research and Development,16,4.0,1.0,Male,2,1,1,H,Y,L,Research and Design Specialists,2362.0,4.0,No,13.0,3.0,L,11.0,N,1.0,9.0,7.0,0.0,7.0,35
+10732,25.0,Production,3,3.0,1.0,Male,3,1,2,L,Y,H,Machinists,3229.0,4.0,No,11.0,2.0,H,7.0,Y,2.0,3.0,2.0,0.0,2.0,70
+10742,33.0,Sales,13,4.0,2.0,Male,3,2,4,L,Y,H,Sales Executive,5487.0,8.0,No,14.0,2.0,L,10.0,Y,2.0,10.0,4.0,0.0,9.0,67
+10761,25.0,Sales,21,3.0,2.0,Female,4,5,3,L,Y,H,IT specialists,6213.0,8.0,No,20.0,2.0,L,7.0,Y,3.0,2.0,6.0,3.0,7.0,85
+10812,28.0,Research and Development,20,3.0,3.0,Female,3,1,2,L,N,H,Research and Design Specialists,3591.0,2.0,No,25.0,3.0,H,3.0,Y,3.0,3.0,2.0,1.0,2.0,60
+10860,33.0,Research and Development,21,2.0,1.0,Female,3,3,2,H,N,H,Research Director,13458.0,1.0,Yes,12.0,3.0,H,15.0,Y,3.0,15.0,14.0,8.0,12.0,70
+10986,29.0,Sales,11,3.0,2.0,Female,3,3,2,L,N,H,Sales Executive,7639.0,1.0,No,22.0,4.0,L,10.0,Y,2.0,10.0,4.0,1.0,9.0,50
+10992,33.0,Sales,7,4.0,1.0,Male,3,2,1,L,N,H,Sales Executive,6392.0,5.0,No,13.0,4.0,H,8.0,N,1.0,2.0,2.0,2.0,2.0,47
+11001,26.0,Human Resources,15,4.0,2.0,Female,3,1,1,L,N,L,Human Resources,2741.0,0.0,Yes,11.0,2.0,L,8.0,N,2.0,7.0,7.0,1.0,0.0,37
+11139,33.0,Production,16,2.0,2.0,Male,2,1,2,L,Y,H,Machinists,2008.0,9.0,No,12.0,3.0,L,1.0,Y,2.0,1.0,1.0,0.0,0.0,62
+11336,44.0,Research and Development,22,2.0,2.0,Male,3,1,2,H,Y,H,Research and Design Specialists,2559.0,9.0,Yes,13.0,4.0,L,8.0,Y,3.0,8.0,7.0,7.0,1.0,53
+11378,43.0,Research and Development,7,3.0,4.0,Female,3,2,4,L,Y,H,Customercare Representative,5562.0,7.0,No,13.0,2.0,L,12.0,Y,2.0,5.0,2.0,2.0,2.0,67
+11414,32.0,Research and Development,22,2.0,1.0,Male,4,1,3,H,N,H,Research and Design Specialists,3298.0,0.0,Yes,12.0,4.0,H,7.0,Y,2.0,6.0,2.0,0.0,5.0,76
+11436,34.0,Production,1,4.0,4.0,Male,3,2,2,L,Y,L,Machinists,5346.0,8.0,No,17.0,3.0,H,11.0,N,2.0,7.0,1.0,0.0,7.0,41
+11526,51.0,Sales,10,3.0,4.0,Male,3,5,2,H,Y,H,Manager,19847.0,7.0,Yes,24.0,1.0,L,31.0,Y,2.0,29.0,10.0,11.0,10.0,70
+11774,27.0,Finance,16,4.0,2.0,Male,3,3,3,H,N,H,Accountant,8911.0,4.0,No,20.0,4.0,H,10.0,N,2.0,5.0,3.0,3.0,7.0,31
+11784,32.0,Finance,19,3.0,1.0,Female,2,2,1,L,N,H,Accountant,9189.0,6.0,Yes,15.0,1.0,H,5.0,Y,3.0,4.0,7.0,1.0,6.0,29
+11824,30.0,Production,1,2.0,3.0,Female,3,2,2,H,N,H,Machinists,4011.0,1.0,No,23.0,4.0,L,12.0,Y,3.0,12.0,8.0,3.0,7.0,58
+12033,41.0,Research and Development,15,2.0,2.0,Female,4,1,4,L,Y,H,Research and Design Specialists,3376.0,1.0,No,13.0,3.0,H,10.0,Y,3.0,10.0,6.0,0.0,8.0,82
+12320,47.0,Finance,9,4.0,2.0,Male,2,2,2,L,Y,L,Accountant,8354.0,7.0,Yes,20.0,2.0,H,10.0,Y,3.0,10.0,2.0,2.0,4.0,56
+12411,29.0,Finance,21,3.0,2.0,Male,2,3,2,L,N,H,Accountant,9492.0,8.0,Yes,17.0,4.0,L,8.0,Y,1.0,8.0,5.0,2.0,5.0,49
+12492,35.0,IT Support,7,3.0,1.0,Male,4,5,1,H,Y,H,IT specialists,6916.0,7.0,No,15.0,1.0,H,6.0,Y,1.0,5.0,4.0,1.0,2.0,80
+12571,43.0,Research and Development,23,3.0,1.0,Male,3,3,4,L,Y,L,Customercare Representative,7510.0,4.0,No,17.0,2.0,L,10.0,Y,3.0,10.0,9.0,0.0,9.0,65
+12594,37.0,Research and Development,9,2.0,3.0,Female,2,2,1,H,Y,H,Customercare Representative,5731.0,6.0,No,13.0,3.0,L,9.0,Y,3.0,6.0,2.0,1.0,3.0,51
+12723,32.0,Production,11,3.0,2.0,Male,4,1,4,H,Y,H,Machinists,2794.0,1.0,No,20.0,3.0,H,5.0,Y,1.0,5.0,1.0,0.0,3.0,64
+12737,20.0,Production,8,3.0,4.0,Female,2,1,2,H,N,L,Machinists,2926.0,1.0,Yes,18.0,2.0,H,1.0,Y,3.0,1.0,0.0,1.0,0.0,61
+12803,47.0,Finance,6,3.0,1.0,Male,2,3,4,L,N,H,Accountant,9205.0,8.0,Yes,18.0,2.0,H,7.0,N,1.0,10.0,5.0,2.0,2.0,29
+12841,46.0,Human Resources,14,2.0,2.0,Male,3,2,2,L,Y,L,Human Resources,5021.0,8.0,Yes,22.0,4.0,L,16.0,Y,3.0,4.0,2.0,0.0,2.0,33
+12868,53.0,Finance,12,4.0,1.0,Female,3,2,2,H,N,H,Accountant,9933.0,8.0,Yes,18.0,1.0,H,10.0,N,2.0,5.0,5.0,1.0,7.0,46
+12927,40.0,IT Support,10,2.0,1.0,Male,3,3,3,L,N,H,Human Resources,6247.0,7.0,Yes,18.0,2.0,L,8.0,Y,3.0,2.0,7.0,1.0,2.0,63
+13164,35.0,Production,17,3.0,4.0,Male,2,1,2,L,N,H,Machinists,2450.0,3.0,No,19.0,2.0,H,3.0,Y,3.0,3.0,0.0,1.0,2.0,73
+13223,28.0,Production,19,2.0,3.0,Male,3,2,1,H,N,H,Machinists,4558.0,1.0,No,12.0,4.0,L,10.0,Y,3.0,10.0,0.0,1.0,8.0,56
+13259,21.0,Sales,18,1.0,2.0,Male,3,1,2,L,Y,L,Sales Representative,2679.0,8.0,No,13.0,2.0,H,1.0,N,3.0,1.0,0.0,1.0,0.0,48
+13282,51.0,Production,8,3.0,1.0,Male,3,2,4,L,N,H,Production Supervisors,6735.0,8.0,No,19.0,3.0,H,10.0,N,1.0,9.0,5.0,3.0,2.0,32
+13367,28.0,Sales,20,4.0,1.0,Male,3,2,2,L,N,L,Sales Executive,4908.0,7.0,No,14.0,2.0,L,4.0,Y,3.0,4.0,2.0,0.0,2.0,50
+13471,44.0,Sales,14,3.0,2.0,Male,3,5,2,L,Y,H,Manager,18213.0,6.0,No,11.0,3.0,H,26.0,N,3.0,22.0,9.0,3.0,10.0,49
+13549,32.0,Research and Development,2,3.0,3.0,Female,2,2,2,L,N,H,Manufacturing Director,6162.0,4.0,No,12.0,3.0,L,14.0,N,3.0,14.0,13.0,6.0,8.0,44
+13593,28.0,Sales,16,3.0,4.0,Male,3,2,1,L,Y,H,Sales Executive,8463.0,2.0,No,18.0,4.0,H,6.0,Y,3.0,5.0,4.0,1.0,3.0,56
+13640,38.0,Research and Development,12,2.0,3.0,Male,2,3,2,L,N,L,Research Director,11510.0,0.0,Yes,14.0,2.0,L,12.0,N,3.0,11.0,10.0,2.0,9.0,44
+14101,37.0,Research and Development,15,3.0,4.0,Female,2,2,2,H,Y,H,Manufacturing Director,6474.0,6.0,No,13.0,2.0,L,14.0,Y,2.0,14.0,8.0,3.0,11.0,70
+14115,49.0,Production,13,4.0,1.0,Male,3,3,3,H,Y,H,IT specialists,8760.0,1.0,Yes,16.0,1.0,L,6.0,Y,1.0,7.0,6.0,1.0,4.0,75
+14255,44.0,Human Resources,19,2.0,2.0,Male,2,3,2,L,Y,H,Human Resources,10482.0,6.0,No,14.0,4.0,L,24.0,Y,3.0,20.0,6.0,3.0,6.0,62
+14299,27.0,Research and Development,9,4.0,1.0,Female,3,2,2,H,Y,H,Manufacturing Director,4227.0,1.0,No,18.0,2.0,L,4.0,Y,3.0,3.0,2.0,2.0,2.0,53
+14390,35.0,Research and Development,15,4.0,2.0,Male,3,2,3,L,Y,H,Research and Design Specialists,5098.0,7.0,No,19.0,2.0,L,10.0,Y,3.0,10.0,7.0,0.0,8.0,71
+14467,40.0,Research and Development,11,1.0,4.0,Female,3,5,2,H,Y,H,Manager,19033.0,1.0,No,14.0,2.0,L,21.0,Y,3.0,20.0,8.0,9.0,9.0,59
+14599,37.0,Production,15,2.0,4.0,Male,2,1,1,L,Y,L,Machinists,2090.0,6.0,Yes,15.0,2.0,L,7.0,N,3.0,0.0,0.0,0.0,0.0,35
+14628,30.0,Research and Development,11,1.0,2.0,Male,3,1,2,L,N,L,Research and Design Specialists,2862.0,6.0,No,12.0,2.0,L,10.0,Y,2.0,10.0,0.0,0.0,8.0,50
+14669,31.0,Research and Development,25,1.0,3.0,Female,3,2,2,H,Y,H,Manufacturing Director,4148.0,6.0,No,12.0,3.0,L,4.0,Y,3.0,4.0,3.0,0.0,3.0,66
+14705,47.0,Sales,18,3.0,3.0,Female,3,2,2,L,N,L,Sales Executive,4591.0,9.0,Yes,17.0,3.0,H,11.0,N,2.0,5.0,4.0,1.0,2.0,46
+14733,29.0,Research and Development,25,1.0,3.0,Female,1,2,2,L,N,H,Customercare Representative,9715.0,9.0,No,13.0,3.0,H,9.0,Y,3.0,7.0,7.0,0.0,7.0,59
+14778,30.0,IT Support,24,3.0,1.0,Male,3,2,2,H,Y,H,IT specialists,10909.0,6.0,No,18.0,4.0,L,10.0,Y,1.0,3.0,4.0,2.0,6.0,69
+14810,36.0,Research and Development,8,4.0,1.0,Male,3,2,2,L,N,L,Customercare Representative,5347.0,7.0,No,14.0,2.0,L,10.0,N,2.0,3.0,2.0,0.0,2.0,46
+14955,40.0,Production,14,3.0,2.0,Female,2,2,2,H,N,H,Machinists,3448.0,6.0,No,22.0,2.0,H,20.0,Y,3.0,1.0,0.0,0.0,0.0,92
+14980,32.0,Research and Development,19,2.0,4.0,Female,3,2,2,L,Y,H,Research and Design Specialists,4998.0,9.0,Yes,14.0,4.0,L,10.0,Y,3.0,8.0,7.0,0.0,7.0,68
+14986,52.0,Sales,7,4.0,1.0,Male,2,3,1,H,Y,H,IT specialists,10266.0,3.0,No,15.0,1.0,H,10.0,Y,3.0,3.0,2.0,1.0,2.0,70
+15161,29.0,Production,8,3.0,2.0,Female,3,1,2,H,N,L,Machinists,3339.0,5.0,Yes,13.0,1.0,H,10.0,N,3.0,7.0,7.0,7.0,7.0,30
+15182,28.0,Production,15,4.0,1.0,Male,3,1,2,L,Y,L,Machinists,3485.0,2.0,No,11.0,3.0,L,5.0,N,1.0,0.0,0.0,0.0,0.0,44
+15187,56.0,Research and Development,20,2.0,1.0,Female,3,1,4,H,N,H,Research and Design Specialists,2066.0,4.0,No,22.0,4.0,H,5.0,Y,4.0,3.0,2.0,1.0,0.0,63
+15317,30.0,Research and Development,24,4.0,2.0,Female,3,3,2,L,N,H,Manager,11916.0,1.0,Yes,23.0,4.0,L,9.0,Y,3.0,9.0,1.0,0.0,8.0,50
+15563,56.0,Research and Development,16,4.0,2.0,Female,3,1,2,L,Y,L,Research and Design Specialists,4963.0,9.0,Yes,18.0,1.0,L,7.0,N,3.0,5.0,4.0,4.0,3.0,33
+15613,28.0,Research and Development,8,1.0,3.0,Male,1,2,1,L,N,H,Manufacturing Director,6549.0,3.0,No,14.0,2.0,L,8.0,N,2.0,8.0,6.0,1.0,7.0,39
+15689,34.0,Finance,19,4.0,1.0,Male,2,3,1,L,Y,H,Accountant,9626.0,7.0,Yes,20.0,1.0,L,8.0,Y,3.0,7.0,6.0,1.0,3.0,78
+15692,45.0,Research and Development,21,2.0,4.0,Female,2,4,2,L,Y,H,Research Director,16704.0,5.0,No,11.0,3.0,L,21.0,N,3.0,21.0,6.0,8.0,6.0,42
+15837,34.0,Production,19,2.0,2.0,Male,2,2,2,L,N,H,Machinists,3986.0,8.0,No,14.0,3.0,L,15.0,Y,4.0,15.0,10.0,4.0,13.0,66
+15869,29.0,Research and Development,11,3.0,4.0,Female,2,1,2,L,N,L,Research and Design Specialists,2109.0,9.0,No,13.0,3.0,L,1.0,N,3.0,1.0,0.0,0.0,0.0,49
+16069,40.0,Production,15,4.0,1.0,Male,2,2,4,H,Y,H,Machinists,5094.0,1.0,No,14.0,4.0,L,10.0,Y,3.0,1.0,0.0,0.0,0.0,67
+16142,43.0,Production,11,5.0,4.0,Male,3,2,4,H,N,H,Machinists,5679.0,6.0,Yes,13.0,2.0,L,10.0,Y,3.0,8.0,7.0,4.0,7.0,65
+16180,36.0,Sales,22,4.0,1.0,Female,3,2,4,L,N,H,Sales Executive,9278.0,5.0,Yes,16.0,4.0,H,15.0,Y,3.0,5.0,4.0,0.0,1.0,67
+16198,44.0,Research and Development,9,3.0,1.0,Female,3,3,2,L,N,H,Customercare Representative,7978.0,4.0,No,11.0,4.0,H,10.0,N,3.0,10.0,7.0,0.0,5.0,25
+16203,21.0,Production,6,2.0,1.0,Female,2,1,2,H,N,L,Machinists,2625.0,2.0,No,20.0,3.0,H,2.0,N,1.0,2.0,2.0,2.0,2.0,24
+16337,33.0,Finance,10,4.0,2.0,Female,2,3,1,L,N,H,Accountant,8359.0,5.0,Yes,15.0,3.0,L,6.0,N,2.0,8.0,4.0,2.0,5.0,32
+16426,39.0,Research and Development,20,3.0,2.0,Female,3,3,1,L,N,H,Manufacturing Director,8376.0,8.0,No,18.0,4.0,H,9.0,Y,3.0,2.0,0.0,2.0,2.0,51
+16434,35.0,Production,6,3.0,2.0,Female,3,2,2,H,N,H,Machinists,4425.0,5.0,No,11.0,4.0,H,10.0,Y,3.0,6.0,2.0,1.0,2.0,70
+16454,49.0,Sales,17,3.0,4.0,Male,2,2,1,L,N,L,Sales Executive,5390.0,9.0,No,14.0,4.0,L,17.0,N,2.0,9.0,6.0,0.0,8.0,47
+16459,49.0,Research and Development,17,3.0,3.0,Male,3,4,2,L,Y,H,Manager,15379.0,5.0,No,14.0,1.0,L,23.0,Y,3.0,8.0,7.0,0.0,0.0,60
+16466,33.0,Research and Development,1,4.0,2.0,Female,2,3,1,H,N,H,IT specialists,6383.0,1.0,No,19.0,1.0,L,9.0,N,2.0,6.0,5.0,1.0,7.0,45
+16517,43.0,Production,1,4.0,2.0,Male,2,5,2,L,Y,H,Production Supervisors,7186.0,1.0,No,17.0,1.0,L,7.0,Y,1.0,7.0,5.0,1.0,5.0,58
+16751,45.0,Research and Development,24,2.0,4.0,Female,2,2,3,L,N,H,Manufacturing Director,5770.0,9.0,No,19.0,1.0,L,10.0,Y,3.0,10.0,7.0,3.0,9.0,75
+16790,45.0,Research and Development,10,3.0,2.0,Male,1,3,2,H,Y,H,Customercare Representative,10851.0,2.0,Yes,18.0,2.0,H,24.0,N,3.0,7.0,7.0,0.0,7.0,44
+16794,31.0,Production,20,2.0,3.0,Male,2,1,2,L,N,L,Machinists,3479.0,0.0,No,11.0,2.0,L,6.0,N,4.0,5.0,4.0,1.0,4.0,11
+16875,43.0,Sales,1,3.0,4.0,Male,2,2,2,L,N,H,Sales Executive,6804.0,8.0,No,18.0,3.0,L,7.0,N,3.0,2.0,2.0,2.0,2.0,43
+16908,42.0,Finance,16,3.0,2.0,Male,2,2,2,L,Y,H,Accountant,8989.0,4.0,Yes,18.0,4.0,H,10.0,N,1.0,7.0,3.0,2.0,3.0,71
+16909,51.0,IT Support,7,3.0,2.0,Male,2,3,2,H,Y,H,IT specialists,8169.0,5.0,No,17.0,4.0,H,9.0,Y,3.0,6.0,6.0,2.0,7.0,57
+16924,35.0,Research and Development,6,3.0,2.0,Male,3,1,3,L,N,L,Research and Design Specialists,2194.0,4.0,No,13.0,4.0,L,5.0,Y,2.0,3.0,2.0,1.0,2.0,46
+16986,40.0,Research and Development,13,3.0,3.0,Female,3,3,2,L,Y,H,Manufacturing Director,7945.0,7.0,Yes,15.0,4.0,L,18.0,N,2.0,4.0,2.0,3.0,3.0,41
+17043,51.0,Research and Development,1,4.0,2.0,Male,2,2,4,H,N,H,Manufacturing Director,6132.0,2.0,No,17.0,3.0,H,10.0,Y,3.0,1.0,0.0,0.0,0.0,65
+17128,31.0,Research and Development,24,3.0,3.0,Female,3,3,2,L,N,H,Research Director,11031.0,5.0,No,20.0,3.0,L,13.0,N,4.0,11.0,7.0,4.0,8.0,46
+17133,37.0,Human Resources,15,2.0,3.0,Male,3,2,2,L,Y,H,Human Resources,4071.0,5.0,No,13.0,3.0,H,19.0,N,2.0,10.0,0.0,4.0,7.0,48
+17135,55.0,Production,15,3.0,2.0,Male,4,3,1,L,N,H,Production Supervisors,6812.0,2.0,Yes,18.0,4.0,H,7.0,Y,2.0,3.0,4.0,1.0,2.0,34
+17420,32.0,Research and Development,23,1.0,4.0,Male,3,1,4,H,N,H,Research and Design Specialists,2956.0,1.0,No,13.0,4.0,L,1.0,Y,3.0,1.0,0.0,0.0,0.0,59
+17454,59.0,Sales,5,1.0,1.0,Female,2,2,2,L,N,L,Sales Executive,5473.0,7.0,No,11.0,4.0,L,20.0,Y,2.0,4.0,3.0,1.0,3.0,49
+17481,39.0,Research and Development,10,2.0,3.0,Male,2,5,4,H,N,H,Manager,19272.0,1.0,No,15.0,1.0,H,21.0,Y,3.0,21.0,9.0,13.0,3.0,64
+17506,32.0,Production,3,3.0,3.0,Female,2,1,3,L,N,H,Machinists,2743.0,5.0,No,20.0,3.0,L,2.0,Y,3.0,2.0,2.0,2.0,2.0,86
+17580,56.0,Sales,18,3.0,3.0,Female,4,4,2,L,N,H,Sales Executive,13212.0,9.0,No,11.0,4.0,L,36.0,N,2.0,7.0,7.0,7.0,7.0,43
+17603,31.0,Research and Development,17,1.0,3.0,Male,3,3,2,H,N,L,Manufacturing Director,10648.0,1.0,No,25.0,4.0,L,13.0,Y,4.0,13.0,8.0,0.0,8.0,60
+17607,27.0,Research and Development,11,3.0,3.0,Male,3,1,2,H,N,H,Research and Design Specialists,3058.0,0.0,Yes,16.0,4.0,L,6.0,Y,2.0,5.0,2.0,1.0,1.0,52
+17629,36.0,Sales,2,3.0,1.0,Female,2,3,2,L,Y,H,Sales Executive,7644.0,4.0,No,19.0,3.0,L,10.0,Y,3.0,9.0,7.0,3.0,4.0,68
+17697,45.0,Research and Development,13,2.0,2.0,Female,2,2,2,L,Y,H,Manufacturing Director,5906.0,5.0,No,13.0,4.0,H,10.0,Y,2.0,9.0,8.0,3.0,8.0,61
+17760,30.0,Research and Development,4,3.0,2.0,Male,2,1,1,L,Y,L,Research and Design Specialists,2141.0,1.0,No,12.0,2.0,L,6.0,N,2.0,6.0,4.0,1.0,1.0,34
+17777,34.0,Research and Development,11,5.0,2.0,Male,3,1,4,H,N,H,Research and Design Specialists,2691.0,2.0,No,12.0,4.0,L,10.0,Y,2.0,10.0,9.0,8.0,8.0,67
+17816,38.0,Research and Development,12,3.0,4.0,Male,4,1,2,H,N,H,Research and Design Specialists,2610.0,3.0,No,11.0,4.0,L,4.0,Y,3.0,4.0,2.0,0.0,3.0,72
+17853,42.0,Sales,2,1.0,2.0,Male,3,2,2,H,N,H,Sales Executive,4907.0,1.0,No,25.0,3.0,H,20.0,Y,3.0,20.0,16.0,11.0,6.0,70
+17936,26.0,Research and Development,21,1.0,1.0,Male,2,1,2,H,Y,H,Research and Design Specialists,3904.0,5.0,No,12.0,4.0,H,5.0,Y,3.0,4.0,3.0,1.0,1.0,62
+17973,29.0,Sales,25,1.0,4.0,Female,2,2,2,H,N,H,Sales Executive,8268.0,1.0,Yes,14.0,1.0,L,7.0,Y,3.0,7.0,7.0,1.0,7.0,59
+18019,44.0,Production,14,4.0,1.0,Male,4,1,2,H,Y,H,Machinists,2818.0,2.0,Yes,24.0,3.0,L,10.0,Y,2.0,3.0,2.0,0.0,2.0,61
+18212,33.0,Sales,6,1.0,2.0,Male,3,2,4,L,N,H,Sales Executive,9998.0,9.0,No,13.0,1.0,H,8.0,Y,4.0,5.0,4.0,1.0,2.0,80
+18286,34.0,Sales,1,3.0,4.0,Male,3,2,2,H,N,H,Sales Executive,6274.0,4.0,No,22.0,3.0,L,6.0,Y,3.0,6.0,5.0,1.0,4.0,59
+18493,36.0,Sales,4,2.0,2.0,Female,3,3,1,L,N,H,Sales Executive,9738.0,0.0,No,14.0,3.0,L,10.0,Y,3.0,9.0,7.0,2.0,8.0,50
+18585,51.0,Finance,10,3.0,1.0,Female,2,3,1,L,N,H,Accountant,9114.0,5.0,Yes,20.0,3.0,H,9.0,Y,3.0,5.0,7.0,3.0,6.0,39
+18600,43.0,Research and Development,14,3.0,4.0,Male,4,1,4,H,Y,H,Research and Design Specialists,2089.0,4.0,No,14.0,4.0,H,7.0,Y,4.0,5.0,4.0,2.0,2.0,64
+18612,33.0,Production,4,4.0,2.0,Male,3,2,2,L,Y,H,Machinists,5207.0,4.0,Yes,12.0,2.0,H,15.0,Y,3.0,15.0,14.0,5.0,7.0,54
+18712,35.0,Research and Development,15,5.0,2.0,Male,4,2,2,L,N,L,Research and Design Specialists,5208.0,2.0,No,11.0,4.0,L,16.0,N,3.0,16.0,15.0,1.0,10.0,46
+18775,31.0,Production,19,4.0,2.0,Male,3,1,2,L,N,H,Machinists,3477.0,6.0,No,14.0,4.0,L,6.0,Y,4.0,5.0,2.0,0.0,3.0,73
+18776,33.0,Research and Development,25,4.0,4.0,Female,3,1,2,H,Y,H,Research and Design Specialists,2909.0,1.0,Yes,11.0,3.0,L,8.0,Y,3.0,8.0,7.0,3.0,0.0,52
+18778,34.0,Sales,16,4.0,3.0,Female,3,1,2,L,N,L,Sales Representative,2220.0,5.0,Yes,19.0,4.0,L,1.0,N,3.0,1.0,1.0,0.0,0.0,42
+18809,38.0,Sales,20,2.0,4.0,Male,3,3,4,H,Y,H,Sales Executive,7351.0,8.0,No,16.0,3.0,H,10.0,Y,3.0,1.0,0.0,0.0,0.0,74
+18924,30.0,Sales,7,4.0,3.0,Female,3,3,2,L,N,H,Sales Executive,8412.0,0.0,No,11.0,3.0,L,10.0,N,3.0,9.0,8.0,7.0,8.0,45
+18984,37.0,Research and Development,14,2.0,1.0,Female,1,2,2,H,N,L,Customercare Representative,4777.0,4.0,No,15.0,1.0,L,15.0,N,1.0,1.0,0.0,0.0,0.0,7
+18985,40.0,Production,20,2.0,3.0,Male,3,2,2,L,N,L,Machinists,2741.0,8.0,Yes,15.0,3.0,L,15.0,N,4.0,7.0,2.0,3.0,7.0,36
+19053,28.0,Sales,9,3.0,2.0,Male,3,2,1,H,Y,L,Sales Executive,4221.0,1.0,No,15.0,2.0,H,5.0,Y,4.0,5.0,4.0,0.0,4.0,70
+19061,45.0,Research and Development,13,2.0,1.0,Male,2,4,4,H,N,H,Manager,16792.0,9.0,No,23.0,4.0,H,22.0,Y,3.0,20.0,8.0,11.0,8.0,69
+19098,38.0,Production,17,2.0,4.0,Male,3,1,4,H,N,L,Machinists,1702.0,1.0,Yes,23.0,3.0,H,1.0,Y,3.0,1.0,0.0,0.0,0.0,64
+19212,30.0,Production,16,4.0,3.0,Male,3,2,2,H,N,H,Machinists,3491.0,9.0,No,13.0,1.0,L,10.0,Y,2.0,10.0,7.0,8.0,9.0,66
+19245,41.0,Finance,15,3.0,2.0,Male,3,2,2,H,Y,H,Accountant,8352.0,7.0,Yes,19.0,3.0,H,8.0,Y,3.0,8.0,3.0,2.0,5.0,55
+19292,31.0,Sales,3,4.0,1.0,Female,3,2,2,L,N,H,Sales Executive,5476.0,5.0,No,11.0,1.0,L,10.0,Y,3.0,10.0,0.0,0.0,2.0,59
+19353,39.0,Sales,22,4.0,1.0,Male,2,2,4,H,N,H,Sales Executive,6120.0,1.0,Yes,12.0,4.0,H,8.0,Y,4.0,5.0,4.0,1.0,4.0,63
+19355,29.0,Research and Development,9,3.0,4.0,Male,3,1,1,L,N,L,Research and Design Specialists,2201.0,9.0,No,16.0,4.0,L,6.0,N,3.0,3.0,2.0,1.0,2.0,40
+19501,50.0,Sales,6,3.0,4.0,Male,2,3,2,L,N,H,Sales Executive,10854.0,8.0,Yes,13.0,2.0,L,20.0,N,3.0,3.0,2.0,2.0,0.0,49
+19513,28.0,Research and Development,8,3.0,1.0,Male,2,1,4,L,Y,H,Research and Design Specialists,1563.0,6.0,No,14.0,4.0,H,1.0,Y,1.0,1.0,0.0,0.0,0.0,67
+19572,36.0,Sales,6,4.0,2.0,Female,2,2,2,L,N,H,Sales Executive,6652.0,3.0,No,13.0,1.0,H,8.0,N,2.0,6.0,3.0,0.0,0.0,25
+19576,38.0,Research and Development,16,4.0,1.0,Female,4,2,2,H,N,H,Manufacturing Director,5980.0,2.0,Yes,12.0,4.0,H,17.0,Y,3.0,15.0,7.0,4.0,12.0,77
+19598,28.0,Production,17,1.0,3.0,Female,3,1,1,L,N,L,Machinists,2515.0,3.0,Yes,11.0,4.0,L,1.0,N,2.0,1.0,1.0,0.0,0.0,29
+19620,26.0,Production,12,3.0,1.0,Male,1,1,1,L,N,L,Machinists,2293.0,1.0,No,12.0,3.0,L,1.0,N,2.0,1.0,0.0,0.0,1.0,48
+19649,24.0,Production,15,1.0,2.0,Male,3,1,2,L,Y,L,Machinists,2774.0,0.0,No,12.0,3.0,L,6.0,Y,3.0,5.0,3.0,1.0,2.0,45
+19695,48.0,Production,23,2.0,1.0,Male,2,3,2,L,N,L,Machinists,5381.0,9.0,Yes,13.0,4.0,L,23.0,N,3.0,1.0,0.0,0.0,0.0,44
+19737,37.0,Production,20,3.0,4.0,Female,3,1,2,L,N,L,Machinists,3034.0,1.0,No,12.0,3.0,L,18.0,N,2.0,18.0,7.0,12.0,17.0,49
+19756,44.0,Research and Development,15,1.0,1.0,Female,4,1,2,L,Y,H,Research and Design Specialists,2011.0,7.0,No,13.0,4.0,L,10.0,Y,3.0,10.0,5.0,7.0,7.0,62
+19826,38.0,Research and Development,7,4.0,2.0,Female,4,2,2,L,N,H,Customercare Representative,7625.0,7.0,No,13.0,3.0,L,10.0,N,2.0,9.0,7.0,1.0,8.0,48
+19866,24.0,Production,10,1.0,2.0,Male,3,1,2,L,N,L,Machinists,3907.0,7.0,No,13.0,2.0,L,6.0,N,4.0,6.0,2.0,1.0,2.0,49
+19947,54.0,Human Resources,6,3.0,4.0,Female,4,4,1,L,N,H,Manager,17328.0,2.0,Yes,12.0,3.0,L,23.0,N,3.0,5.0,3.0,4.0,4.0,48
+20001,36.0,Research and Development,3,4.0,3.0,Female,3,2,2,L,N,L,Manufacturing Director,4663.0,3.0,Yes,12.0,2.0,L,7.0,N,3.0,3.0,2.0,1.0,1.0,41
+20068,42.0,Research and Development,15,2.0,4.0,Female,4,2,4,H,Y,L,Research and Design Specialists,6545.0,3.0,Yes,13.0,3.0,H,10.0,Y,3.0,3.0,2.0,0.0,2.0,63
+20157,50.0,Research and Development,12,2.0,4.0,Male,3,4,2,L,N,H,Research Director,17399.0,1.0,No,22.0,3.0,L,32.0,N,2.0,5.0,4.0,1.0,3.0,49
+20232,49.0,Production,16,4.0,2.0,Male,3,1,4,L,N,L,Production Supervisors,5858.0,5.0,Yes,15.0,3.0,L,7.0,Y,1.0,9.0,3.0,1.0,7.0,39
+20345,35.0,Production,1,4.0,3.0,Female,3,1,2,L,N,L,Machinists,4014.0,3.0,Yes,15.0,3.0,L,4.0,N,3.0,2.0,2.0,2.0,2.0,47
+20382,54.0,IT Support,7,3.0,2.0,Male,3,2,1,L,Y,H,IT specialists,6457.0,7.0,No,15.0,2.0,L,10.0,Y,2.0,5.0,2.0,1.0,4.0,72
+20454,44.0,Production,2,3.0,1.0,Male,3,1,2,L,N,L,Machinists,2362.0,3.0,No,12.0,3.0,H,10.0,N,4.0,3.0,2.0,1.0,2.0,24
+20464,47.0,Finance,3,3.0,2.0,Female,2,2,2,L,Y,H,Accountant,8296.0,7.0,No,19.0,2.0,L,7.0,N,2.0,3.0,6.0,1.0,2.0,72
+20682,55.0,Production,25,3.0,1.0,Male,3,1,3,L,N,H,Production Supervisors,6247.0,4.0,No,19.0,2.0,L,5.0,Y,3.0,2.0,4.0,1.0,3.0,37
+20962,35.0,Research and Development,2,4.0,3.0,Male,3,2,2,H,N,L,Research and Design Specialists,4249.0,7.0,Yes,11.0,2.0,L,9.0,Y,3.0,9.0,6.0,1.0,1.0,50
+20982,27.0,Production,17,2.0,4.0,Male,3,1,2,H,N,H,Machinists,3816.0,1.0,No,11.0,2.0,H,5.0,Y,3.0,5.0,2.0,0.0,4.0,91
+21018,39.0,Research and Development,2,4.0,3.0,Female,3,3,2,H,N,H,Customercare Representative,10938.0,0.0,No,25.0,4.0,H,20.0,Y,3.0,19.0,6.0,11.0,8.0,62
+21112,37.0,Finance,6,4.0,2.0,Female,2,3,1,L,Y,H,Accountant,8170.0,8.0,Yes,19.0,1.0,L,6.0,Y,3.0,3.0,5.0,1.0,3.0,55
+21160,33.0,Research and Development,18,1.0,2.0,Male,3,3,1,L,N,H,Manager,13610.0,7.0,Yes,12.0,4.0,L,15.0,N,4.0,7.0,6.0,7.0,7.0,22
+21163,39.0,Research and Development,15,5.0,2.0,Male,3,2,2,L,Y,L,Manufacturing Director,5377.0,6.0,No,13.0,4.0,L,10.0,N,3.0,7.0,7.0,7.0,7.0,41
+21190,35.0,Production,25,4.0,3.0,Male,2,1,1,L,N,L,Machinists,3743.0,2.0,Yes,24.0,4.0,L,5.0,N,1.0,4.0,2.0,0.0,2.0,34
+21200,25.0,Finance,15,3.0,1.0,Female,3,2,1,L,Y,H,Accountant,8369.0,7.0,No,16.0,3.0,H,5.0,Y,2.0,4.0,6.0,2.0,3.0,81
+21207,54.0,Finance,12,4.0,2.0,Female,3,2,1,L,N,H,Accountant,8540.0,2.0,No,15.0,4.0,L,7.0,N,3.0,4.0,5.0,3.0,6.0,29
+21293,37.0,Sales,16,2.0,2.0,Male,2,2,4,L,Y,H,Sales Executive,4189.0,8.0,No,14.0,1.0,H,5.0,Y,3.0,5.0,2.0,0.0,3.0,79
+21326,31.0,Finance,24,3.0,1.0,Male,2,3,1,L,N,H,Accountant,9112.0,5.0,Yes,19.0,2.0,H,5.0,Y,1.0,6.0,2.0,3.0,5.0,35
+21379,23.0,Production,4,1.0,2.0,Male,3,1,2,H,N,H,Machinists,2500.0,6.0,No,14.0,4.0,L,5.0,Y,4.0,4.0,3.0,0.0,2.0,61
+21432,35.0,Research and Development,10,4.0,3.0,Female,3,3,1,H,N,H,Customercare Representative,10388.0,4.0,Yes,11.0,3.0,L,16.0,N,2.0,16.0,10.0,10.0,1.0,39
+21502,40.0,Sales,22,2.0,1.0,Male,3,2,4,H,Y,H,Sales Executive,5473.0,9.0,No,12.0,4.0,H,9.0,Y,4.0,8.0,4.0,7.0,1.0,63
+21572,41.0,Research and Development,5,3.0,4.0,Male,2,4,2,H,N,H,Manager,17181.0,4.0,No,13.0,2.0,H,21.0,Y,2.0,7.0,6.0,7.0,7.0,61
+21667,33.0,Sales,2,3.0,4.0,Male,3,2,1,L,N,L,Sales Executive,4373.0,7.0,No,14.0,1.0,H,5.0,N,3.0,4.0,3.0,0.0,3.0,47
+22054,42.0,IT Support,11,3.0,2.0,Male,2,3,1,L,N,L,IT specialists,5319.0,5.0,Yes,18.0,3.0,L,9.0,N,3.0,3.0,5.0,2.0,2.0,28
+22290,39.0,Finance,22,4.0,1.0,Female,2,3,3,H,Y,H,Accountant,9412.0,2.0,Yes,15.0,4.0,L,5.0,Y,1.0,4.0,5.0,3.0,2.0,68
+22353,49.0,Research and Development,14,4.0,3.0,Female,3,2,2,L,N,H,Manufacturing Director,6567.0,1.0,No,14.0,3.0,L,16.0,N,2.0,15.0,11.0,5.0,11.0,43
+22403,31.0,Sales,2,3.0,4.0,Female,3,1,1,H,Y,L,Sales Representative,2302.0,4.0,Yes,11.0,1.0,H,3.0,N,4.0,3.0,2.0,2.0,2.0,39
+22469,32.0,Sales,4,4.0,3.0,Female,3,3,2,L,Y,H,Sales Executive,10422.0,1.0,No,19.0,3.0,L,14.0,Y,3.0,14.0,10.0,5.0,7.0,70
+22506,44.0,Sales,3,5.0,2.0,Female,3,2,2,H,N,H,Sales Executive,5454.0,5.0,Yes,21.0,3.0,L,9.0,Y,2.0,4.0,3.0,1.0,3.0,59
+22540,38.0,Sales,10,4.0,1.0,Female,2,2,1,H,N,H,Sales Executive,8686.0,4.0,No,22.0,3.0,L,12.0,Y,4.0,8.0,3.0,0.0,7.0,55
+22553,58.0,Sales,16,3.0,4.0,Female,3,4,2,L,N,H,Manager,17875.0,7.0,Yes,13.0,3.0,L,29.0,N,2.0,1.0,0.0,0.0,0.0,46
+22658,38.0,Production,24,5.0,4.0,Female,3,2,2,L,N,L,Machinists,2406.0,1.0,No,11.0,4.0,L,10.0,N,3.0,10.0,3.0,9.0,9.0,40
+22821,38.0,Research and Development,8,3.0,4.0,Male,3,2,1,L,Y,H,Manufacturing Director,6261.0,3.0,No,18.0,1.0,L,9.0,N,1.0,7.0,7.0,1.0,7.0,18
+22827,32.0,Research and Development,12,3.0,4.0,Male,3,1,3,L,Y,L,Research and Design Specialists,2439.0,1.0,No,14.0,4.0,L,4.0,Y,3.0,4.0,2.0,1.0,2.0,75
+22877,50.0,Research and Development,1,4.0,1.0,Male,3,4,1,L,Y,H,Manager,17924.0,7.0,No,11.0,4.0,L,31.0,Y,3.0,31.0,6.0,14.0,7.0,58
+22942,30.0,Research and Development,22,3.0,1.0,Male,1,1,2,L,N,L,Research and Design Specialists,2613.0,1.0,No,25.0,3.0,L,10.0,N,2.0,10.0,7.0,0.0,9.0,44
+22999,29.0,Production,5,1.0,2.0,Male,3,1,1,H,Y,H,Machinists,4723.0,9.0,Yes,18.0,4.0,H,10.0,Y,3.0,10.0,9.0,1.0,5.0,58
+23022,32.0,Sales,15,2.0,4.0,Male,1,2,1,L,N,L,Sales Executive,4668.0,0.0,No,17.0,4.0,L,9.0,N,4.0,8.0,7.0,0.0,7.0,47
+23027,50.0,Production,13,3.0,1.0,Male,3,1,2,H,Y,H,Machinists,2380.0,7.0,No,18.0,2.0,H,8.0,Y,3.0,1.0,0.0,0.0,0.0,78
+23116,47.0,Research and Development,7,5.0,4.0,Male,3,5,4,H,N,H,Research Director,18300.0,4.0,No,11.0,2.0,H,21.0,Y,3.0,3.0,2.0,1.0,1.0,80
+23130,36.0,Research and Development,7,3.0,4.0,Male,3,3,2,L,Y,H,Customercare Representative,8321.0,8.0,Yes,13.0,4.0,H,15.0,N,3.0,12.0,8.0,5.0,7.0,45
+23338,38.0,Finance,14,3.0,2.0,Male,2,2,2,L,Y,L,Accountant,8560.0,2.0,Yes,16.0,1.0,L,8.0,Y,2.0,2.0,5.0,1.0,3.0,75
+23347,27.0,Research and Development,12,3.0,4.0,Male,3,1,4,L,Y,H,Research and Design Specialists,2580.0,6.0,No,13.0,3.0,L,6.0,Y,2.0,4.0,2.0,1.0,2.0,74
+23605,40.0,Production,5,3.0,4.0,Female,3,2,2,L,Y,H,Machinists,6323.0,2.0,No,11.0,1.0,L,10.0,Y,4.0,10.0,9.0,9.0,4.0,68
+23668,38.0,Research and Development,25,3.0,3.0,Female,3,3,3,H,N,H,Manufacturing Director,7861.0,5.0,Yes,14.0,4.0,H,10.0,Y,4.0,1.0,0.0,0.0,0.0,71
+23681,51.0,Finance,13,4.0,1.0,Female,3,3,1,H,N,H,Accountant,9741.0,2.0,Yes,18.0,2.0,L,8.0,N,1.0,6.0,5.0,3.0,3.0,29
+23708,37.0,Research and Development,8,4.0,4.0,Male,3,2,2,L,N,L,Research and Design Specialists,4284.0,1.0,Yes,22.0,3.0,H,16.0,N,3.0,5.0,3.0,0.0,4.0,42
+23714,23.0,Research and Development,12,1.0,3.0,Male,3,1,2,L,Y,L,Research and Design Specialists,2904.0,1.0,No,12.0,3.0,L,4.0,Y,2.0,4.0,2.0,0.0,2.0,50
+23800,44.0,Research and Development,18,4.0,4.0,Male,3,2,2,H,Y,H,Research and Design Specialists,4541.0,7.0,No,25.0,2.0,L,20.0,Y,3.0,20.0,11.0,13.0,17.0,54
+23828,51.0,Research and Development,13,4.0,2.0,Male,2,3,2,L,N,H,Research Director,12490.0,5.0,No,16.0,4.0,L,16.0,N,1.0,10.0,9.0,4.0,7.0,46
+23930,35.0,Human Resources,19,4.0,3.0,Male,3,1,4,H,N,H,Human Resources,4323.0,1.0,No,17.0,2.0,H,6.0,Y,1.0,5.0,4.0,1.0,4.0,74
+23945,32.0,Sales,23,1.0,3.0,Male,3,2,4,H,Y,H,Sales Executive,4078.0,7.0,Yes,13.0,1.0,H,4.0,Y,2.0,3.0,2.0,1.0,2.0,79
+24091,42.0,Human Resources,1,1.0,3.0,Male,3,1,2,H,Y,H,Human Resources,2696.0,0.0,Yes,11.0,3.0,L,4.0,Y,3.0,3.0,2.0,1.0,0.0,60
+24099,42.0,Sales,21,3.0,3.0,Male,3,4,2,L,Y,H,Sales Executive,13758.0,7.0,Yes,12.0,2.0,L,22.0,N,2.0,21.0,9.0,13.0,14.0,44
+24147,23.0,Sales,17,1.0,3.0,Male,3,1,2,H,Y,H,Sales Representative,2322.0,3.0,No,13.0,3.0,L,3.0,Y,3.0,0.0,0.0,0.0,0.0,55
+24168,38.0,Sales,5,3.0,2.0,Female,3,2,2,H,N,H,Sales Executive,4198.0,3.0,No,12.0,2.0,H,8.0,Y,4.0,3.0,2.0,1.0,2.0,57
+24188,42.0,Human Resources,13,5.0,4.0,Male,4,2,2,H,N,H,Human Resources,6272.0,8.0,No,16.0,1.0,L,10.0,Y,4.0,4.0,3.0,0.0,3.0,70
+24190,34.0,Sales,3,2.0,2.0,Male,3,1,1,H,Y,H,Sales Representative,2308.0,1.0,Yes,25.0,2.0,H,12.0,Y,3.0,11.0,10.0,5.0,7.0,58
+24286,31.0,Sales,3,3.0,2.0,Female,1,2,1,L,N,L,Sales Executive,4559.0,3.0,Yes,11.0,3.0,L,4.0,N,3.0,2.0,2.0,2.0,2.0,15
+24324,26.0,Human Resources,15,2.0,4.0,Female,3,1,1,L,N,L,Human Resources,2148.0,7.0,Yes,11.0,3.0,H,6.0,N,3.0,5.0,1.0,1.0,4.0,38
+24334,29.0,Research and Development,25,3.0,3.0,Male,3,1,2,H,N,H,Research and Design Specialists,2058.0,0.0,No,14.0,4.0,H,7.0,Y,2.0,6.0,2.0,1.0,5.0,62
+24337,52.0,Finance,21,4.0,2.0,Male,3,3,2,L,N,H,Accountant,9190.0,2.0,Yes,17.0,1.0,H,9.0,Y,3.0,10.0,3.0,2.0,2.0,30
+24579,41.0,Research and Development,7,3.0,2.0,Female,3,5,2,H,Y,H,Research Director,19545.0,1.0,No,12.0,4.0,H,23.0,N,3.0,22.0,15.0,15.0,8.0,69
+24620,24.0,Sales,13,1.0,1.0,Female,3,1,2,H,N,H,Sales Representative,3202.0,1.0,Yes,16.0,2.0,L,6.0,Y,3.0,5.0,3.0,1.0,4.0,57
+24625,40.0,Sales,2,4.0,1.0,Male,2,3,2,H,Y,H,Sales Executive,9705.0,4.0,No,12.0,2.0,L,11.0,Y,2.0,1.0,0.0,0.0,0.0,62
+24637,43.0,Research and Development,11,2.0,4.0,Female,4,1,2,L,Y,H,Research and Design Specialists,2645.0,1.0,No,12.0,4.0,L,6.0,Y,2.0,5.0,3.0,1.0,4.0,50
+24677,40.0,Sales,24,3.0,2.0,Female,4,4,1,L,N,H,Sales Executive,13194.0,7.0,Yes,16.0,4.0,L,22.0,N,2.0,1.0,0.0,0.0,0.0,29
+24756,30.0,Sales,6,1.0,4.0,Male,3,1,2,L,N,L,Sales Representative,2983.0,0.0,No,14.0,1.0,L,4.0,N,3.0,3.0,2.0,1.0,2.0,42
+24951,32.0,Research and Development,8,4.0,3.0,Female,3,2,4,L,Y,H,Customercare Representative,6667.0,4.0,No,18.0,2.0,L,9.0,Y,3.0,5.0,1.0,1.0,2.0,67
+25289,48.0,Finance,6,3.0,1.0,Male,2,2,2,L,Y,H,Accountant,8911.0,6.0,Yes,17.0,2.0,L,8.0,N,2.0,7.0,6.0,1.0,7.0,70
+25340,31.0,Research and Development,3,3.0,2.0,Male,3,2,2,L,Y,H,Manufacturing Director,9936.0,8.0,No,19.0,2.0,L,10.0,Y,3.0,9.0,4.0,1.0,7.0,70
+25467,45.0,Production,21,3.0,2.0,Male,4,2,2,L,N,L,Production Supervisors,5984.0,6.0,Yes,19.0,1.0,H,10.0,N,1.0,7.0,5.0,3.0,3.0,31
+25557,54.0,Finance,12,4.0,2.0,Female,2,2,2,L,Y,H,Accountant,9691.0,5.0,Yes,16.0,4.0,L,9.0,Y,3.0,6.0,7.0,1.0,2.0,57
+25602,48.0,Sales,3,1.0,2.0,Male,4,2,1,H,N,H,Sales Executive,8120.0,3.0,No,12.0,4.0,L,12.0,Y,3.0,2.0,2.0,2.0,2.0,55
+25603,32.0,Production,19,4.0,1.0,Female,2,2,2,L,N,H,Production Supervisors,6830.0,5.0,No,15.0,2.0,H,10.0,Y,1.0,6.0,4.0,2.0,5.0,32
+25620,46.0,Sales,11,2.0,2.0,Male,2,2,2,L,Y,L,Sales Executive,7991.0,2.0,No,15.0,3.0,H,6.0,Y,3.0,2.0,2.0,2.0,2.0,52
+25793,54.0,Finance,19,3.0,2.0,Male,2,2,1,L,Y,L,Accountant,9225.0,5.0,No,17.0,2.0,L,10.0,Y,3.0,2.0,3.0,1.0,3.0,79
+25879,53.0,Sales,12,3.0,3.0,Female,2,3,1,H,Y,H,Sales Executive,7525.0,5.0,No,12.0,1.0,L,30.0,Y,3.0,15.0,7.0,6.0,12.0,58
+25912,46.0,Sales,12,3.0,3.0,Female,3,4,3,H,N,H,Manager,16606.0,2.0,No,12.0,4.0,H,23.0,Y,4.0,13.0,12.0,5.0,1.0,76
+25940,39.0,Human Resources,9,3.0,3.0,Female,4,2,2,H,N,H,Human Resources,6389.0,9.0,No,15.0,3.0,L,12.0,Y,1.0,8.0,3.0,3.0,6.0,59
+26017,33.0,Research and Development,22,4.0,4.0,Male,3,1,1,L,N,L,Research and Design Specialists,2686.0,8.0,Yes,13.0,3.0,L,10.0,N,2.0,10.0,9.0,7.0,8.0,38
+26024,54.0,Sales,2,4.0,3.0,Female,2,3,1,L,N,H,Sales Executive,10686.0,9.0,No,11.0,2.0,L,13.0,N,3.0,9.0,4.0,7.0,0.0,47
+26037,27.0,Finance,8,4.0,2.0,Female,3,2,1,L,Y,H,Accountant,9908.0,8.0,Yes,19.0,1.0,L,5.0,N,2.0,8.0,2.0,2.0,6.0,85
+26228,27.0,Human Resources,9,3.0,1.0,Female,2,1,1,L,N,L,Human Resources,2863.0,3.0,No,12.0,1.0,H,1.0,N,3.0,1.0,0.0,0.0,0.0,23
+26232,42.0,IT Support,2,3.0,2.0,Male,2,3,1,L,N,L,IT specialists,5319.0,5.0,Yes,18.0,3.0,L,9.0,N,3.0,3.0,5.0,2.0,2.0,28
+26262,34.0,Sales,11,4.0,1.0,Female,2,2,2,H,Y,L,Sales Executive,4599.0,3.0,Yes,23.0,3.0,L,16.0,N,4.0,15.0,9.0,10.0,10.0,36
+26270,26.0,Finance,9,3.0,2.0,Female,3,3,2,L,N,H,Accountant,8829.0,7.0,No,17.0,4.0,H,10.0,N,1.0,7.0,4.0,2.0,2.0,35
+26321,52.0,Finance,14,4.0,2.0,Male,3,2,2,L,Y,L,Accountant,8719.0,2.0,Yes,16.0,4.0,L,5.0,Y,3.0,6.0,6.0,1.0,7.0,73
+26622,20.0,Sales,13,3.0,4.0,Female,3,1,1,H,N,L,Sales Representative,2323.0,9.0,Yes,14.0,2.0,L,2.0,N,3.0,2.0,2.0,0.0,2.0,23
+26676,40.0,Sales,1,4.0,3.0,Male,2,3,4,H,N,H,Sales Executive,10855.0,7.0,No,11.0,1.0,H,15.0,Y,2.0,12.0,11.0,2.0,11.0,64
+26769,32.0,Production,10,3.0,3.0,Female,2,1,1,H,N,L,Machinists,2332.0,6.0,No,20.0,3.0,L,5.0,N,3.0,3.0,0.0,0.0,2.0,39
+26788,28.0,Research and Development,14,3.0,4.0,Male,3,1,2,H,N,H,Research and Design Specialists,2070.0,1.0,No,23.0,4.0,H,5.0,Y,2.0,5.0,2.0,0.0,4.0,66
+26863,48.0,Sales,15,2.0,4.0,Female,3,1,1,L,N,L,Sales Representative,2655.0,6.0,Yes,11.0,3.0,L,19.0,N,3.0,9.0,7.0,7.0,7.0,40
+26883,34.0,Production,21,3.0,2.0,Male,4,5,1,L,N,L,Production Supervisors,5959.0,5.0,No,19.0,4.0,L,6.0,N,2.0,5.0,4.0,3.0,6.0,33
+26908,55.0,Research and Development,22,1.0,3.0,Male,2,4,2,L,Y,H,Manager,16756.0,2.0,No,15.0,2.0,L,31.0,Y,4.0,9.0,7.0,6.0,2.0,62
+26977,24.0,Research and Development,6,3.0,3.0,Male,4,1,2,L,N,L,Research and Design Specialists,4401.0,1.0,No,16.0,4.0,L,5.0,N,3.0,5.0,3.0,0.0,4.0,36
+27264,34.0,Sales,2,2.0,2.0,Male,4,2,2,L,Y,H,Sales Executive,6799.0,3.0,No,21.0,3.0,H,10.0,Y,3.0,10.0,8.0,4.0,8.0,59
+27369,40.0,Research and Development,2,1.0,2.0,Female,4,2,3,H,N,H,Customercare Representative,6377.0,8.0,No,20.0,2.0,L,15.0,Y,3.0,12.0,11.0,11.0,8.0,83
+27401,42.0,Sales,19,4.0,3.0,Male,3,2,2,H,Y,H,Sales Executive,6825.0,0.0,No,11.0,4.0,H,10.0,Y,3.0,9.0,7.0,4.0,2.0,62
+27424,29.0,Human Resources,9,1.0,4.0,Male,2,1,4,L,Y,H,Human Resources,2804.0,7.0,No,11.0,4.0,H,1.0,Y,3.0,1.0,0.0,0.0,0.0,65
+27495,26.0,Finance,6,3.0,2.0,Female,2,2,4,H,N,H,Accountant,9566.0,2.0,Yes,15.0,4.0,L,9.0,N,3.0,5.0,3.0,1.0,2.0,27
+27561,20.0,Production,9,3.0,1.0,Male,2,1,4,L,N,H,Machinists,3033.0,2.0,No,12.0,1.0,L,2.0,Y,2.0,2.0,2.0,1.0,2.0,64
+27844,32.0,Production,1,2.0,4.0,Male,3,1,2,H,N,H,Machinists,3068.0,0.0,No,13.0,3.0,H,8.0,Y,2.0,7.0,7.0,3.0,6.0,61
+27967,54.0,Research and Development,15,3.0,4.0,Male,3,4,2,L,Y,H,Research Director,17779.0,6.0,No,14.0,1.0,L,36.0,Y,3.0,10.0,9.0,0.0,9.0,57
+27968,34.0,Production,3,3.0,2.0,Male,4,2,1,L,Y,H,Machinists,4404.0,2.0,No,12.0,1.0,L,6.0,Y,4.0,4.0,3.0,1.0,2.0,56
+27999,32.0,Sales,8,4.0,2.0,Male,3,2,4,H,Y,H,Sales Executive,5010.0,1.0,No,16.0,1.0,H,12.0,Y,3.0,11.0,8.0,5.0,7.0,66
+28127,31.0,Production,10,3.0,3.0,Male,3,1,1,L,Y,L,Machinists,2610.0,9.0,No,12.0,3.0,L,2.0,N,2.0,2.0,2.0,2.0,2.0,29
+28286,34.0,Sales,18,4.0,2.0,Male,3,2,2,L,N,L,Sales Executive,4568.0,0.0,No,20.0,3.0,L,10.0,N,3.0,9.0,5.0,8.0,7.0,42
+28320,28.0,Production,20,4.0,4.0,Male,2,1,1,L,Y,H,Machinists,3196.0,8.0,No,12.0,3.0,L,6.0,Y,3.0,6.0,5.0,3.0,3.0,58
+28382,51.0,Finance,23,4.0,2.0,Male,2,3,1,L,Y,L,Accountant,9621.0,1.0,Yes,18.0,3.0,L,10.0,N,3.0,5.0,5.0,3.0,4.0,55
+28456,38.0,Sales,15,2.0,1.0,Female,4,2,1,H,N,L,Sales Executive,5605.0,1.0,Yes,24.0,3.0,L,8.0,Y,3.0,8.0,0.0,7.0,7.0,51
+28479,40.0,Production,18,4.0,3.0,Male,3,2,4,L,N,H,Machinists,3975.0,3.0,No,11.0,3.0,H,11.0,Y,4.0,8.0,7.0,0.0,7.0,65
+28530,26.0,Research and Development,13,2.0,3.0,Female,2,1,2,L,N,L,Research and Design Specialists,2366.0,6.0,Yes,14.0,1.0,L,8.0,N,3.0,8.0,7.0,1.0,7.0,46
+28596,35.0,Production,25,4.0,2.0,Male,1,1,2,L,Y,L,Machinists,2705.0,8.0,No,16.0,2.0,H,6.0,N,4.0,5.0,4.0,0.0,3.0,48
+28665,35.0,Finance,16,4.0,1.0,Male,2,3,2,L,Y,H,Accountant,9881.0,4.0,Yes,16.0,2.0,L,8.0,N,2.0,8.0,5.0,3.0,7.0,85
+28711,33.0,Sales,6,3.0,2.0,Male,2,2,4,H,N,H,Sales Executive,4682.0,3.0,No,14.0,3.0,H,9.0,Y,2.0,7.0,7.0,0.0,1.0,67
+28766,34.0,Research and Development,10,4.0,3.0,Female,2,2,2,H,N,H,Research and Design Specialists,4505.0,6.0,No,15.0,3.0,H,12.0,N,3.0,1.0,0.0,0.0,0.0,65
+28860,35.0,Research and Development,16,4.0,1.0,Male,2,1,2,L,N,H,Research and Design Specialists,4930.0,1.0,Yes,14.0,3.0,H,6.0,Y,4.0,5.0,4.0,1.0,4.0,85
+28892,38.0,Research and Development,3,1.0,3.0,Female,3,1,4,H,N,H,Research and Design Specialists,2619.0,1.0,No,17.0,4.0,L,8.0,Y,2.0,0.0,0.0,0.0,0.0,64
+28899,45.0,Research and Development,9,4.0,4.0,Male,3,2,2,H,Y,H,Research and Design Specialists,3697.0,9.0,No,14.0,1.0,L,12.0,Y,3.0,10.0,9.0,9.0,8.0,59
+29033,36.0,Production,1,2.0,3.0,Male,4,2,1,L,N,L,Machinists,2571.0,6.0,No,17.0,3.0,H,17.0,N,3.0,5.0,2.0,0.0,3.0,32
+29042,45.0,Sales,2,3.0,1.0,Female,1,5,2,H,Y,H,Manager,18824.0,2.0,Yes,16.0,1.0,L,26.0,Y,3.0,24.0,10.0,1.0,11.0,50
+29120,55.0,Research and Development,9,1.0,4.0,Male,3,3,3,H,Y,H,Manufacturing Director,10976.0,2.0,No,18.0,2.0,H,23.0,Y,3.0,3.0,2.0,1.0,2.0,75
+29196,29.0,Production,25,1.0,2.0,Female,3,1,1,H,Y,L,Machinists,3131.0,6.0,No,13.0,1.0,L,10.0,N,3.0,10.0,8.0,0.0,8.0,47
+29220,29.0,Sales,8,3.0,1.0,Female,3,2,2,H,Y,H,Sales Executive,5765.0,2.0,No,11.0,1.0,H,7.0,Y,1.0,5.0,3.0,0.0,0.0,57
+29222,42.0,Production,1,4.0,2.0,Female,3,1,2,H,N,H,Machinists,2576.0,3.0,No,16.0,2.0,H,8.0,Y,3.0,5.0,2.0,1.0,2.0,62
+29280,35.0,Production,20,1.0,4.0,Male,4,1,2,H,Y,H,Machinists,2269.0,1.0,No,19.0,4.0,H,1.0,Y,3.0,1.0,0.0,0.0,1.0,69
+29367,26.0,Production,6,3.0,3.0,Male,3,1,2,L,Y,H,Machinists,2867.0,4.0,No,13.0,4.0,L,8.0,Y,2.0,7.0,7.0,7.0,6.0,60
+29419,38.0,Sales,3,3.0,3.0,Male,3,2,3,H,N,H,Sales Executive,9924.0,6.0,No,11.0,4.0,H,10.0,Y,3.0,9.0,8.0,7.0,7.0,76
+29467,32.0,Sales,22,2.0,1.0,Male,1,2,1,L,Y,L,Sales Executive,6735.0,8.0,No,15.0,2.0,L,10.0,N,3.0,0.0,0.0,0.0,0.0,29
+29500,42.0,Research and Development,25,3.0,3.0,Male,4,1,2,L,N,L,Research and Design Specialists,2759.0,4.0,Yes,12.0,4.0,L,7.0,N,3.0,2.0,2.0,2.0,2.0,42
+29562,55.0,Research and Development,9,4.0,3.0,Male,4,5,2,H,N,H,Research Director,18722.0,8.0,No,11.0,4.0,L,36.0,Y,3.0,24.0,15.0,2.0,15.0,59
+29681,26.0,Finance,17,3.0,1.0,Male,3,3,2,L,Y,L,Accountant,8281.0,7.0,No,19.0,2.0,L,9.0,N,1.0,9.0,6.0,2.0,5.0,75
+29747,48.0,Research and Development,25,4.0,3.0,Female,3,1,2,H,Y,H,Research and Design Specialists,2367.0,2.0,No,12.0,4.0,H,10.0,Y,2.0,8.0,2.0,7.0,6.0,54
+29776,32.0,Finance,14,3.0,2.0,Male,2,3,1,L,N,H,Accountant,9133.0,6.0,Yes,15.0,3.0,H,8.0,N,2.0,7.0,2.0,3.0,7.0,37
+29793,20.0,Research and Development,6,3.0,4.0,Female,2,1,2,L,N,L,Research and Design Specialists,2600.0,5.0,Yes,15.0,1.0,L,1.0,N,3.0,1.0,0.0,0.0,0.0,36
+29799,30.0,Production,20,3.0,4.0,Male,1,1,2,H,Y,H,Machinists,3833.0,6.0,No,21.0,3.0,H,7.0,Y,3.0,2.0,2.0,0.0,2.0,73
+29911,32.0,Finance,21,3.0,1.0,Male,3,2,2,L,Y,L,Accountant,8255.0,1.0,Yes,15.0,4.0,L,10.0,N,2.0,3.0,4.0,1.0,7.0,56
+29954,40.0,Research and Development,2,2.0,1.0,Male,3,5,2,H,N,H,Research Director,19436.0,0.0,No,19.0,4.0,H,22.0,Y,3.0,21.0,7.0,3.0,9.0,66
+29966,47.0,Human Resources,4,4.0,4.0,Female,3,5,1,L,Y,H,Manager,19658.0,3.0,No,11.0,3.0,L,27.0,N,3.0,5.0,2.0,1.0,0.0,34
+29998,29.0,Sales,6,3.0,3.0,Female,3,1,4,H,Y,H,Customercare Representative,2157.0,3.0,No,15.0,2.0,L,3.0,Y,3.0,3.0,1.0,0.0,2.0,63
+30033,38.0,Finance,2,3.0,1.0,Female,3,3,2,L,Y,L,Accountant,8923.0,3.0,No,19.0,2.0,H,7.0,N,1.0,10.0,7.0,1.0,7.0,58
+30034,36.0,Production,4,3.0,1.0,Male,3,2,1,H,N,L,Machinists,4834.0,8.0,No,14.0,2.0,L,9.0,N,2.0,1.0,0.0,0.0,0.0,35
+30108,54.0,Research and Development,9,4.0,4.0,Female,3,2,1,L,N,L,Manufacturing Director,5485.0,8.0,Yes,11.0,2.0,L,9.0,N,3.0,5.0,3.0,1.0,4.0,47
+30137,27.0,Research and Development,15,3.0,4.0,Female,3,1,2,H,N,L,Research and Design Specialists,2279.0,1.0,No,16.0,4.0,L,7.0,Y,2.0,7.0,7.0,0.0,3.0,59
+30139,42.0,IT Support,9,2.0,3.0,Male,2,3,1,L,N,H,Research and Design Specialists,6830.0,8.0,No,17.0,1.0,H,9.0,Y,2.0,10.0,4.0,2.0,2.0,71
+30188,31.0,Research and Development,3,3.0,4.0,Female,3,1,1,H,N,L,Research and Design Specialists,4084.0,3.0,No,12.0,1.0,L,7.0,N,1.0,7.0,2.0,7.0,7.0,26
+30233,26.0,Sales,23,3.0,4.0,Male,2,2,2,L,N,L,Sales Executive,5326.0,5.0,No,17.0,3.0,L,6.0,N,2.0,4.0,3.0,1.0,2.0,41
+30270,32.0,Research and Development,19,5.0,3.0,Male,3,1,2,H,Y,H,Research and Design Specialists,3038.0,3.0,No,20.0,1.0,H,8.0,Y,3.0,5.0,4.0,1.0,4.0,70
+30283,33.0,Sales,22,3.0,4.0,Female,3,1,1,L,Y,L,Sales Representative,2851.0,1.0,Yes,13.0,2.0,L,1.0,N,3.0,1.0,0.0,0.0,0.0,38
+30307,39.0,Production,14,3.0,4.0,Male,3,1,1,H,N,L,Machinists,2404.0,7.0,Yes,21.0,4.0,L,8.0,N,1.0,2.0,2.0,2.0,2.0,37
+30320,41.0,Sales,7,2.0,4.0,Male,3,3,2,L,N,H,Sales Executive,7082.0,9.0,Yes,16.0,4.0,L,21.0,N,3.0,2.0,0.0,0.0,2.0,41
+30353,46.0,Research and Development,9,3.0,1.0,Male,3,4,2,H,N,H,Research Director,17861.0,6.0,No,13.0,3.0,L,26.0,Y,1.0,3.0,2.0,0.0,1.0,53
+30356,38.0,Production,17,2.0,4.0,Female,3,1,1,L,N,H,Machinists,3306.0,2.0,No,19.0,4.0,L,7.0,Y,2.0,0.0,0.0,0.0,0.0,56
+30527,32.0,Finance,3,4.0,1.0,Male,2,3,1,L,Y,H,Accountant,9512.0,8.0,No,18.0,1.0,L,8.0,Y,1.0,3.0,2.0,3.0,2.0,69
+30534,42.0,Finance,21,3.0,1.0,Male,2,3,2,L,N,H,Accountant,9912.0,7.0,No,20.0,2.0,H,5.0,N,1.0,7.0,6.0,2.0,6.0,25
+30555,55.0,Production,1,3.0,2.0,Male,4,3,1,L,N,H,Production Supervisors,6812.0,2.0,Yes,18.0,4.0,H,7.0,Y,2.0,3.0,4.0,1.0,2.0,34
+30607,27.0,Production,11,4.0,1.0,Female,3,2,4,L,N,L,Production Supervisors,5435.0,1.0,No,18.0,4.0,L,9.0,N,1.0,6.0,6.0,1.0,4.0,35
+30623,34.0,Finance,13,3.0,2.0,Male,3,3,1,L,N,L,Accountant,9629.0,2.0,Yes,15.0,3.0,H,6.0,Y,2.0,9.0,2.0,3.0,4.0,36
+30673,44.0,Production,17,3.0,3.0,Male,2,1,1,L,Y,H,Machinists,3162.0,9.0,No,14.0,4.0,H,7.0,Y,3.0,5.0,2.0,0.0,3.0,55
+30749,37.0,Research and Development,3,3.0,3.0,Male,3,3,1,H,N,H,Manufacturing Director,9434.0,8.0,No,15.0,3.0,L,10.0,Y,3.0,10.0,7.0,7.0,8.0,58
+30792,32.0,Research and Development,1,4.0,4.0,Male,3,2,2,H,N,H,Research and Design Specialists,4087.0,7.0,No,14.0,2.0,H,9.0,Y,2.0,6.0,5.0,1.0,2.0,57
+30800,49.0,Research and Development,18,1.0,3.0,Female,2,4,1,L,Y,H,Customercare Representative,13966.0,3.0,Yes,19.0,2.0,L,30.0,N,3.0,15.0,11.0,2.0,12.0,47
+30855,50.0,IT Support,17,4.0,1.0,Male,4,5,1,L,N,H,IT specialists,10492.0,3.0,No,19.0,3.0,H,7.0,N,2.0,9.0,3.0,1.0,5.0,41
+30888,33.0,Research and Development,2,3.0,4.0,Female,3,1,2,L,N,L,Research and Design Specialists,2756.0,1.0,No,13.0,4.0,L,8.0,N,3.0,8.0,7.0,1.0,6.0,41
+30940,52.0,Research and Development,5,3.0,4.0,Male,2,3,2,H,N,H,Manufacturing Director,7969.0,2.0,Yes,14.0,3.0,H,28.0,Y,3.0,5.0,4.0,0.0,4.0,61
+30949,41.0,Sales,2,2.0,3.0,Male,1,2,4,H,Y,H,Sales Executive,6151.0,9.0,No,13.0,1.0,L,19.0,Y,3.0,19.0,2.0,11.0,9.0,67
+30963,19.0,Production,20,3.0,2.0,Male,2,1,2,L,Y,L,Machinists,1102.0,1.0,No,22.0,3.0,L,1.0,N,2.0,1.0,0.0,1.0,0.0,49
+31036,37.0,Research and Development,9,3.0,1.0,Male,3,2,2,H,N,H,Research and Design Specialists,4285.0,9.0,No,17.0,1.0,H,10.0,Y,3.0,10.0,8.0,3.0,7.0,66
+31041,42.0,Production,2,2.0,1.0,Female,3,1,1,H,N,H,Machinists,3673.0,2.0,No,13.0,3.0,H,12.0,Y,3.0,12.0,9.0,5.0,8.0,55
+31049,30.0,Research and Development,17,3.0,3.0,Male,4,2,1,L,Y,L,Customercare Representative,5294.0,8.0,No,16.0,3.0,L,10.0,N,3.0,7.0,0.0,1.0,7.0,20
+31052,50.0,Finance,11,4.0,2.0,Male,3,3,1,L,Y,H,Accountant,9819.0,9.0,Yes,15.0,2.0,L,9.0,N,2.0,4.0,6.0,3.0,5.0,69
+31110,39.0,Sales,20,4.0,2.0,Male,3,4,4,L,Y,H,Sales Executive,13341.0,6.0,No,12.0,1.0,L,21.0,Y,3.0,20.0,8.0,11.0,10.0,80
+31134,34.0,Sales,22,2.0,4.0,Female,1,1,2,H,N,H,Sales Manager,2351.0,0.0,No,16.0,4.0,L,3.0,Y,2.0,2.0,2.0,1.0,0.0,52
+31183,30.0,Finance,23,4.0,2.0,Male,3,3,4,H,N,H,Accountant,8400.0,9.0,No,15.0,3.0,L,9.0,N,1.0,9.0,2.0,3.0,5.0,36
+31444,40.0,Research and Development,16,4.0,3.0,Male,2,1,2,L,Y,H,Research and Design Specialists,2809.0,6.0,No,14.0,4.0,L,8.0,Y,3.0,2.0,2.0,2.0,2.0,59
+31472,49.0,Sales,14,4.0,4.0,Male,2,4,2,L,Y,H,Sales Executive,13120.0,3.0,No,17.0,2.0,H,22.0,Y,3.0,9.0,8.0,2.0,3.0,72
+31492,35.0,Production,11,3.0,2.0,Male,3,1,2,L,N,L,Machinists,3917.0,7.0,No,20.0,1.0,L,3.0,N,2.0,3.0,2.0,1.0,2.0,41
+31515,43.0,Sales,8,2.0,3.0,Male,3,4,2,H,N,H,Manager,16959.0,1.0,Yes,12.0,4.0,L,25.0,Y,4.0,25.0,12.0,4.0,12.0,59
+31518,43.0,Research and Development,22,4.0,3.0,Female,3,2,2,H,N,H,Customercare Representative,4522.0,4.0,Yes,14.0,4.0,L,8.0,Y,3.0,5.0,2.0,0.0,2.0,57
+31558,48.0,Sales,23,1.0,1.0,Female,3,3,2,H,N,H,Manager,12504.0,3.0,No,21.0,2.0,L,15.0,Y,1.0,0.0,0.0,0.0,0.0,52
+31582,20.0,Sales,16,3.0,3.0,Female,2,1,4,H,Y,H,Customercare Representative,2044.0,9.0,No,13.0,4.0,L,2.0,Y,2.0,2.0,2.0,0.0,2.0,67
+31585,54.0,Finance,19,3.0,2.0,Male,2,2,1,L,Y,L,Accountant,9225.0,5.0,No,17.0,2.0,L,10.0,Y,3.0,2.0,3.0,1.0,3.0,79
+31641,31.0,Sales,13,4.0,4.0,Female,3,3,2,L,N,H,Sales Executive,9852.0,8.0,Yes,19.0,1.0,L,10.0,Y,2.0,10.0,8.0,9.0,6.0,61
+31709,45.0,Research and Development,15,3.0,3.0,Male,3,1,1,L,N,L,Research and Design Specialists,3452.0,5.0,No,13.0,2.0,L,9.0,N,2.0,6.0,5.0,0.0,3.0,39
+31764,47.0,Sales,16,3.0,3.0,Male,1,4,2,L,Y,H,Sales Executive,12936.0,2.0,No,11.0,3.0,L,25.0,Y,1.0,23.0,5.0,14.0,10.0,50
+31794,53.0,Research and Development,3,4.0,3.0,Male,3,4,2,H,Y,L,Research Director,17584.0,3.0,Yes,16.0,4.0,H,21.0,Y,2.0,5.0,3.0,1.0,3.0,61
+31886,39.0,Finance,19,4.0,1.0,Female,3,2,2,H,N,H,Accountant,9023.0,8.0,Yes,19.0,1.0,H,9.0,N,2.0,8.0,3.0,2.0,4.0,45
+31902,42.0,Research and Development,6,4.0,2.0,Female,4,2,2,H,N,L,Research and Design Specialists,2372.0,7.0,Yes,16.0,4.0,H,18.0,N,3.0,1.0,0.0,0.0,0.0,46
+32026,37.0,IT Support,20,4.0,2.0,Male,3,2,2,L,Y,H,IT specialists,8648.0,5.0,No,16.0,4.0,L,8.0,Y,3.0,3.0,7.0,1.0,7.0,65
+32110,25.0,Sales,6,1.0,1.0,Male,4,2,2,H,Y,H,Sales Executive,6232.0,4.0,No,11.0,2.0,H,6.0,Y,2.0,3.0,2.0,1.0,2.0,61
+32124,32.0,Sales,23,3.0,4.0,Male,2,2,2,H,Y,L,Sales Executive,5484.0,1.0,No,14.0,3.0,L,13.0,Y,2.0,13.0,8.0,4.0,8.0,57
+32167,36.0,Research and Development,14,3.0,3.0,Female,1,3,1,L,N,H,Manufacturing Director,10252.0,1.0,Yes,21.0,3.0,L,17.0,Y,3.0,7.0,7.0,7.0,7.0,55
+32169,31.0,Finance,11,4.0,2.0,Male,3,2,1,H,Y,H,Accountant,9799.0,3.0,Yes,20.0,1.0,L,9.0,Y,3.0,10.0,5.0,3.0,4.0,78
+32170,37.0,Research and Development,3,4.0,1.0,Male,2,2,2,H,N,H,Manufacturing Director,5993.0,1.0,No,18.0,3.0,H,7.0,Y,4.0,7.0,5.0,0.0,7.0,66
+32232,34.0,Research and Development,6,4.0,2.0,Male,3,2,1,H,N,H,Research and Design Specialists,5484.0,1.0,No,17.0,2.0,H,9.0,Y,2.0,2.0,2.0,2.0,1.0,56
+32242,43.0,Research and Development,1,3.0,1.0,Female,3,2,2,H,Y,H,Manufacturing Director,4765.0,3.0,No,21.0,3.0,L,4.0,Y,4.0,1.0,0.0,0.0,0.0,68
+32544,45.0,Sales,20,3.0,4.0,Male,3,2,1,H,N,H,Sales Executive,4805.0,0.0,No,19.0,2.0,L,9.0,Y,4.0,8.0,7.0,3.0,7.0,58
+32595,32.0,IT Support,2,3.0,1.0,Male,4,4,4,L,N,H,IT specialists,6861.0,7.0,No,18.0,4.0,H,7.0,N,3.0,3.0,4.0,2.0,5.0,37
+32884,32.0,Research and Development,13,3.0,2.0,Male,3,2,4,L,N,H,Research and Design Specialists,6220.0,1.0,No,17.0,2.0,L,10.0,Y,3.0,10.0,4.0,0.0,9.0,34
+33326,33.0,Finance,8,4.0,2.0,Male,3,2,1,L,N,H,Accountant,9847.0,2.0,Yes,19.0,2.0,L,8.0,Y,2.0,4.0,3.0,3.0,4.0,45
+33334,32.0,Sales,17,4.0,4.0,Male,1,3,2,L,Y,H,Sales Executive,10400.0,1.0,No,11.0,3.0,L,14.0,N,2.0,14.0,8.0,9.0,8.0,48
+33400,39.0,Research and Development,22,2.0,1.0,Male,3,2,3,L,Y,H,Manufacturing Director,5151.0,9.0,No,25.0,4.0,L,10.0,Y,3.0,10.0,0.0,7.0,9.0,71
+33424,45.0,Finance,8,3.0,1.0,Female,2,2,2,L,N,H,Accountant,9209.0,9.0,Yes,16.0,3.0,L,8.0,N,2.0,4.0,5.0,3.0,3.0,25
+33431,33.0,Finance,6,3.0,1.0,Female,3,3,2,L,N,H,Accountant,8676.0,3.0,Yes,19.0,4.0,L,6.0,N,1.0,9.0,7.0,2.0,3.0,36
+33473,30.0,Sales,4,3.0,3.0,Male,2,2,1,L,Y,H,Sales Executive,6578.0,4.0,No,18.0,1.0,L,10.0,Y,3.0,10.0,3.0,1.0,4.0,55
+33502,28.0,Research and Development,3,2.0,2.0,Male,4,2,1,L,Y,L,Customercare Representative,5661.0,0.0,No,19.0,3.0,L,9.0,N,3.0,8.0,3.0,0.0,7.0,38
+33540,31.0,Sales,2,2.0,3.0,Female,3,2,1,L,N,H,Sales Executive,6583.0,1.0,Yes,11.0,4.0,L,8.0,N,3.0,5.0,2.0,1.0,4.0,47
+33646,51.0,Finance,4,3.0,2.0,Male,3,1,1,H,Y,H,IT specialists,8160.0,3.0,No,19.0,4.0,L,9.0,Y,3.0,5.0,6.0,1.0,2.0,76
+33674,31.0,Finance,21,3.0,1.0,Male,2,3,2,L,Y,L,Accountant,9556.0,5.0,Yes,16.0,2.0,L,9.0,Y,2.0,7.0,7.0,2.0,2.0,58
+33736,31.0,Research and Development,6,2.0,3.0,Female,2,3,2,H,N,H,Manufacturing Director,8943.0,1.0,No,24.0,1.0,H,10.0,Y,3.0,10.0,9.0,8.0,9.0,66
+33757,46.0,Research and Development,6,4.0,4.0,Male,3,3,4,H,N,H,Customercare Representative,9396.0,7.0,No,16.0,3.0,H,17.0,Y,3.0,4.0,2.0,0.0,3.0,65
+33807,53.0,IT Support,19,4.0,1.0,Male,2,4,1,L,N,H,IT specialists,10075.0,3.0,Yes,16.0,2.0,H,10.0,N,1.0,2.0,6.0,2.0,7.0,30
+33834,42.0,Research and Development,16,2.0,3.0,Female,3,2,1,H,N,H,Manufacturing Director,5265.0,2.0,No,16.0,2.0,L,11.0,Y,3.0,5.0,3.0,0.0,2.0,55
+33835,41.0,Production,12,4.0,2.0,Male,3,1,2,H,N,L,Machinists,4766.0,4.0,Yes,11.0,1.0,L,6.0,N,3.0,1.0,0.0,0.0,0.0,49
+33879,29.0,Production,8,1.0,1.0,Female,2,1,2,H,Y,H,Machinists,2532.0,1.0,No,14.0,3.0,L,8.0,Y,3.0,4.0,3.0,0.0,3.0,62
+33910,47.0,Finance,22,3.0,2.0,Male,2,2,2,L,N,H,Accountant,9017.0,1.0,Yes,18.0,3.0,H,6.0,Y,1.0,8.0,3.0,3.0,7.0,33
+33963,38.0,Sales,17,3.0,3.0,Female,3,2,4,L,Y,H,Sales Executive,5666.0,9.0,Yes,13.0,2.0,L,6.0,Y,3.0,5.0,3.0,1.0,3.0,63
+33997,23.0,Research and Development,2,3.0,1.0,Male,4,1,1,L,N,L,Research and Design Specialists,2819.0,2.0,No,16.0,1.0,L,5.0,N,4.0,3.0,2.0,0.0,2.0,37
+34021,38.0,Sales,10,4.0,2.0,Male,3,2,1,L,Y,H,Sales Executive,6861.0,4.0,Yes,12.0,3.0,L,19.0,Y,3.0,1.0,0.0,0.0,0.0,58
+34105,37.0,IT Support,24,3.0,1.0,Male,3,3,4,L,Y,H,IT specialists,7110.0,6.0,No,20.0,3.0,H,6.0,Y,2.0,10.0,7.0,1.0,5.0,54
+34148,31.0,Finance,17,3.0,2.0,Male,3,2,2,L,N,H,Accountant,9339.0,9.0,No,17.0,4.0,H,9.0,Y,3.0,2.0,2.0,1.0,7.0,39
+34158,38.0,Research and Development,14,2.0,1.0,Female,2,3,2,L,N,H,Research Director,12061.0,3.0,No,17.0,3.0,L,19.0,N,3.0,10.0,8.0,0.0,1.0,48
+34222,44.0,Finance,21,3.0,1.0,Male,2,2,2,L,Y,H,Accountant,9979.0,7.0,No,17.0,1.0,L,7.0,Y,1.0,8.0,5.0,1.0,7.0,85
+34266,40.0,Production,8,3.0,1.0,Male,2,4,4,L,N,H,Production Supervisors,6572.0,8.0,Yes,17.0,4.0,H,7.0,Y,3.0,6.0,3.0,3.0,5.0,33
+34371,31.0,Research and Development,7,4.0,2.0,Male,3,3,2,H,N,H,Research Director,13675.0,9.0,No,12.0,1.0,H,9.0,Y,3.0,2.0,2.0,2.0,2.0,68
+34661,34.0,Research and Development,6,4.0,3.0,Female,3,2,2,H,N,H,Customercare Representative,6687.0,1.0,No,11.0,4.0,L,14.0,Y,4.0,14.0,11.0,4.0,11.0,60
+34787,44.0,Finance,23,3.0,2.0,Female,3,2,1,L,N,H,Accountant,9083.0,1.0,Yes,19.0,4.0,H,8.0,Y,1.0,7.0,3.0,1.0,6.0,38
+34855,48.0,Research and Development,19,4.0,3.0,Male,2,3,4,L,Y,H,Customercare Representative,10999.0,1.0,No,14.0,2.0,L,27.0,Y,3.0,15.0,11.0,4.0,8.0,69
+34891,32.0,Sales,15,2.0,3.0,Female,2,2,1,L,Y,L,Sales Executive,5228.0,1.0,Yes,11.0,4.0,L,13.0,N,3.0,13.0,12.0,11.0,9.0,35
+34986,31.0,Sales,21,2.0,1.0,Male,3,3,2,H,N,H,Sales Executive,10793.0,4.0,No,18.0,1.0,H,13.0,Y,3.0,13.0,7.0,9.0,9.0,61
+35086,37.0,Finance,9,4.0,1.0,Male,2,3,2,L,N,H,Accountant,9670.0,8.0,Yes,19.0,2.0,L,8.0,N,1.0,10.0,2.0,2.0,2.0,34
+35219,34.0,Sales,16,4.0,3.0,Female,3,1,2,H,N,H,Sales Representative,2231.0,6.0,No,18.0,4.0,H,6.0,Y,3.0,4.0,3.0,1.0,2.0,66
+35341,27.0,Research and Development,12,3.0,2.0,Female,3,1,4,L,Y,H,Research and Design Specialists,2318.0,4.0,No,19.0,3.0,L,1.0,Y,3.0,1.0,1.0,0.0,0.0,64
+35351,53.0,Sales,23,4.0,1.0,Male,3,3,2,L,N,H,Sales Executive,10448.0,9.0,Yes,13.0,2.0,H,15.0,N,2.0,2.0,2.0,2.0,2.0,24
+35379,50.0,Research and Development,25,5.0,3.0,Male,1,4,2,L,N,H,Research Director,14411.0,1.0,Yes,13.0,4.0,H,32.0,Y,3.0,32.0,6.0,13.0,9.0,54
+35469,60.0,Sales,21,4.0,1.0,Male,3,2,1,L,N,L,Sales Executive,5405.0,6.0,No,14.0,4.0,L,10.0,N,3.0,2.0,2.0,2.0,2.0,32
+35510,25.0,Research and Development,14,2.0,2.0,Male,4,2,2,H,N,H,Customercare Representative,4000.0,1.0,No,12.0,4.0,L,6.0,Y,3.0,6.0,3.0,1.0,5.0,60
+35814,42.0,Sales,22,2.0,3.0,Female,2,2,4,L,Y,H,Sales Executive,6244.0,2.0,No,17.0,1.0,L,10.0,Y,3.0,5.0,4.0,0.0,3.0,69
+35872,37.0,Research and Development,13,3.0,3.0,Male,3,2,2,L,Y,L,Manufacturing Director,5768.0,3.0,No,17.0,1.0,L,9.0,N,2.0,4.0,3.0,0.0,2.0,19
+35922,34.0,Research and Development,24,4.0,1.0,Female,3,2,2,H,Y,H,Research and Design Specialists,4809.0,1.0,No,14.0,3.0,L,16.0,Y,3.0,16.0,13.0,2.0,10.0,56
+36203,52.0,Sales,15,4.0,3.0,Male,2,4,2,H,N,H,Manager,16856.0,5.0,No,11.0,1.0,L,34.0,Y,4.0,34.0,6.0,1.0,16.0,61
+36271,34.0,Research and Development,4,4.0,3.0,Male,2,2,1,L,N,L,Research and Design Specialists,5747.0,6.0,Yes,15.0,2.0,H,16.0,N,3.0,15.0,10.0,6.0,11.0,32
+36352,26.0,Sales,9,4.0,4.0,Male,2,2,2,L,N,L,Sales Executive,5828.0,1.0,Yes,12.0,2.0,L,8.0,N,3.0,8.0,7.0,7.0,4.0,48
+36458,32.0,Sales,24,3.0,4.0,Male,3,2,2,H,N,H,Sales Executive,5396.0,8.0,No,12.0,4.0,L,10.0,Y,2.0,10.0,7.0,0.0,8.0,62
+36629,50.0,Finance,17,4.0,1.0,Male,2,3,1,L,Y,H,Accountant,9029.0,4.0,Yes,19.0,2.0,L,9.0,Y,3.0,3.0,3.0,1.0,6.0,75
+36834,22.0,Production,18,3.0,2.0,Female,3,1,3,H,N,H,Machinists,2871.0,1.0,No,15.0,3.0,H,1.0,Y,3.0,0.0,0.0,0.0,0.0,62
+36870,47.0,Sales,7,4.0,4.0,Female,2,1,1,H,Y,H,Sales Representative,3294.0,5.0,Yes,18.0,1.0,L,3.0,Y,2.0,3.0,2.0,1.0,2.0,51
+37227,31.0,Production,17,4.0,1.0,Female,2,3,2,L,N,L,Production Supervisors,5800.0,9.0,No,17.0,4.0,H,10.0,Y,2.0,4.0,6.0,3.0,7.0,30
+37385,37.0,Research and Development,7,2.0,4.0,Male,4,1,2,L,N,L,Research and Design Specialists,4680.0,3.0,No,17.0,1.0,L,4.0,N,3.0,1.0,0.0,0.0,0.0,41
+37402,58.0,Research and Development,7,4.0,4.0,Male,3,5,1,L,N,H,Research Director,19246.0,4.0,Yes,12.0,4.0,L,40.0,N,3.0,31.0,15.0,13.0,8.0,40
+37573,40.0,Research and Development,23,3.0,3.0,Male,2,5,2,H,Y,H,Research Director,19626.0,6.0,No,14.0,1.0,L,21.0,Y,4.0,20.0,7.0,4.0,9.0,59
+37689,46.0,Sales,7,1.0,1.0,Male,3,4,2,H,Y,H,Manager,17465.0,1.0,No,12.0,4.0,L,23.0,Y,3.0,12.0,9.0,4.0,9.0,60
+37712,43.0,Finance,2,4.0,1.0,Female,3,3,3,L,N,H,Accountant,8016.0,3.0,No,17.0,1.0,H,7.0,N,3.0,2.0,4.0,3.0,7.0,29
+37763,28.0,Sales,17,3.0,1.0,Male,3,1,1,L,N,L,Sales Representative,2909.0,1.0,No,15.0,4.0,L,5.0,N,4.0,3.0,2.0,1.0,2.0,27
+37820,49.0,Research and Development,25,3.0,3.0,Female,3,1,2,L,Y,H,Research and Design Specialists,3580.0,4.0,No,16.0,2.0,L,7.0,Y,3.0,4.0,2.0,0.0,2.0,60
+37895,53.0,Research and Development,5,5.0,3.0,Female,2,3,2,H,N,H,Manufacturing Director,10169.0,6.0,No,16.0,2.0,H,34.0,N,3.0,33.0,7.0,1.0,9.0,43
+37984,44.0,Research and Development,10,4.0,4.0,Male,3,2,3,H,Y,H,Customercare Representative,6465.0,2.0,Yes,13.0,4.0,H,9.0,Y,4.0,4.0,2.0,1.0,3.0,84
+38018,30.0,Human Resources,23,3.0,3.0,Male,3,2,4,H,N,H,Human Resources,6347.0,0.0,Yes,19.0,4.0,H,12.0,Y,1.0,11.0,9.0,4.0,7.0,65
+38096,28.0,Production,15,3.0,3.0,Male,2,1,2,L,Y,L,Machinists,2028.0,5.0,Yes,14.0,2.0,L,6.0,N,3.0,4.0,2.0,0.0,3.0,30
+38391,41.0,Sales,16,3.0,4.0,Male,3,3,3,L,N,H,Sales Executive,9241.0,1.0,No,12.0,2.0,L,10.0,Y,3.0,10.0,8.0,8.0,7.0,76
+38429,48.0,Research and Development,6,4.0,1.0,Male,4,4,2,H,Y,H,Manager,16885.0,2.0,No,22.0,3.0,L,27.0,Y,2.0,5.0,4.0,2.0,1.0,62
+38450,34.0,Research and Development,14,1.0,1.0,Female,2,1,1,H,Y,L,Research and Design Specialists,2029.0,9.0,No,20.0,3.0,H,5.0,N,3.0,5.0,4.0,0.0,0.0,47
+38520,30.0,Sales,4,4.0,4.0,Female,3,2,2,L,Y,H,Sales Executive,4779.0,7.0,No,14.0,2.0,H,8.0,Y,3.0,3.0,2.0,0.0,2.0,70
+38556,28.0,Research and Development,17,3.0,3.0,Male,3,1,1,L,N,L,Research and Design Specialists,2713.0,1.0,No,11.0,3.0,L,5.0,N,1.0,5.0,2.0,0.0,2.0,28
+38562,18.0,Sales,9,3.0,2.0,Male,3,1,1,L,N,L,Sales Representative,1878.0,1.0,Yes,14.0,4.0,L,0.0,N,3.0,0.0,0.0,0.0,0.0,39
+38588,32.0,Sales,8,4.0,2.0,Male,2,1,2,L,Y,H,Sales Representative,2269.0,4.0,No,14.0,2.0,L,3.0,Y,3.0,2.0,2.0,2.0,2.0,72
+38638,37.0,Sales,11,4.0,4.0,Male,2,2,1,H,Y,H,Sales Executive,6334.0,4.0,No,19.0,4.0,L,9.0,Y,3.0,1.0,0.0,0.0,0.0,56
+38656,33.0,Research and Development,18,3.0,1.0,Male,3,1,1,L,N,L,Research and Design Specialists,3348.0,8.0,Yes,11.0,1.0,L,10.0,N,3.0,10.0,8.0,9.0,7.0,37
+38791,50.0,Production,25,3.0,1.0,Male,4,4,4,L,N,H,Production Supervisors,6784.0,2.0,No,18.0,2.0,H,5.0,N,3.0,6.0,3.0,1.0,7.0,34
+38796,37.0,Sales,5,4.0,3.0,Male,3,2,1,H,N,H,Sales Executive,6502.0,4.0,No,14.0,2.0,L,7.0,Y,4.0,5.0,4.0,0.0,1.0,56
+38917,34.0,Research and Development,5,4.0,4.0,Male,2,2,2,L,N,H,Customercare Representative,5063.0,9.0,No,14.0,2.0,H,8.0,Y,2.0,8.0,2.0,7.0,7.0,52
+38928,32.0,Production,15,4.0,4.0,Female,3,1,2,L,N,L,Machinists,4025.0,5.0,No,12.0,2.0,L,10.0,N,3.0,8.0,7.0,7.0,7.0,24
+38992,46.0,Research and Development,18,4.0,3.0,Male,3,5,2,L,Y,L,Research Director,19328.0,1.0,Yes,17.0,3.0,H,24.0,Y,3.0,2.0,1.0,2.0,2.0,60
+39204,34.0,Human Resources,7,2.0,3.0,Male,3,1,2,H,Y,H,Human Resources,3737.0,9.0,No,19.0,3.0,L,4.0,Y,1.0,3.0,2.0,0.0,2.0,57
+39224,31.0,Sales,16,1.0,2.0,Male,3,2,2,H,N,L,Sales Executive,6582.0,4.0,Yes,13.0,3.0,H,10.0,Y,4.0,6.0,5.0,0.0,5.0,72
+39353,59.0,Human Resources,7,2.0,2.0,Male,3,1,4,H,N,H,Human Resources,2267.0,8.0,No,17.0,4.0,H,7.0,Y,2.0,2.0,2.0,2.0,2.0,67
+39582,53.0,Finance,4,4.0,1.0,Female,2,3,2,L,Y,H,Accountant,8670.0,3.0,Yes,19.0,3.0,L,6.0,Y,2.0,3.0,3.0,3.0,5.0,78
+39585,38.0,Research and Development,1,4.0,4.0,Male,3,2,1,H,N,H,Customercare Representative,5745.0,9.0,No,14.0,2.0,L,10.0,Y,3.0,2.0,2.0,1.0,2.0,55
+39588,34.0,Finance,10,3.0,1.0,Male,2,2,2,L,Y,H,Accountant,8175.0,2.0,No,20.0,1.0,H,8.0,N,1.0,9.0,5.0,3.0,6.0,61
+39697,46.0,Finance,1,4.0,1.0,Female,2,2,1,L,N,L,Accountant,9246.0,9.0,Yes,16.0,2.0,H,7.0,N,1.0,2.0,3.0,2.0,7.0,26
+39736,37.0,Finance,2,3.0,2.0,Female,3,2,2,L,Y,H,Accountant,8861.0,2.0,No,19.0,2.0,L,5.0,Y,3.0,5.0,2.0,2.0,2.0,80
+39928,47.0,Sales,21,2.0,4.0,Female,3,2,2,H,Y,H,Sales Executive,4163.0,5.0,Yes,17.0,3.0,L,9.0,Y,3.0,9.0,0.0,0.0,7.0,68
+39973,22.0,Production,6,1.0,3.0,Male,3,1,2,L,Y,L,Machinists,2523.0,0.0,No,14.0,3.0,L,3.0,N,3.0,2.0,1.0,2.0,1.0,44
+39982,38.0,Finance,14,3.0,1.0,Female,3,2,2,L,Y,L,Accountant,8702.0,3.0,Yes,20.0,3.0,H,7.0,Y,1.0,2.0,4.0,1.0,4.0,61
+40057,29.0,Research and Development,19,3.0,1.0,Female,3,1,3,L,Y,H,Research and Design Specialists,3760.0,4.0,No,15.0,1.0,L,3.0,Y,3.0,3.0,2.0,1.0,2.0,75
+40064,28.0,Research and Development,14,3.0,4.0,Female,3,3,2,L,Y,H,Manufacturing Director,7655.0,7.0,No,17.0,2.0,L,10.0,Y,2.0,9.0,7.0,1.0,7.0,62
+40109,48.0,Finance,19,4.0,1.0,Male,2,2,2,L,Y,H,Accountant,8138.0,5.0,No,18.0,1.0,L,6.0,N,2.0,7.0,2.0,3.0,6.0,79
+40149,50.0,Research and Development,10,1.0,1.0,Male,3,5,4,H,N,H,Research Director,19144.0,3.0,No,14.0,1.0,H,28.0,Y,2.0,10.0,4.0,1.0,6.0,80
+40159,54.0,Research and Development,1,4.0,1.0,Female,3,3,2,H,N,L,Research Director,13549.0,9.0,No,12.0,1.0,H,16.0,Y,1.0,4.0,3.0,0.0,3.0,61
+40162,35.0,Finance,21,4.0,1.0,Female,3,3,3,L,Y,H,Accountant,8492.0,8.0,Yes,17.0,4.0,L,5.0,Y,3.0,3.0,6.0,1.0,6.0,57
+40211,31.0,Sales,15,3.0,4.0,Male,3,2,1,H,N,H,Sales Executive,7547.0,4.0,No,12.0,4.0,L,13.0,Y,3.0,7.0,7.0,1.0,7.0,56
+40276,26.0,Production,23,2.0,1.0,Female,1,1,3,H,N,H,Machinists,4364.0,5.0,No,14.0,1.0,H,5.0,Y,3.0,2.0,2.0,2.0,0.0,87
+40287,26.0,IT Support,9,3.0,2.0,Male,4,3,2,H,Y,H,IT specialists,5171.0,3.0,No,15.0,1.0,H,5.0,Y,1.0,8.0,7.0,1.0,6.0,68
+40356,36.0,Sales,9,1.0,3.0,Male,2,3,2,L,N,H,Sales Executive,10325.0,2.0,Yes,11.0,1.0,L,16.0,N,3.0,16.0,7.0,3.0,7.0,49
+40416,58.0,Research and Development,1,3.0,4.0,Male,3,1,2,H,N,L,Research and Design Specialists,2479.0,4.0,No,24.0,1.0,L,7.0,N,3.0,1.0,0.0,0.0,0.0,41
+40457,34.0,Production,24,3.0,1.0,Male,3,4,2,L,N,H,Production Supervisors,7241.0,9.0,Yes,17.0,1.0,L,8.0,Y,3.0,7.0,5.0,1.0,5.0,33
+40572,49.0,Production,7,2.0,1.0,Male,2,2,1,H,Y,L,Machinists,4284.0,2.0,No,20.0,1.0,L,20.0,N,3.0,4.0,3.0,1.0,3.0,15
+40575,35.0,Sales,25,3.0,3.0,Male,3,3,1,H,N,H,Sales Executive,8020.0,0.0,No,15.0,3.0,L,12.0,Y,2.0,11.0,9.0,6.0,9.0,58
+40579,31.0,Research and Development,20,4.0,3.0,Male,3,1,4,H,Y,L,Research and Design Specialists,4821.0,0.0,Yes,12.0,3.0,H,6.0,Y,3.0,5.0,2.0,0.0,3.0,63
+40689,38.0,Research and Development,16,4.0,4.0,Male,3,2,2,L,N,H,Manufacturing Director,6553.0,9.0,No,14.0,2.0,L,14.0,N,3.0,1.0,0.0,0.0,0.0,49
+40736,50.0,Research and Development,22,2.0,2.0,Female,2,5,4,H,Y,H,Research Director,18740.0,5.0,Yes,12.0,4.0,L,29.0,Y,2.0,27.0,3.0,13.0,8.0,60
+40799,29.0,Sales,23,3.0,2.0,Female,2,1,2,H,N,L,Sales Representative,2800.0,9.0,Yes,19.0,3.0,L,5.0,N,3.0,3.0,2.0,0.0,2.0,49
+40814,44.0,Finance,20,3.0,2.0,Female,3,3,2,L,Y,H,Accountant,9970.0,6.0,No,17.0,1.0,L,6.0,Y,1.0,9.0,5.0,1.0,5.0,82
+40855,40.0,Sales,3,2.0,2.0,Female,3,2,2,L,Y,L,Sales Executive,5677.0,1.0,No,14.0,3.0,L,15.0,Y,3.0,11.0,8.0,5.0,10.0,78
+41087,38.0,Human Resources,2,3.0,3.0,Male,4,1,2,L,Y,L,Human Resources,2844.0,3.0,No,13.0,4.0,L,7.0,N,4.0,7.0,6.0,5.0,0.0,49
+41162,31.0,Sales,12,3.0,3.0,Female,2,1,2,L,N,L,Customercare Representative,2785.0,1.0,No,14.0,3.0,H,3.0,N,4.0,1.0,0.0,0.0,0.0,49
+41215,30.0,Research and Development,14,3.0,3.0,Male,3,1,1,H,Y,H,Research and Design Specialists,1274.0,2.0,No,13.0,2.0,H,1.0,Y,2.0,1.0,0.0,0.0,0.0,51
+41266,26.0,Research and Development,21,2.0,1.0,Male,3,2,2,H,N,H,Customercare Representative,4741.0,1.0,Yes,13.0,3.0,H,5.0,Y,3.0,5.0,3.0,3.0,3.0,66
+41432,22.0,Production,24,2.0,4.0,Male,4,1,2,H,N,H,Machinists,2935.0,1.0,Yes,13.0,2.0,L,1.0,Y,2.0,1.0,0.0,0.0,0.0,52
+41543,33.0,Research and Development,13,4.0,4.0,Male,4,1,2,L,N,H,Research and Design Specialists,3143.0,6.0,No,19.0,2.0,H,14.0,Y,3.0,10.0,8.0,7.0,6.0,60
+41566,27.0,Production,2,5.0,1.0,Male,1,1,2,L,Y,H,Machinists,4621.0,2.0,No,19.0,4.0,L,3.0,Y,3.0,3.0,2.0,1.0,2.0,57
+41610,31.0,Human Resources,5,3.0,1.0,Male,2,2,2,H,N,H,Human Resources,6410.0,3.0,No,12.0,4.0,H,9.0,Y,3.0,2.0,2.0,1.0,0.0,68
+41645,38.0,Sales,7,2.0,2.0,Male,4,3,1,H,Y,L,IT specialists,6097.0,7.0,Yes,18.0,4.0,H,7.0,Y,2.0,3.0,4.0,1.0,2.0,75
+41723,50.0,Finance,19,3.0,1.0,Male,3,2,1,L,Y,H,Accountant,9101.0,5.0,Yes,20.0,4.0,L,7.0,Y,2.0,5.0,5.0,2.0,6.0,77
+41735,36.0,Production,17,4.0,3.0,Female,4,1,1,L,N,L,Machinists,2743.0,4.0,No,16.0,3.0,L,18.0,N,3.0,17.0,13.0,15.0,14.0,26
+41742,51.0,Production,24,2.0,2.0,Female,2,1,4,H,N,H,Machinists,2838.0,4.0,No,14.0,2.0,L,8.0,Y,2.0,7.0,0.0,7.0,7.0,79
+41847,38.0,Research and Development,4,2.0,4.0,Female,2,3,4,L,N,H,Manufacturing Director,7756.0,8.0,Yes,19.0,4.0,L,10.0,Y,4.0,5.0,4.0,0.0,2.0,65
+41908,34.0,Sales,24,3.0,4.0,Male,3,2,2,L,N,H,Sales Executive,4001.0,7.0,Yes,14.0,3.0,L,15.0,Y,3.0,15.0,14.0,0.0,7.0,61
+41982,31.0,Research and Development,2,4.0,3.0,Female,3,3,2,H,Y,H,Manufacturing Director,7143.0,1.0,Yes,14.0,3.0,L,11.0,Y,2.0,11.0,9.0,4.0,10.0,60
+42042,42.0,Production,18,3.0,2.0,Male,3,1,2,L,N,H,Machinists,2766.0,9.0,No,22.0,2.0,L,7.0,Y,2.0,5.0,3.0,0.0,4.0,60
+42142,32.0,Sales,17,2.0,3.0,Female,3,1,2,H,N,H,Sales Representative,3931.0,2.0,No,11.0,1.0,L,6.0,Y,3.0,4.0,3.0,1.0,2.0,53
+42182,33.0,Finance,15,3.0,1.0,Female,2,2,3,H,Y,H,Accountant,6253.0,7.0,No,15.0,2.0,H,6.0,Y,2.0,7.0,2.0,1.0,6.0,69
+42249,38.0,Sales,14,4.0,3.0,Male,2,3,2,L,Y,H,Sales Executive,8740.0,7.0,Yes,14.0,2.0,H,9.0,Y,3.0,8.0,7.0,2.0,7.0,73
+42308,44.0,Finance,15,3.0,1.0,Female,2,3,1,L,Y,H,Accountant,8160.0,9.0,Yes,19.0,3.0,L,5.0,N,3.0,3.0,2.0,1.0,2.0,68
+42310,45.0,Sales,19,2.0,2.0,Male,1,2,2,H,N,H,Customercare Representative,6632.0,3.0,No,13.0,1.0,L,9.0,Y,3.0,8.0,7.0,3.0,1.0,54
+42353,28.0,Finance,8,4.0,2.0,Female,2,3,2,L,Y,H,Accountant,8146.0,8.0,Yes,19.0,2.0,H,8.0,Y,3.0,8.0,2.0,3.0,6.0,55
+42387,37.0,Research and Development,12,1.0,3.0,Male,3,1,2,L,N,H,Research and Design Specialists,2996.0,1.0,Yes,15.0,4.0,H,8.0,Y,3.0,6.0,4.0,1.0,3.0,59
+42477,30.0,Research and Development,15,3.0,1.0,Female,3,3,2,L,N,H,Manufacturing Director,9667.0,4.0,No,14.0,2.0,H,9.0,Y,3.0,7.0,7.0,0.0,2.0,66
+42485,34.0,Research and Development,4,4.0,1.0,Male,3,1,1,L,N,L,Research and Design Specialists,2972.0,4.0,No,13.0,3.0,H,1.0,N,1.0,1.0,0.0,0.0,0.0,47
+42524,22.0,Research and Development,10,2.0,2.0,Female,2,1,2,L,Y,L,Research and Design Specialists,2814.0,8.0,Yes,14.0,2.0,L,4.0,N,2.0,4.0,2.0,1.0,3.0,49
+42628,56.0,Human Resources,10,4.0,4.0,Male,3,5,2,H,N,H,Manager,19717.0,8.0,No,14.0,1.0,L,36.0,Y,3.0,7.0,3.0,7.0,7.0,62
+42639,19.0,Production,10,1.0,2.0,Female,3,1,2,L,N,L,Machinists,1483.0,1.0,No,14.0,4.0,L,1.0,N,3.0,1.0,0.0,0.0,0.0,43
+42650,31.0,Research and Development,18,1.0,4.0,Female,3,2,1,L,Y,L,Manufacturing Director,5238.0,2.0,No,20.0,4.0,L,9.0,N,2.0,5.0,4.0,1.0,4.0,34
+42688,36.0,Research and Development,1,1.0,3.0,Male,3,2,2,L,Y,H,Customercare Representative,6586.0,5.0,Yes,17.0,1.0,L,17.0,Y,2.0,16.0,8.0,4.0,11.0,61
+42719,27.0,Research and Development,9,3.0,2.0,Male,4,2,4,L,Y,H,Manufacturing Director,6142.0,8.0,Yes,20.0,2.0,L,6.0,Y,3.0,6.0,2.0,0.0,3.0,64
+42772,29.0,Research and Development,22,5.0,3.0,Female,2,1,2,L,N,L,Research and Design Specialists,2546.0,5.0,No,16.0,2.0,L,6.0,N,4.0,2.0,2.0,1.0,1.0,7
+42833,31.0,Research and Development,8,4.0,3.0,Male,3,1,3,H,N,L,Research and Design Specialists,2695.0,0.0,Yes,18.0,2.0,H,3.0,Y,1.0,2.0,2.0,2.0,2.0,75
+42939,31.0,Sales,15,3.0,3.0,Male,2,3,4,H,N,H,Manager,11557.0,9.0,No,21.0,3.0,H,10.0,Y,2.0,5.0,4.0,0.0,1.0,67
+42978,44.0,Research and Development,4,3.0,3.0,Female,4,3,4,L,N,H,Customercare Representative,7879.0,6.0,Yes,19.0,2.0,L,9.0,Y,3.0,8.0,7.0,6.0,7.0,63
+42996,20.0,Production,15,3.0,1.0,Male,3,1,2,L,N,L,Machinists,2973.0,8.0,No,19.0,2.0,L,1.0,N,3.0,1.0,0.0,0.0,0.0,44
+43067,47.0,Sales,25,3.0,4.0,Female,3,4,2,H,N,H,Sales Executive,13770.0,2.0,Yes,12.0,4.0,L,28.0,Y,2.0,22.0,2.0,11.0,13.0,53
+43223,26.0,Sales,14,3.0,3.0,Male,3,2,2,L,N,L,Sales Executive,4684.0,9.0,No,13.0,1.0,H,5.0,N,3.0,5.0,3.0,1.0,2.0,48
+43578,58.0,Research and Development,19,4.0,1.0,Male,3,4,1,L,N,H,Research Director,15787.0,6.0,Yes,14.0,2.0,H,23.0,Y,3.0,2.0,2.0,2.0,2.0,55
+43657,32.0,Finance,16,4.0,1.0,Male,3,2,2,L,N,H,Accountant,8059.0,3.0,No,17.0,4.0,H,9.0,Y,3.0,7.0,5.0,2.0,7.0,25
+43679,49.0,Research and Development,4,1.0,3.0,Male,2,2,4,H,N,H,Research and Design Specialists,5130.0,1.0,No,23.0,4.0,H,10.0,Y,3.0,10.0,7.0,1.0,7.0,79
+43704,46.0,Sales,25,3.0,3.0,Female,3,4,4,H,N,H,Manager,17048.0,3.0,No,23.0,1.0,H,28.0,Y,3.0,26.0,15.0,15.0,9.0,79
+43824,43.0,Finance,9,3.0,1.0,Male,2,3,2,L,Y,H,Accountant,8576.0,2.0,No,20.0,3.0,L,10.0,N,2.0,10.0,3.0,3.0,7.0,85
+43891,32.0,Research and Development,5,2.0,4.0,Female,2,2,4,L,Y,H,Research and Design Specialists,5878.0,2.0,No,12.0,1.0,H,12.0,Y,3.0,7.0,1.0,2.0,5.0,74
+44110,52.0,Research and Development,7,4.0,3.0,Male,2,5,3,H,Y,H,Manager,19999.0,0.0,No,14.0,1.0,H,34.0,Y,3.0,33.0,18.0,11.0,9.0,81
+44127,37.0,Research and Development,11,3.0,3.0,Female,4,3,1,L,Y,H,Research Director,13744.0,7.0,Yes,25.0,1.0,L,16.0,Y,3.0,16.0,11.0,6.0,8.0,56
+44136,38.0,Research and Development,20,3.0,3.0,Female,3,2,2,H,N,H,Customercare Representative,9824.0,9.0,No,19.0,3.0,L,18.0,Y,3.0,1.0,0.0,0.0,0.0,52
+44141,50.0,Research and Development,1,4.0,2.0,Male,3,5,2,L,Y,H,Research Director,19237.0,2.0,Yes,11.0,4.0,H,29.0,Y,2.0,8.0,1.0,7.0,7.0,78
+44159,23.0,Research and Development,2,2.0,4.0,Male,3,1,2,H,N,H,Research and Design Specialists,1223.0,1.0,No,22.0,4.0,L,1.0,Y,3.0,1.0,0.0,0.0,1.0,72
+44193,31.0,Sales,19,4.0,1.0,Male,3,2,1,L,N,L,Sales Executive,5617.0,2.0,Yes,11.0,3.0,H,10.0,N,3.0,10.0,7.0,0.0,8.0,23
+44243,44.0,Sales,19,5.0,1.0,Female,3,2,1,H,Y,H,Sales Executive,4768.0,2.0,No,12.0,3.0,H,11.0,Y,2.0,1.0,0.0,0.0,0.0,51
+44266,29.0,Production,9,2.0,4.0,Female,2,2,1,L,N,H,Machinists,4193.0,0.0,Yes,12.0,4.0,L,10.0,N,3.0,9.0,5.0,0.0,8.0,40
+44299,29.0,Research and Development,3,4.0,4.0,Female,2,1,2,L,N,L,Research and Design Specialists,3785.0,9.0,No,14.0,2.0,L,5.0,N,1.0,5.0,4.0,0.0,4.0,44
+44416,51.0,Production,13,3.0,2.0,Male,3,4,4,L,N,L,Production Supervisors,5737.0,8.0,No,18.0,3.0,L,6.0,Y,2.0,2.0,5.0,2.0,5.0,36
+44582,34.0,Production,1,3.0,2.0,Male,3,2,1,L,N,L,Machinists,5429.0,5.0,No,13.0,1.0,H,10.0,N,3.0,8.0,7.0,7.0,7.0,47
+44598,46.0,Sales,18,3.0,3.0,Male,3,3,2,L,Y,H,Sales Executive,10368.0,9.0,Yes,12.0,2.0,L,13.0,Y,2.0,10.0,6.0,0.0,3.0,61
+44670,30.0,Sales,19,4.0,3.0,Female,2,2,1,L,Y,L,Sales Executive,6696.0,5.0,No,15.0,3.0,L,9.0,N,2.0,6.0,3.0,0.0,1.0,26
+44722,51.0,Finance,2,3.0,2.0,Male,3,2,2,L,N,L,Accountant,9560.0,8.0,No,15.0,4.0,H,5.0,Y,1.0,10.0,7.0,3.0,2.0,38
+44749,50.0,Sales,22,4.0,2.0,Male,3,2,2,L,N,H,Sales Executive,6728.0,5.0,No,12.0,4.0,L,12.0,N,3.0,6.0,3.0,0.0,1.0,46
+44779,42.0,Sales,14,4.0,2.0,Male,3,2,2,H,N,H,Sales Executive,5155.0,1.0,No,13.0,4.0,L,9.0,Y,4.0,6.0,4.0,1.0,5.0,62
+44860,36.0,Research and Development,4,3.0,3.0,Female,3,2,2,H,Y,H,Manufacturing Director,5228.0,8.0,No,15.0,1.0,L,10.0,Y,3.0,9.0,7.0,0.0,5.0,60
+44948,27.0,Sales,1,1.0,3.0,Male,3,2,2,H,N,H,Sales Executive,4342.0,7.0,No,19.0,2.0,L,5.0,Y,3.0,4.0,2.0,1.0,1.0,53
+45009,25.0,Finance,7,4.0,1.0,Male,3,3,4,H,Y,H,Accountant,9768.0,1.0,Yes,16.0,4.0,L,8.0,Y,1.0,7.0,2.0,1.0,7.0,85
+45087,31.0,Finance,19,4.0,1.0,Male,3,2,1,L,Y,H,Accountant,8585.0,6.0,No,17.0,1.0,L,5.0,Y,1.0,2.0,4.0,1.0,6.0,52
+45294,36.0,Human Resources,23,3.0,3.0,Male,3,1,2,H,Y,H,Human Resources,2143.0,2.0,No,13.0,2.0,L,8.0,Y,3.0,5.0,2.0,0.0,4.0,54
+45424,57.0,Research and Development,18,2.0,3.0,Male,4,3,2,H,N,H,Customercare Representative,9439.0,3.0,Yes,16.0,2.0,L,12.0,Y,1.0,5.0,3.0,1.0,4.0,54
+45428,28.0,Research and Development,16,3.0,3.0,Female,3,2,3,L,Y,H,Research and Design Specialists,3660.0,3.0,No,13.0,4.0,H,10.0,Y,4.0,8.0,7.0,1.0,7.0,71
+45470,43.0,Research and Development,12,3.0,1.0,Male,3,1,3,L,Y,H,Research and Design Specialists,2438.0,3.0,No,13.0,3.0,H,7.0,Y,2.0,3.0,2.0,1.0,2.0,76
+45605,29.0,IT Support,8,3.0,2.0,Female,3,5,2,L,Y,H,IT specialists,9224.0,4.0,No,17.0,1.0,H,7.0,Y,2.0,8.0,2.0,1.0,4.0,78
+45619,40.0,Research and Development,18,2.0,3.0,Female,2,2,2,L,Y,H,Research and Design Specialists,4422.0,7.0,Yes,13.0,4.0,L,16.0,Y,1.0,1.0,1.0,0.0,0.0,59
+45635,34.0,Sales,4,4.0,4.0,Male,3,3,2,L,N,L,Sales Executive,8628.0,7.0,No,18.0,3.0,L,9.0,N,2.0,8.0,7.0,1.0,1.0,48
+45701,39.0,Research and Development,21,3.0,4.0,Female,3,3,2,H,N,H,Manufacturing Director,10880.0,1.0,Yes,13.0,3.0,L,21.0,N,3.0,21.0,6.0,2.0,8.0,46
+45888,35.0,Sales,7,2.0,1.0,Male,1,2,1,L,Y,L,Sales Executive,5440.0,9.0,Yes,14.0,4.0,L,7.0,N,2.0,2.0,2.0,2.0,2.0,40
+46103,27.0,Research and Development,9,3.0,3.0,Male,2,1,1,H,N,H,Research and Design Specialists,2566.0,1.0,Yes,15.0,4.0,L,1.0,Y,2.0,1.0,1.0,0.0,1.0,55
+46124,33.0,Research and Development,17,4.0,4.0,Female,3,3,2,H,N,H,Manager,11878.0,6.0,No,11.0,2.0,H,12.0,Y,3.0,10.0,6.0,8.0,8.0,72
+46232,18.0,Research and Development,16,3.0,2.0,Female,3,1,2,L,Y,L,Research and Design Specialists,1514.0,9.0,No,16.0,3.0,H,0.0,Y,1.0,0.0,0.0,0.0,0.0,50
+46233,30.0,Human Resources,15,3.0,3.0,Male,3,1,2,H,Y,H,Human Resources,2064.0,2.0,No,21.0,1.0,H,6.0,Y,4.0,5.0,3.0,1.0,3.0,59
+46319,45.0,Production,11,3.0,2.0,Male,3,2,1,H,N,H,Machinists,2348.0,8.0,No,18.0,3.0,L,20.0,Y,1.0,17.0,9.0,0.0,15.0,51
+46322,40.0,Production,1,3.0,1.0,Male,3,1,2,L,N,H,Machinists,2166.0,6.0,Yes,14.0,2.0,L,10.0,Y,1.0,4.0,2.0,0.0,3.0,57
+46339,30.0,IT Support,2,3.0,2.0,Female,3,1,3,L,Y,H,IT specialists,6985.0,6.0,No,15.0,3.0,L,5.0,Y,1.0,5.0,5.0,2.0,7.0,73
+46351,43.0,Sales,9,3.0,4.0,Female,3,4,1,L,N,H,Manager,16064.0,5.0,Yes,22.0,3.0,L,22.0,N,3.0,17.0,13.0,1.0,9.0,34
+46367,49.0,Research and Development,23,4.0,4.0,Male,2,5,2,L,N,L,Research Director,19502.0,5.0,Yes,17.0,3.0,L,31.0,N,3.0,31.0,9.0,0.0,9.0,46
+46466,40.0,Research and Development,19,3.0,2.0,Female,3,2,2,L,N,L,Customercare Representative,4448.0,6.0,No,12.0,2.0,H,15.0,N,3.0,7.0,4.0,7.0,7.0,49
+46473,41.0,Research and Development,5,4.0,1.0,Female,2,4,1,L,N,H,Manufacturing Director,13570.0,4.0,No,23.0,3.0,H,21.0,N,3.0,20.0,7.0,0.0,10.0,31
+46519,28.0,Finance,17,4.0,2.0,Female,2,3,1,H,Y,H,Accountant,9471.0,2.0,Yes,15.0,2.0,L,6.0,Y,1.0,5.0,5.0,2.0,2.0,78
+46547,45.0,Production,8,2.0,3.0,Male,3,2,2,L,Y,H,Machinists,4447.0,8.0,No,12.0,2.0,L,9.0,Y,2.0,9.0,7.0,0.0,8.0,52
+46628,30.0,IT Support,6,4.0,2.0,Female,2,2,2,L,Y,H,IT specialists,6026.0,1.0,Yes,18.0,1.0,L,6.0,Y,2.0,8.0,5.0,2.0,7.0,62
+46737,37.0,Production,10,3.0,3.0,Female,3,1,4,H,N,H,Machinists,3452.0,6.0,No,20.0,2.0,H,17.0,Y,3.0,5.0,4.0,0.0,3.0,63
+46772,33.0,Research and Development,11,3.0,1.0,Male,3,1,2,L,N,H,Research and Design Specialists,2781.0,1.0,No,13.0,2.0,L,15.0,Y,3.0,14.0,10.0,4.0,10.0,59
+46895,43.0,Research and Development,21,4.0,2.0,Male,2,4,2,H,N,H,Research Director,16627.0,5.0,Yes,14.0,3.0,L,21.0,Y,2.0,1.0,0.0,0.0,0.0,60
+46896,39.0,Research and Development,25,1.0,3.0,Male,3,3,1,L,N,H,Research Director,13464.0,6.0,No,21.0,3.0,H,9.0,Y,3.0,4.0,3.0,2.0,2.0,55
+47051,30.0,Sales,10,5.0,3.0,Male,3,2,1,L,N,L,Sales Executive,5304.0,6.0,No,23.0,4.0,L,10.0,N,2.0,8.0,7.0,7.0,7.0,47
+47079,55.0,Finance,11,4.0,1.0,Male,2,3,1,L,Y,H,Accountant,8117.0,6.0,Yes,15.0,3.0,L,5.0,Y,2.0,6.0,6.0,3.0,2.0,58
+47117,51.0,Finance,4,3.0,2.0,Female,3,3,2,H,Y,H,Accountant,8694.0,2.0,Yes,16.0,1.0,L,10.0,Y,3.0,6.0,5.0,3.0,7.0,85
+47130,31.0,Production,1,4.0,4.0,Male,3,2,1,L,Y,L,Machinists,5915.0,3.0,No,22.0,4.0,L,10.0,Y,2.0,7.0,7.0,1.0,7.0,33
+47141,34.0,Research and Development,23,3.0,3.0,Female,2,3,1,H,Y,H,Manager,11631.0,2.0,No,12.0,4.0,H,14.0,Y,3.0,11.0,10.0,5.0,8.0,62
+47172,30.0,Research and Development,8,3.0,3.0,Male,3,2,2,H,N,H,Manufacturing Director,9957.0,9.0,No,15.0,3.0,L,7.0,N,2.0,6.0,2.0,0.0,2.0,45
+47215,47.0,Research and Development,8,2.0,1.0,Female,3,2,2,L,N,L,Manufacturing Director,5070.0,5.0,No,13.0,3.0,L,20.0,N,3.0,5.0,0.0,0.0,4.0,41
+47252,29.0,Finance,10,4.0,2.0,Female,2,2,4,L,N,H,Accountant,8270.0,2.0,Yes,16.0,1.0,H,8.0,N,1.0,9.0,5.0,3.0,7.0,43
+47286,27.0,Sales,7,3.0,4.0,Female,2,2,2,L,N,L,Sales Executive,5769.0,8.0,Yes,11.0,4.0,H,6.0,Y,3.0,6.0,2.0,4.0,4.0,50
+47380,50.0,Research and Development,7,5.0,4.0,Female,2,3,1,L,Y,H,Research Director,13269.0,7.0,No,15.0,3.0,L,19.0,N,3.0,14.0,11.0,1.0,11.0,38
+47556,34.0,Research and Development,21,4.0,4.0,Male,3,1,2,H,N,H,Research and Design Specialists,2996.0,4.0,No,14.0,3.0,H,10.0,Y,3.0,4.0,3.0,1.0,3.0,73
+47604,48.0,Research and Development,9,3.0,4.0,Male,2,5,2,L,Y,H,Research Director,19665.0,3.0,No,12.0,4.0,H,29.0,Y,3.0,22.0,10.0,12.0,9.0,78
+47680,48.0,Sales,15,5.0,2.0,Female,3,2,4,H,N,H,Sales Executive,4051.0,2.0,No,14.0,1.0,H,14.0,Y,3.0,9.0,7.0,6.0,7.0,64
+47942,36.0,Research and Development,7,4.0,1.0,Male,3,2,2,H,Y,H,Manufacturing Director,7779.0,4.0,No,20.0,1.0,L,18.0,Y,3.0,11.0,9.0,0.0,9.0,59
+47990,44.0,Research and Development,12,1.0,2.0,Male,3,3,2,L,N,H,Manufacturing Director,10209.0,6.0,Yes,18.0,2.0,H,16.0,Y,2.0,2.0,2.0,2.0,2.0,66
+48160,32.0,Sales,24,1.0,3.0,Female,3,1,2,H,N,L,Sales Representative,2827.0,1.0,No,12.0,3.0,L,1.0,N,3.0,1.0,0.0,0.0,0.0,49
+48217,42.0,Research and Development,19,4.0,3.0,Male,3,1,1,L,N,L,Research and Design Specialists,2936.0,2.0,No,22.0,2.0,H,10.0,Y,2.0,6.0,3.0,3.0,3.0,58
+48238,55.0,Sales,9,3.0,1.0,Male,4,2,3,L,Y,H,IT specialists,6996.0,9.0,Yes,19.0,3.0,H,10.0,Y,3.0,5.0,4.0,1.0,5.0,84
+48297,54.0,Research and Development,13,2.0,1.0,Female,3,2,1,L,Y,H,Research and Design Specialists,2897.0,5.0,No,11.0,3.0,L,9.0,Y,2.0,4.0,3.0,2.0,3.0,51
+48316,33.0,Sales,24,3.0,4.0,Female,3,2,2,L,N,H,Sales Executive,5147.0,3.0,No,15.0,4.0,L,13.0,Y,2.0,11.0,7.0,1.0,7.0,73
+48370,44.0,Research and Development,12,4.0,2.0,Male,4,2,3,L,Y,H,Customercare Representative,5033.0,8.0,No,15.0,4.0,H,10.0,Y,3.0,2.0,0.0,2.0,2.0,71
+48577,37.0,Research and Development,6,4.0,3.0,Male,3,2,2,H,N,H,Manufacturing Director,4197.0,2.0,Yes,12.0,4.0,L,18.0,Y,2.0,1.0,0.0,0.0,1.0,60
+48813,28.0,Production,7,3.0,3.0,Male,2,1,1,L,N,L,Machinists,2367.0,6.0,No,12.0,1.0,H,6.0,N,2.0,4.0,1.0,0.0,3.0,18
+48866,58.0,Research and Development,14,4.0,3.0,Female,2,3,2,L,N,H,Manufacturing Director,10008.0,2.0,Yes,14.0,4.0,L,31.0,Y,2.0,10.0,9.0,5.0,9.0,59
+48877,45.0,Sales,17,4.0,2.0,Female,2,2,1,L,Y,H,Sales Executive,5593.0,4.0,No,13.0,4.0,L,15.0,Y,3.0,15.0,10.0,4.0,12.0,55
+48923,28.0,Research and Development,18,3.0,3.0,Male,2,1,4,H,Y,H,Research and Design Specialists,2703.0,8.0,Yes,14.0,4.0,L,3.0,Y,3.0,3.0,1.0,0.0,2.0,67
+49036,45.0,Sales,7,3.0,1.0,Male,2,2,2,L,N,L,Sales Executive,4385.0,9.0,No,15.0,1.0,L,10.0,N,3.0,10.0,7.0,4.0,5.0,41
+49089,37.0,Production,25,3.0,1.0,Male,3,1,1,L,N,H,Production Supervisors,6698.0,5.0,No,18.0,4.0,L,5.0,Y,3.0,6.0,6.0,1.0,4.0,38
+49181,36.0,Sales,2,4.0,1.0,Male,3,2,1,L,Y,H,Sales Executive,5079.0,5.0,No,13.0,4.0,L,12.0,Y,3.0,7.0,7.0,0.0,7.0,51
+49192,35.0,Sales,21,3.0,4.0,Male,2,3,2,L,Y,H,Sales Executive,10306.0,9.0,No,17.0,3.0,L,15.0,Y,3.0,13.0,12.0,6.0,0.0,54
+49207,28.0,Finance,19,3.0,2.0,Male,3,2,1,L,Y,H,Accountant,8631.0,1.0,Yes,17.0,3.0,L,10.0,N,1.0,5.0,5.0,3.0,4.0,59
+49208,43.0,Sales,9,4.0,4.0,Female,2,3,2,H,N,H,Sales Executive,10231.0,4.0,No,14.0,4.0,L,23.0,Y,4.0,21.0,7.0,15.0,17.0,73
+49252,30.0,Research and Development,3,3.0,4.0,Male,3,1,2,L,N,L,Research and Design Specialists,3579.0,2.0,Yes,21.0,1.0,H,12.0,N,3.0,11.0,9.0,5.0,7.0,49
+49353,36.0,Research and Development,3,4.0,4.0,Female,3,3,4,L,N,H,Customercare Representative,7094.0,6.0,No,12.0,1.0,L,10.0,Y,3.0,7.0,7.0,1.0,7.0,65
+49402,35.0,Research and Development,7,3.0,3.0,Male,3,3,2,H,Y,H,Manufacturing Director,10221.0,9.0,No,21.0,2.0,L,17.0,Y,4.0,8.0,5.0,1.0,6.0,59
+49583,28.0,Production,14,4.0,3.0,Male,3,1,2,L,N,L,Machinists,3441.0,1.0,Yes,13.0,3.0,L,2.0,N,2.0,2.0,2.0,2.0,2.0,46
+49618,51.0,Research and Development,5,3.0,4.0,Male,1,2,4,H,N,H,Manufacturing Director,5482.0,5.0,No,18.0,4.0,H,13.0,Y,3.0,4.0,1.0,1.0,2.0,74
+49647,51.0,Finance,23,3.0,1.0,Male,2,3,1,L,Y,L,Accountant,8012.0,2.0,Yes,15.0,2.0,L,5.0,Y,1.0,2.0,7.0,1.0,5.0,59
+49665,26.0,Human Resources,6,1.0,3.0,Female,3,1,1,L,N,L,Human Resources,2942.0,1.0,No,23.0,4.0,L,8.0,N,3.0,8.0,7.0,5.0,7.0,39
+49734,40.0,Research and Development,16,2.0,1.0,Male,3,2,1,H,N,H,Research and Design Specialists,3319.0,1.0,No,17.0,1.0,L,9.0,Y,3.0,9.0,8.0,4.0,7.0,58
+49816,41.0,Human Resources,8,4.0,2.0,Male,2,5,2,H,N,H,Manager,19141.0,7.0,No,15.0,2.0,L,23.0,Y,2.0,21.0,6.0,12.0,6.0,61
+49902,41.0,Research and Development,14,3.0,4.0,Male,3,1,2,L,Y,H,Research and Design Specialists,2782.0,7.0,No,22.0,1.0,L,12.0,Y,3.0,5.0,3.0,1.0,0.0,57
+49940,23.0,Sales,24,3.0,3.0,Male,3,1,2,L,Y,L,Sales Representative,2275.0,8.0,Yes,21.0,2.0,L,3.0,N,3.0,3.0,2.0,0.0,2.0,44
+50036,38.0,Production,15,2.0,4.0,Female,2,1,2,L,N,H,Machinists,3702.0,5.0,No,11.0,2.0,H,5.0,Y,3.0,5.0,4.0,0.0,4.0,52
+50037,35.0,Research and Development,20,3.0,4.0,Male,3,3,1,H,N,H,Customercare Representative,7632.0,4.0,Yes,12.0,3.0,L,10.0,Y,3.0,8.0,7.0,0.0,0.0,55
+50038,25.0,Sales,25,3.0,3.0,Male,2,2,2,H,N,H,Sales Executive,5744.0,1.0,Yes,11.0,4.0,H,6.0,N,3.0,6.0,4.0,0.0,3.0,69
+50095,34.0,Research and Development,9,3.0,4.0,Male,2,2,4,H,N,H,Customercare Representative,5343.0,7.0,No,20.0,3.0,H,14.0,Y,3.0,13.0,9.0,4.0,9.0,79
+50176,28.0,Research and Development,14,3.0,3.0,Female,3,1,2,H,Y,H,Research and Design Specialists,2377.0,2.0,No,18.0,2.0,L,6.0,Y,3.0,2.0,2.0,2.0,2.0,54
+50266,34.0,Production,21,3.0,1.0,Male,1,2,2,L,N,H,Machinists,6074.0,1.0,Yes,24.0,4.0,L,9.0,N,3.0,9.0,7.0,0.0,6.0,32
+50294,41.0,Sales,9,3.0,3.0,Female,3,2,2,L,N,H,Sales Executive,4103.0,3.0,No,17.0,4.0,L,10.0,Y,3.0,9.0,3.0,1.0,7.0,62
+50366,28.0,Finance,7,4.0,1.0,Male,2,2,1,H,N,H,Accountant,9022.0,8.0,Yes,16.0,3.0,L,10.0,N,3.0,7.0,5.0,3.0,6.0,30
+50380,25.0,Sales,3,1.0,3.0,Male,1,1,2,L,N,L,Sales Representative,1118.0,6.0,Yes,14.0,4.0,L,1.0,Y,3.0,1.0,0.0,1.0,0.0,50
+50384,49.0,Research and Development,24,4.0,4.0,Male,3,2,2,H,N,H,Manufacturing Director,6804.0,1.0,Yes,15.0,1.0,L,7.0,Y,3.0,7.0,7.0,1.0,7.0,59
+50405,40.0,Finance,8,4.0,1.0,Male,2,2,1,L,N,H,Accountant,9255.0,7.0,No,15.0,2.0,H,9.0,Y,3.0,8.0,4.0,1.0,6.0,35
+50441,38.0,Finance,25,4.0,2.0,Male,3,3,1,L,N,H,Accountant,8686.0,6.0,No,16.0,4.0,H,5.0,Y,1.0,7.0,3.0,2.0,6.0,39
+50458,40.0,Sales,17,3.0,3.0,Male,3,2,4,L,Y,H,Sales Executive,8396.0,3.0,No,14.0,2.0,L,8.0,Y,2.0,7.0,7.0,7.0,5.0,65
+50512,33.0,Sales,17,4.0,4.0,Male,3,2,2,L,N,H,Sales Executive,5505.0,9.0,No,14.0,3.0,L,6.0,Y,3.0,6.0,2.0,0.0,4.0,60
+50652,57.0,Research and Development,7,4.0,4.0,Male,3,2,1,H,N,H,Customercare Representative,6755.0,2.0,No,11.0,3.0,L,15.0,Y,3.0,3.0,2.0,1.0,2.0,55
+50665,33.0,Sales,6,3.0,1.0,Male,4,2,2,H,Y,H,Sales Executive,4037.0,1.0,No,22.0,1.0,L,9.0,Y,3.0,9.0,8.0,0.0,8.0,61
+50861,36.0,Human Resources,20,1.0,2.0,Male,2,2,2,L,Y,H,Human Resources,3886.0,7.0,No,21.0,4.0,H,10.0,Y,2.0,10.0,1.0,0.0,8.0,78
+50900,30.0,Production,14,3.0,3.0,Male,3,1,2,H,N,L,Machinists,2097.0,4.0,No,15.0,3.0,L,9.0,Y,1.0,5.0,3.0,1.0,4.0,60
+50946,60.0,Research and Development,12,3.0,1.0,Female,3,5,2,L,N,H,Manager,19566.0,5.0,No,11.0,4.0,L,33.0,N,1.0,29.0,8.0,11.0,10.0,44
+50994,42.0,Research and Development,5,3.0,2.0,Male,4,2,4,L,Y,L,Customercare Representative,5538.0,4.0,No,18.0,3.0,H,10.0,Y,2.0,0.0,0.0,0.0,0.0,67
+51006,39.0,Research and Development,5,2.0,1.0,Male,3,2,1,H,N,H,Manufacturing Director,4534.0,6.0,No,11.0,1.0,L,9.0,Y,3.0,8.0,7.0,1.0,7.0,51
+51051,33.0,Sales,20,3.0,1.0,Female,3,2,1,L,N,L,Sales Executive,5324.0,9.0,No,15.0,3.0,L,6.0,N,3.0,3.0,2.0,0.0,2.0,20
+51064,40.0,Production,19,4.0,1.0,Male,3,1,2,L,Y,H,Machinists,2406.0,3.0,No,19.0,3.0,L,8.0,Y,2.0,1.0,0.0,0.0,0.0,72
+51150,29.0,Research and Development,22,1.0,3.0,Male,2,1,1,L,N,L,Research and Design Specialists,2389.0,1.0,Yes,13.0,3.0,L,4.0,N,2.0,4.0,3.0,0.0,1.0,15
+51197,48.0,Research and Development,7,3.0,4.0,Female,3,4,1,L,N,H,Manager,17174.0,8.0,No,11.0,2.0,H,24.0,N,3.0,22.0,17.0,4.0,7.0,34
+51260,31.0,Research and Development,16,4.0,3.0,Male,1,2,4,H,N,L,Manufacturing Director,4345.0,0.0,No,12.0,4.0,H,6.0,Y,3.0,5.0,4.0,1.0,4.0,69
+51270,29.0,Research and Development,25,1.0,2.0,Female,1,1,2,L,Y,L,Research and Design Specialists,2168.0,9.0,Yes,18.0,1.0,L,6.0,N,2.0,5.0,4.0,1.0,3.0,41
+51294,31.0,Research and Development,2,2.0,3.0,Male,2,1,1,H,N,L,Research and Design Specialists,2321.0,6.0,Yes,22.0,1.0,L,4.0,N,3.0,3.0,2.0,1.0,2.0,47
+51295,33.0,Research and Development,15,5.0,4.0,Male,3,2,1,H,N,H,Customercare Representative,6388.0,5.0,Yes,17.0,1.0,H,14.0,Y,3.0,0.0,0.0,0.0,0.0,58
+51344,28.0,Sales,14,2.0,2.0,Male,2,3,2,H,Y,H,Customercare Representative,8722.0,8.0,No,12.0,1.0,L,10.0,Y,2.0,10.0,7.0,1.0,9.0,53
+51364,30.0,Production,18,2.0,4.0,Male,2,1,2,L,N,L,Machinists,2206.0,1.0,No,13.0,1.0,L,10.0,Y,3.0,10.0,0.0,1.0,8.0,50
+51408,52.0,IT Support,21,3.0,2.0,Male,2,3,3,H,Y,H,IT specialists,9028.0,3.0,Yes,19.0,4.0,L,9.0,Y,3.0,5.0,2.0,3.0,4.0,65
+51498,20.0,Research and Development,5,1.0,4.0,Male,3,1,2,L,N,L,Research and Design Specialists,1009.0,9.0,Yes,11.0,4.0,L,1.0,N,3.0,1.0,0.0,1.0,1.0,36
+51673,47.0,Sales,15,4.0,4.0,Male,3,2,2,L,N,L,Sales Executive,4960.0,1.0,No,12.0,4.0,L,20.0,N,3.0,7.0,7.0,1.0,7.0,48
+51685,50.0,Human Resources,3,3.0,1.0,Male,3,5,3,H,N,H,Manager,18200.0,5.0,No,11.0,3.0,H,32.0,Y,3.0,32.0,5.0,10.0,7.0,86
+51737,51.0,Finance,17,4.0,1.0,Male,2,3,2,L,N,H,Accountant,9008.0,3.0,Yes,18.0,4.0,H,6.0,Y,3.0,10.0,7.0,3.0,3.0,29
+51740,30.0,Sales,18,2.0,3.0,Male,3,3,2,L,Y,H,Sales Executive,7264.0,8.0,No,11.0,1.0,L,10.0,Y,4.0,8.0,4.0,7.0,7.0,70
+51763,52.0,Sales,13,4.0,1.0,Male,3,1,1,L,N,L,Sales Representative,3482.0,5.0,No,15.0,2.0,H,16.0,N,2.0,9.0,8.0,0.0,0.0,37
+51840,26.0,Research and Development,5,1.0,4.0,Male,4,3,3,L,N,L,Machinists,5100.0,6.0,No,15.0,1.0,H,6.0,Y,1.0,4.0,7.0,1.0,3.0,75
+51938,35.0,Sales,19,4.0,4.0,Male,3,3,3,L,Y,H,Sales Executive,7823.0,4.0,No,13.0,2.0,H,12.0,Y,3.0,10.0,9.0,0.0,8.0,81
+51972,25.0,Research and Development,25,3.0,1.0,Female,3,2,2,H,N,L,Manufacturing Director,4898.0,0.0,No,12.0,4.0,H,5.0,Y,3.0,4.0,2.0,1.0,2.0,68
+52005,38.0,Sales,1,2.0,4.0,Male,2,2,3,H,N,H,Sales Executive,5249.0,3.0,No,18.0,4.0,H,13.0,Y,3.0,8.0,7.0,7.0,5.0,83
+52061,22.0,Production,3,1.0,2.0,Male,1,1,1,L,Y,H,Machinists,2451.0,4.0,No,15.0,1.0,L,4.0,Y,2.0,4.0,3.0,1.0,1.0,58
+52076,32.0,Sales,7,4.0,2.0,Male,3,2,3,H,Y,H,Sales Executive,4403.0,3.0,No,11.0,3.0,H,8.0,Y,2.0,5.0,2.0,0.0,3.0,81
+52138,29.0,Production,21,1.0,4.0,Female,3,1,2,H,N,H,Machinists,3180.0,8.0,No,13.0,3.0,H,4.0,Y,3.0,3.0,2.0,0.0,2.0,66
+52205,33.0,Sales,13,3.0,1.0,Female,3,3,2,L,N,H,Sales Executive,8564.0,1.0,Yes,20.0,3.0,L,11.0,N,2.0,0.0,0.0,0.0,0.0,46
+52246,33.0,Sales,25,5.0,4.0,Male,4,3,4,L,Y,H,Sales Executive,8380.0,5.0,Yes,14.0,4.0,L,10.0,Y,3.0,9.0,8.0,0.0,8.0,79
+52311,38.0,Research and Development,18,3.0,4.0,Female,2,2,1,L,Y,H,Research and Design Specialists,2133.0,7.0,Yes,16.0,3.0,L,20.0,Y,3.0,20.0,11.0,0.0,7.0,55
+52351,39.0,Research and Development,12,2.0,3.0,Male,3,3,2,H,Y,H,Customercare Representative,10920.0,9.0,No,21.0,2.0,H,13.0,N,3.0,6.0,4.0,0.0,5.0,41
+52386,43.0,Finance,5,3.0,1.0,Male,3,3,1,L,N,H,Accountant,8917.0,6.0,No,19.0,3.0,L,7.0,N,1.0,2.0,6.0,1.0,2.0,50
+52431,27.0,Research and Development,12,4.0,1.0,Female,2,1,1,H,N,H,Research and Design Specialists,2187.0,4.0,No,12.0,3.0,L,6.0,Y,2.0,5.0,3.0,0.0,3.0,58
+52464,53.0,Finance,14,3.0,2.0,Male,3,3,2,L,N,H,Accountant,9596.0,3.0,Yes,19.0,4.0,L,5.0,N,1.0,9.0,6.0,1.0,7.0,45
+52587,29.0,Sales,24,3.0,4.0,Male,3,1,2,H,N,H,Sales Representative,2297.0,3.0,No,14.0,4.0,L,2.0,Y,3.0,2.0,2.0,2.0,2.0,70
+52630,38.0,Research and Development,22,3.0,1.0,Male,2,2,2,H,Y,H,Customercare Representative,6288.0,6.0,No,15.0,3.0,L,13.0,Y,2.0,4.0,3.0,1.0,2.0,70
+52665,40.0,Research and Development,12,3.0,3.0,Male,3,1,2,L,Y,H,Research and Design Specialists,2345.0,4.0,No,14.0,3.0,H,8.0,Y,4.0,3.0,1.0,1.0,2.0,68
+52701,34.0,Research and Development,25,3.0,3.0,Female,4,1,2,L,Y,L,Research and Design Specialists,2585.0,4.0,No,17.0,4.0,H,2.0,N,2.0,1.0,0.0,0.0,0.0,44
+52760,48.0,Production,24,2.0,4.0,Male,4,1,2,L,N,H,Machinists,2559.0,4.0,No,11.0,3.0,L,7.0,Y,2.0,1.0,0.0,0.0,0.0,62
+52765,40.0,Research and Development,10,4.0,1.0,Male,3,4,2,L,N,H,Manager,16823.0,2.0,No,11.0,1.0,H,22.0,N,3.0,19.0,7.0,11.0,16.0,46
+52771,33.0,Finance,16,3.0,1.0,Female,3,2,4,L,N,H,Accountant,8833.0,6.0,Yes,18.0,4.0,H,8.0,N,3.0,2.0,2.0,2.0,6.0,35
+52840,35.0,Sales,11,4.0,2.0,Female,2,1,2,H,Y,L,Sales Representative,2430.0,9.0,No,23.0,1.0,H,6.0,N,3.0,5.0,3.0,4.0,2.0,43
+53023,37.0,Sales,15,4.0,1.0,Male,2,3,1,H,Y,H,Sales Executive,10609.0,4.0,No,11.0,3.0,L,17.0,Y,1.0,14.0,1.0,11.0,7.0,51
+53081,35.0,Production,20,4.0,2.0,Female,4,3,3,L,N,H,Production Supervisors,6058.0,1.0,No,18.0,1.0,H,7.0,Y,2.0,9.0,4.0,1.0,2.0,33
+53151,21.0,Sales,23,2.0,1.0,Male,3,1,2,H,N,H,Sales Representative,2610.0,1.0,No,24.0,3.0,H,3.0,Y,2.0,3.0,2.0,2.0,2.0,66
+53267,31.0,Finance,1,3.0,2.0,Female,2,3,2,H,Y,H,Accountant,9830.0,2.0,Yes,20.0,3.0,L,5.0,Y,3.0,2.0,5.0,1.0,3.0,64
+53303,35.0,Sales,22,4.0,4.0,Male,3,2,1,L,Y,L,Sales Executive,4581.0,8.0,Yes,24.0,1.0,L,13.0,N,4.0,11.0,9.0,6.0,7.0,29
+53366,44.0,Finance,7,4.0,2.0,Male,3,3,4,L,N,H,Accountant,8173.0,7.0,Yes,15.0,4.0,H,6.0,N,1.0,9.0,6.0,2.0,7.0,32
+53448,52.0,Production,13,4.0,3.0,Female,3,1,1,L,N,L,Machinists,2950.0,2.0,No,13.0,3.0,L,12.0,N,1.0,5.0,4.0,0.0,4.0,31
+53542,30.0,Production,24,2.0,4.0,Male,3,1,2,L,Y,H,Machinists,3748.0,4.0,No,13.0,3.0,L,12.0,Y,2.0,12.0,8.0,1.0,7.0,70
+53571,55.0,Research and Development,2,3.0,3.0,Male,2,5,4,L,Y,H,Research Director,19038.0,4.0,No,12.0,2.0,L,34.0,Y,3.0,1.0,0.0,0.0,0.0,74
+53627,27.0,Production,22,1.0,1.0,Male,3,1,2,L,N,L,Machinists,3468.0,9.0,No,12.0,4.0,L,6.0,N,3.0,2.0,2.0,2.0,2.0,42
+53696,31.0,Sales,22,4.0,1.0,Female,2,2,2,L,N,L,Sales Executive,5468.0,5.0,No,14.0,1.0,H,13.0,N,3.0,12.0,7.0,5.0,7.0,45
+53808,35.0,Research and Development,9,3.0,3.0,Male,2,3,2,H,N,H,Manufacturing Director,10274.0,8.0,No,18.0,2.0,H,15.0,Y,4.0,7.0,7.0,6.0,4.0,93
+53821,33.0,Production,15,4.0,1.0,Male,2,2,3,L,N,L,Production Supervisors,5758.0,7.0,Yes,15.0,1.0,L,9.0,N,1.0,2.0,2.0,1.0,5.0,37
+53827,28.0,Finance,17,4.0,1.0,Female,3,2,3,H,N,H,Accountant,8716.0,2.0,Yes,16.0,1.0,H,5.0,N,2.0,10.0,3.0,3.0,4.0,49
+53857,29.0,Research and Development,12,1.0,1.0,Male,3,2,4,H,N,H,Customercare Representative,8853.0,1.0,No,19.0,4.0,H,6.0,Y,4.0,6.0,4.0,1.0,3.0,67
+54053,42.0,Production,4,3.0,3.0,Female,4,2,4,L,Y,H,Machinists,5231.0,1.0,Yes,13.0,2.0,H,17.0,Y,2.0,5.0,3.0,1.0,3.0,74
+54055,19.0,Human Resources,14,2.0,1.0,Male,2,1,1,L,N,L,Human Resources,2564.0,1.0,No,12.0,3.0,L,1.0,N,4.0,1.0,0.0,0.0,0.0,29
+54187,36.0,Sales,4,4.0,2.0,Female,2,2,2,L,N,L,Sales Executive,5673.0,8.0,Yes,13.0,1.0,H,10.0,N,3.0,10.0,9.0,1.0,7.0,43
+54222,47.0,Finance,12,4.0,1.0,Female,3,3,3,H,N,H,Accountant,9542.0,2.0,No,15.0,3.0,H,9.0,N,3.0,7.0,7.0,3.0,4.0,48
+54360,40.0,Research and Development,25,3.0,3.0,Male,3,2,4,L,Y,H,Research and Design Specialists,4661.0,3.0,No,13.0,3.0,L,9.0,Y,3.0,9.0,8.0,8.0,8.0,67
+54413,42.0,Production,8,3.0,2.0,Male,1,2,2,H,N,L,Machinists,4272.0,7.0,No,19.0,1.0,L,16.0,N,3.0,1.0,0.0,0.0,0.0,49
+54456,36.0,Sales,1,2.0,2.0,Male,3,2,3,H,Y,H,Sales Executive,6201.0,5.0,Yes,14.0,4.0,H,18.0,Y,2.0,18.0,14.0,4.0,11.0,87
+54481,40.0,Production,14,4.0,1.0,Female,2,4,1,L,N,H,Production Supervisors,6377.0,2.0,Yes,18.0,4.0,L,6.0,N,1.0,10.0,7.0,2.0,7.0,39
+54516,45.0,Sales,9,4.0,3.0,Female,3,2,1,L,Y,H,Sales Executive,5154.0,2.0,No,22.0,2.0,H,10.0,Y,4.0,8.0,7.0,5.0,7.0,55
+54535,42.0,Research and Development,10,3.0,3.0,Male,3,3,4,L,Y,H,Research Director,13348.0,4.0,No,13.0,2.0,L,18.0,Y,4.0,13.0,7.0,5.0,7.0,69
+54542,18.0,Production,14,1.0,3.0,Male,3,1,1,H,N,H,Machinists,1904.0,8.0,No,12.0,4.0,L,0.0,Y,3.0,0.0,0.0,0.0,0.0,55
+54630,54.0,Finance,23,4.0,2.0,Male,2,3,3,L,Y,H,Accountant,8424.0,4.0,No,19.0,1.0,L,7.0,Y,3.0,2.0,5.0,3.0,3.0,55
+54748,54.0,Production,25,4.0,3.0,Female,3,2,2,H,N,L,Machinists,3780.0,7.0,No,11.0,3.0,L,19.0,Y,3.0,1.0,0.0,0.0,0.0,60
+54888,39.0,Production,16,3.0,2.0,Male,4,2,1,L,N,L,Production Supervisors,5880.0,6.0,No,18.0,1.0,L,7.0,N,1.0,2.0,4.0,3.0,7.0,30
+54953,46.0,Sales,8,3.0,1.0,Male,3,3,1,L,N,H,Sales Executive,10096.0,7.0,No,11.0,1.0,L,28.0,N,4.0,7.0,7.0,4.0,3.0,37
+55130,48.0,Finance,23,3.0,2.0,Female,3,2,2,L,Y,H,Accountant,8836.0,4.0,No,18.0,3.0,L,7.0,N,2.0,4.0,4.0,1.0,6.0,75
+55184,45.0,Sales,10,3.0,4.0,Female,2,3,2,L,Y,L,Sales Executive,8865.0,6.0,No,12.0,4.0,L,23.0,Y,3.0,19.0,7.0,12.0,8.0,50
+55236,32.0,Production,18,3.0,4.0,Male,3,1,2,L,Y,H,Machinists,2314.0,8.0,No,12.0,2.0,L,4.0,Y,3.0,3.0,0.0,0.0,2.0,68
+55268,58.0,Research and Development,21,4.0,4.0,Female,3,3,1,L,Y,H,Customercare Representative,10312.0,1.0,No,12.0,4.0,L,40.0,N,2.0,40.0,10.0,15.0,6.0,26
+55269,52.0,Research and Development,18,4.0,3.0,Male,2,2,2,L,N,L,Research and Design Specialists,4941.0,2.0,No,15.0,1.0,L,11.0,N,2.0,8.0,2.0,7.0,7.0,43
+55325,22.0,Research and Development,22,2.0,4.0,Male,3,1,2,L,Y,H,Research and Design Specialists,3375.0,8.0,No,12.0,4.0,L,4.0,Y,4.0,3.0,2.0,1.0,2.0,66
+55454,46.0,Research and Development,9,4.0,3.0,Female,3,2,2,L,N,L,Manufacturing Director,5258.0,2.0,No,14.0,3.0,L,7.0,N,4.0,1.0,0.0,0.0,0.0,48
+55502,55.0,Finance,12,3.0,1.0,Male,3,2,4,L,Y,H,Accountant,8618.0,2.0,Yes,15.0,4.0,L,8.0,Y,2.0,3.0,6.0,3.0,5.0,73
+55523,31.0,Research and Development,10,2.0,3.0,Male,3,1,1,L,N,L,Research and Design Specialists,3065.0,6.0,Yes,13.0,4.0,H,4.0,N,4.0,4.0,2.0,2.0,3.0,39
+55643,38.0,Sales,3,3.0,1.0,Male,2,1,2,L,Y,H,Sales Representative,2858.0,5.0,No,14.0,1.0,L,20.0,Y,2.0,1.0,0.0,0.0,0.0,54
+55735,27.0,Research and Development,24,3.0,4.0,Female,2,1,2,L,Y,H,Research and Design Specialists,4774.0,1.0,No,19.0,4.0,H,8.0,Y,2.0,7.0,6.0,7.0,3.0,60
+55903,38.0,Human Resources,11,4.0,3.0,Male,3,2,4,L,N,H,Human Resources,6077.0,3.0,No,11.0,3.0,H,10.0,Y,3.0,6.0,3.0,1.0,2.0,64
+55993,56.0,Production,25,2.0,4.0,Male,3,1,2,L,Y,H,Machinists,2339.0,8.0,No,11.0,4.0,L,14.0,Y,1.0,10.0,9.0,9.0,8.0,53
+56099,50.0,Research and Development,8,3.0,3.0,Female,3,5,2,L,Y,H,Manager,19926.0,3.0,No,15.0,2.0,L,21.0,N,3.0,5.0,4.0,4.0,4.0,49
+56104,28.0,Production,23,2.0,3.0,Male,2,1,1,H,Y,L,Machinists,2561.0,8.0,No,11.0,3.0,L,8.0,N,2.0,0.0,0.0,0.0,0.0,38
+56246,27.0,Sales,24,3.0,3.0,Female,4,1,1,H,Y,L,Sales Representative,2534.0,3.0,No,14.0,2.0,H,5.0,N,3.0,1.0,0.0,0.0,0.0,39
+56262,47.0,Research and Development,17,1.0,3.0,Female,3,3,2,L,Y,H,Research Director,11957.0,7.0,No,18.0,1.0,L,14.0,Y,1.0,13.0,8.0,5.0,12.0,60
+56380,56.0,Research and Development,25,4.0,3.0,Male,3,2,2,L,Y,H,Customercare Representative,6306.0,9.0,No,21.0,1.0,L,13.0,Y,2.0,13.0,12.0,1.0,9.0,57
+56386,44.0,Research and Development,7,2.0,3.0,Male,4,5,4,L,Y,H,Manager,19190.0,6.0,No,14.0,4.0,L,26.0,Y,2.0,25.0,9.0,14.0,13.0,65
+56409,38.0,Research and Development,23,3.0,2.0,Male,1,2,1,L,Y,L,Customercare Representative,5811.0,6.0,Yes,16.0,3.0,L,15.0,N,3.0,1.0,0.0,1.0,0.0,39
+56434,47.0,Production,6,4.0,2.0,Female,3,1,2,L,Y,H,Machinists,2105.0,2.0,No,12.0,3.0,H,7.0,Y,3.0,2.0,2.0,2.0,0.0,61
+56439,29.0,Research and Development,24,3.0,1.0,Male,3,2,4,L,Y,L,Customercare Representative,5373.0,6.0,No,12.0,1.0,L,6.0,Y,2.0,5.0,3.0,0.0,2.0,74
+56684,32.0,Sales,20,3.0,2.0,Female,3,3,1,H,N,L,Sales Executive,8998.0,1.0,No,14.0,4.0,L,9.0,Y,3.0,9.0,8.0,3.0,7.0,58
+56762,41.0,Sales,25,3.0,1.0,Male,3,2,2,L,Y,H,Sales Executive,9355.0,1.0,No,18.0,3.0,L,8.0,N,3.0,8.0,7.0,7.0,7.0,45
+56772,29.0,Finance,24,4.0,2.0,Female,2,2,1,L,N,H,Accountant,7309.0,7.0,No,20.0,1.0,H,9.0,N,2.0,2.0,2.0,3.0,6.0,29
+56780,30.0,Sales,25,3.0,2.0,Male,2,2,1,L,N,H,Sales Executive,9714.0,8.0,No,11.0,4.0,L,10.0,N,3.0,10.0,8.0,6.0,7.0,32
+56976,34.0,Research and Development,15,4.0,4.0,Male,2,2,3,H,N,L,Manufacturing Director,5957.0,6.0,No,13.0,2.0,H,13.0,Y,3.0,11.0,9.0,5.0,9.0,84
+57036,35.0,Production,19,3.0,2.0,Male,3,3,3,L,N,H,Production Supervisors,6854.0,6.0,No,19.0,1.0,H,7.0,N,3.0,2.0,6.0,1.0,4.0,31
+57052,44.0,Production,19,3.0,2.0,Male,3,2,1,H,N,H,Machinists,2042.0,4.0,No,12.0,3.0,H,17.0,N,4.0,3.0,2.0,1.0,2.0,64
+57068,29.0,Production,5,3.0,4.0,Male,3,1,4,L,Y,H,Machinists,2062.0,2.0,No,14.0,2.0,H,11.0,Y,3.0,3.0,2.0,1.0,2.0,65
+57108,40.0,Research and Development,19,3.0,2.0,Female,3,2,2,L,N,L,Research and Design Specialists,5605.0,1.0,No,11.0,1.0,L,20.0,N,3.0,20.0,7.0,2.0,13.0,44
+57114,32.0,Research and Development,23,3.0,1.0,Male,3,2,4,H,N,H,Manufacturing Director,6162.0,1.0,Yes,22.0,2.0,L,9.0,Y,3.0,9.0,8.0,7.0,8.0,55
+57203,37.0,Sales,17,4.0,1.0,Male,3,1,2,H,N,L,Sales Manager,2793.0,4.0,No,17.0,3.0,L,13.0,Y,3.0,9.0,8.0,5.0,8.0,59
+57253,56.0,Sales,22,5.0,4.0,Female,2,2,3,L,Y,H,Sales Executive,5380.0,4.0,No,16.0,3.0,L,6.0,Y,3.0,0.0,0.0,0.0,0.0,83
+57307,45.0,Human Resources,13,4.0,2.0,Male,3,1,1,L,Y,H,Human Resources,2177.0,4.0,No,16.0,1.0,L,6.0,Y,3.0,6.0,3.0,0.0,4.0,55
+57352,41.0,IT Support,11,3.0,1.0,Male,3,4,4,L,Y,H,IT specialists,6073.0,2.0,No,18.0,4.0,L,6.0,Y,2.0,7.0,2.0,2.0,7.0,79
+57455,48.0,Research and Development,15,3.0,4.0,Male,2,5,2,H,Y,H,Research Director,18265.0,8.0,No,12.0,3.0,L,25.0,Y,4.0,1.0,0.0,0.0,0.0,72
+57502,34.0,Human Resources,17,3.0,2.0,Female,3,3,1,L,N,H,Human Resources,9950.0,9.0,Yes,15.0,3.0,L,11.0,N,3.0,3.0,2.0,0.0,2.0,16
+57527,34.0,Sales,1,3.0,1.0,Male,4,2,1,L,N,L,Sales Executive,5304.0,8.0,Yes,13.0,2.0,L,9.0,N,2.0,5.0,2.0,0.0,4.0,39
+57601,28.0,Research and Development,8,2.0,1.0,Female,1,1,2,L,N,L,Research and Design Specialists,2216.0,3.0,Yes,13.0,4.0,L,10.0,N,3.0,7.0,7.0,3.0,7.0,48
+57632,39.0,Production,18,1.0,3.0,Female,3,1,2,H,N,H,Machinists,3755.0,1.0,No,11.0,1.0,H,8.0,Y,3.0,8.0,3.0,0.0,7.0,62
+57880,55.0,Research and Development,5,3.0,1.0,Male,2,1,2,L,N,L,Research and Design Specialists,3537.0,3.0,No,12.0,4.0,L,8.0,N,3.0,4.0,2.0,1.0,2.0,44
+57884,29.0,Sales,10,3.0,1.0,Male,2,2,2,H,N,H,Sales Executive,6644.0,2.0,No,19.0,2.0,H,10.0,Y,3.0,0.0,0.0,0.0,0.0,66
+57914,49.0,Finance,10,3.0,1.0,Male,3,2,3,H,N,H,Accountant,9050.0,7.0,Yes,18.0,1.0,H,10.0,N,3.0,9.0,6.0,2.0,6.0,31
+57989,24.0,Sales,7,2.0,1.0,Female,3,2,2,H,N,H,Sales Executive,4999.0,0.0,No,21.0,1.0,H,4.0,Y,2.0,3.0,2.0,0.0,2.0,66
+57995,31.0,Sales,15,4.0,2.0,Male,2,1,2,L,Y,H,Sales Representative,2329.0,4.0,No,15.0,2.0,L,13.0,Y,4.0,7.0,7.0,5.0,2.0,60
+58067,51.0,Research and Development,20,4.0,1.0,Male,1,3,2,L,Y,H,Manufacturing Director,10650.0,2.0,No,15.0,4.0,L,18.0,N,3.0,4.0,2.0,0.0,3.0,46
+58208,45.0,Sales,4,4.0,1.0,Female,3,2,2,L,N,L,Sales Executive,4286.0,2.0,No,14.0,4.0,L,5.0,N,3.0,1.0,1.0,0.0,0.0,33
+58255,40.0,Sales,6,2.0,3.0,Male,2,2,1,L,N,H,Sales Executive,6380.0,2.0,Yes,12.0,1.0,L,8.0,N,3.0,6.0,4.0,1.0,0.0,35
+58271,37.0,Sales,19,3.0,4.0,Male,3,2,3,H,N,H,Sales Executive,9602.0,8.0,Yes,11.0,3.0,H,17.0,Y,2.0,3.0,0.0,1.0,0.0,75
+58375,50.0,Sales,1,2.0,1.0,Male,2,1,1,L,N,L,Sales Manager,2683.0,1.0,Yes,14.0,3.0,L,3.0,N,3.0,3.0,2.0,0.0,2.0,50
+58393,31.0,Sales,24,3.0,4.0,Female,3,1,2,H,N,H,Sales Representative,2789.0,1.0,No,11.0,3.0,H,2.0,Y,2.0,2.0,2.0,2.0,2.0,62
+58458,51.0,Sales,9,4.0,1.0,Female,3,4,2,L,N,H,Manager,16307.0,4.0,No,14.0,3.0,L,29.0,N,2.0,20.0,6.0,4.0,17.0,42
+58459,44.0,Research and Development,14,3.0,4.0,Male,3,1,1,H,Y,H,Research and Design Specialists,3420.0,8.0,No,13.0,3.0,H,6.0,Y,2.0,5.0,2.0,1.0,3.0,55
+58731,36.0,Research and Development,11,4.0,4.0,Female,2,2,2,L,N,L,Manufacturing Director,4374.0,7.0,No,15.0,3.0,L,4.0,N,3.0,3.0,2.0,1.0,2.0,48
+58769,38.0,Research and Development,8,3.0,3.0,Male,3,2,2,L,N,H,Manufacturing Director,4855.0,5.0,No,11.0,1.0,H,7.0,Y,3.0,5.0,2.0,1.0,4.0,54
+58780,31.0,Research and Development,25,3.0,4.0,Male,1,2,2,L,Y,H,Research and Design Specialists,5003.0,1.0,No,21.0,2.0,L,10.0,Y,3.0,10.0,8.0,8.0,7.0,78
+58785,50.0,Research and Development,24,3.0,4.0,Male,3,4,2,H,Y,H,Manufacturing Director,13973.0,7.0,Yes,18.0,4.0,L,22.0,Y,3.0,12.0,11.0,1.0,5.0,54
+58836,31.0,Research and Development,15,3.0,3.0,Female,2,2,1,H,Y,H,Customercare Representative,6812.0,3.0,No,19.0,2.0,H,10.0,N,3.0,10.0,9.0,1.0,8.0,28
+58892,29.0,Sales,3,2.0,2.0,Male,3,2,1,H,N,H,Sales Executive,4554.0,1.0,No,18.0,1.0,L,10.0,Y,2.0,10.0,7.0,0.0,9.0,55
+59084,29.0,Research and Development,12,2.0,4.0,Male,2,1,1,L,N,L,Research and Design Specialists,2439.0,7.0,Yes,24.0,2.0,L,1.0,N,2.0,1.0,0.0,1.0,0.0,21
+59100,36.0,Production,9,2.0,1.0,Female,3,1,4,H,N,H,Machinists,2835.0,5.0,No,22.0,1.0,H,7.0,Y,3.0,1.0,0.0,0.0,0.0,64
+59105,35.0,Production,8,2.0,3.0,Male,2,1,4,L,N,H,Machinists,2690.0,5.0,No,18.0,4.0,H,1.0,Y,2.0,1.0,0.0,0.0,1.0,64
+59110,48.0,Finance,24,4.0,1.0,Male,2,3,1,L,Y,H,Accountant,9382.0,9.0,No,18.0,4.0,L,5.0,N,3.0,3.0,5.0,2.0,3.0,65
+59242,39.0,Research and Development,17,1.0,4.0,Male,2,3,3,L,Y,H,Customercare Representative,9991.0,5.0,No,15.0,1.0,L,9.0,Y,3.0,7.0,7.0,1.0,7.0,75
+59325,35.0,Production,25,3.0,4.0,Female,2,2,4,H,Y,H,Machinists,5363.0,9.0,No,12.0,2.0,L,10.0,Y,3.0,9.0,7.0,0.0,0.0,82
+59365,42.0,Research and Development,10,3.0,2.0,Male,3,5,2,H,Y,L,Manager,18430.0,3.0,No,13.0,2.0,L,24.0,Y,2.0,24.0,7.0,14.0,9.0,61
+59522,29.0,Sales,7,1.0,2.0,Female,3,3,2,H,N,H,Sales Executive,7918.0,1.0,No,14.0,4.0,H,11.0,Y,3.0,11.0,10.0,4.0,1.0,66
+59615,59.0,Human Resources,21,4.0,3.0,Female,2,5,2,L,N,H,Manager,18844.0,9.0,No,21.0,4.0,L,30.0,Y,3.0,3.0,2.0,2.0,2.0,40
+59688,47.0,Finance,19,4.0,1.0,Male,3,3,1,L,N,H,Accountant,9335.0,6.0,No,17.0,2.0,H,10.0,N,1.0,7.0,2.0,3.0,6.0,35
+59695,38.0,Sales,10,2.0,1.0,Female,3,2,2,L,Y,L,Sales Executive,5343.0,5.0,No,11.0,3.0,L,10.0,Y,3.0,10.0,7.0,1.0,9.0,61
+59733,40.0,Research and Development,24,3.0,3.0,Female,3,2,2,L,N,H,Customercare Representative,6513.0,2.0,No,17.0,4.0,H,12.0,Y,3.0,5.0,3.0,0.0,3.0,60
+59919,30.0,Sales,12,3.0,2.0,Female,3,2,1,L,N,L,Sales Executive,6577.0,0.0,No,11.0,2.0,L,6.0,N,3.0,5.0,4.0,4.0,4.0,39
+60158,33.0,Sales,17,3.0,3.0,Female,4,2,2,H,Y,H,Sales Executive,5376.0,2.0,No,19.0,1.0,L,10.0,Y,3.0,5.0,3.0,1.0,3.0,60
+60191,34.0,Production,6,3.0,2.0,Male,3,1,1,L,N,L,Machinists,2008.0,5.0,No,14.0,2.0,L,1.0,N,3.0,1.0,0.0,1.0,0.0,47
+60245,19.0,Sales,22,1.0,3.0,Female,1,1,1,L,N,L,Sales Representative,2325.0,0.0,No,21.0,1.0,L,1.0,N,4.0,0.0,0.0,0.0,0.0,40
+60352,38.0,Finance,19,3.0,2.0,Female,3,3,2,L,Y,H,Accountant,8285.0,5.0,No,17.0,2.0,H,8.0,N,1.0,3.0,3.0,3.0,6.0,62
+60375,33.0,IT Support,13,4.0,1.0,Male,3,3,4,L,N,H,IT specialists,8542.0,1.0,Yes,17.0,1.0,L,7.0,N,3.0,9.0,5.0,1.0,7.0,39
+60572,25.0,Finance,18,4.0,1.0,Male,3,2,2,L,Y,H,Accountant,8208.0,5.0,No,16.0,2.0,L,7.0,Y,3.0,8.0,4.0,1.0,7.0,83
+60624,31.0,Production,7,3.0,1.0,Female,3,1,1,L,N,L,Production Supervisors,5838.0,9.0,No,20.0,3.0,H,9.0,N,3.0,5.0,6.0,2.0,2.0,37
+60889,20.0,Sales,25,1.0,4.0,Male,3,1,1,L,N,L,Sales Representative,2728.0,4.0,No,11.0,1.0,L,2.0,N,3.0,2.0,2.0,0.0,2.0,38
+60937,35.0,Research and Development,18,4.0,4.0,Female,3,2,1,H,N,H,Customercare Representative,5093.0,2.0,No,11.0,1.0,L,16.0,Y,4.0,1.0,0.0,0.0,0.0,51
+61018,41.0,Research and Development,5,2.0,4.0,Female,3,2,2,L,Y,H,Manufacturing Director,5003.0,9.0,No,14.0,2.0,L,8.0,Y,3.0,2.0,2.0,2.0,1.0,57
+61083,21.0,Production,24,3.0,3.0,Female,2,1,2,L,N,L,Machinists,1416.0,7.0,No,13.0,1.0,L,1.0,N,2.0,1.0,0.0,1.0,0.0,30
+61103,33.0,Research and Development,8,4.0,3.0,Male,2,1,2,L,Y,H,Research and Design Specialists,2799.0,3.0,Yes,11.0,2.0,L,6.0,Y,3.0,3.0,2.0,0.0,2.0,59
+61175,41.0,Sales,6,4.0,4.0,Male,3,4,1,L,N,H,Manager,16015.0,1.0,No,19.0,2.0,L,22.0,N,3.0,22.0,10.0,0.0,4.0,47
+61193,33.0,Sales,21,3.0,2.0,Female,2,2,4,L,Y,H,Customercare Representative,6949.0,4.0,No,14.0,1.0,L,6.0,Y,3.0,5.0,0.0,1.0,4.0,64
+61335,36.0,Research and Development,8,3.0,3.0,Male,3,2,2,L,N,L,Research and Design Specialists,4485.0,4.0,No,12.0,4.0,L,10.0,N,3.0,8.0,0.0,7.0,7.0,30
+61360,36.0,Human Resources,20,3.0,1.0,Male,2,1,4,L,Y,H,Human Resources,2342.0,8.0,No,21.0,3.0,L,6.0,Y,3.0,5.0,4.0,0.0,3.0,64
+61361,50.0,Finance,24,3.0,1.0,Female,2,3,1,L,Y,H,Accountant,8389.0,4.0,Yes,18.0,1.0,H,9.0,N,2.0,8.0,3.0,3.0,2.0,53
+61412,36.0,Production,18,4.0,1.0,Male,2,2,2,L,Y,H,Machinists,5810.0,6.0,No,16.0,3.0,H,10.0,Y,2.0,10.0,4.0,1.0,8.0,54
+61450,54.0,Research and Development,24,4.0,2.0,Female,4,3,1,L,N,H,IT specialists,10773.0,9.0,No,20.0,2.0,L,5.0,N,1.0,3.0,3.0,2.0,2.0,27
+61474,42.0,Production,18,2.0,2.0,Male,3,1,4,H,N,H,Machinists,2093.0,4.0,No,17.0,4.0,H,8.0,Y,3.0,2.0,2.0,2.0,0.0,69
+61577,53.0,Research and Development,15,2.0,4.0,Female,4,2,2,L,Y,L,Manufacturing Director,4450.0,1.0,No,11.0,3.0,L,5.0,N,3.0,4.0,2.0,1.0,3.0,48
+61663,53.0,Sales,18,2.0,1.0,Female,2,3,2,H,Y,H,Sales Executive,10934.0,9.0,Yes,18.0,4.0,L,35.0,Y,3.0,5.0,2.0,0.0,4.0,54
+61710,40.0,Finance,3,4.0,2.0,Female,3,2,2,L,N,H,Accountant,8756.0,2.0,Yes,16.0,1.0,H,10.0,N,3.0,4.0,3.0,3.0,6.0,33
+61755,47.0,Sales,11,2.0,2.0,Female,4,2,1,L,N,L,Sales Executive,6397.0,8.0,Yes,12.0,4.0,L,8.0,N,3.0,5.0,4.0,1.0,3.0,26
+62107,39.0,Research and Development,13,3.0,4.0,Male,3,2,2,L,N,H,Manufacturing Director,5295.0,6.0,No,21.0,3.0,L,7.0,Y,3.0,5.0,4.0,1.0,0.0,62
+62147,52.0,Finance,18,4.0,1.0,Male,2,3,2,L,N,L,Accountant,8098.0,1.0,No,16.0,1.0,H,8.0,Y,3.0,5.0,5.0,1.0,5.0,36
+62197,36.0,Research and Development,1,3.0,3.0,Female,3,3,2,L,N,H,Customercare Representative,10096.0,1.0,No,13.0,2.0,L,17.0,Y,3.0,17.0,14.0,12.0,8.0,45
+62212,30.0,Research and Development,5,3.0,3.0,Female,1,2,3,H,N,L,Manufacturing Director,6091.0,2.0,No,20.0,3.0,H,11.0,Y,3.0,5.0,4.0,0.0,2.0,76
+62302,55.0,Human Resources,6,4.0,3.0,Male,4,5,1,L,N,L,Manager,19636.0,1.0,Yes,18.0,1.0,L,35.0,N,3.0,10.0,9.0,1.0,4.0,47
+62502,41.0,Sales,4,3.0,2.0,Male,4,3,2,H,N,H,Sales Executive,8392.0,1.0,No,16.0,3.0,H,10.0,Y,3.0,10.0,7.0,0.0,7.0,68
+62662,39.0,Production,22,3.0,1.0,Female,2,1,1,L,Y,L,Machinists,3646.0,1.0,Yes,23.0,2.0,L,11.0,N,4.0,1.0,0.0,0.0,0.0,40
+62674,51.0,IT Support,20,3.0,1.0,Male,2,2,2,L,Y,H,IT specialists,9897.0,2.0,Yes,15.0,1.0,L,7.0,Y,3.0,5.0,7.0,3.0,4.0,62
+62680,51.0,Sales,16,4.0,3.0,Male,3,2,1,L,Y,L,Sales Executive,5441.0,0.0,Yes,22.0,4.0,L,11.0,N,1.0,10.0,7.0,1.0,0.0,50
+62683,27.0,Sales,13,1.0,2.0,Female,2,2,2,L,N,L,Sales Representative,3540.0,9.0,No,21.0,4.0,H,9.0,N,3.0,9.0,8.0,5.0,8.0,45
+62688,33.0,Sales,23,3.0,4.0,Female,3,2,1,H,Y,H,Sales Executive,4302.0,5.0,No,17.0,3.0,L,4.0,Y,3.0,3.0,2.0,0.0,2.0,58
+62740,28.0,Finance,20,4.0,2.0,Male,2,2,1,L,N,H,Accountant,9158.0,3.0,No,17.0,1.0,H,9.0,Y,2.0,6.0,7.0,1.0,3.0,25
+62916,37.0,Research and Development,25,4.0,1.0,Female,3,3,1,H,N,H,Research Director,13603.0,2.0,Yes,18.0,1.0,L,15.0,Y,3.0,5.0,2.0,0.0,2.0,55
+62951,37.0,Research and Development,17,5.0,2.0,Female,3,2,1,L,N,L,Research and Design Specialists,4449.0,3.0,Yes,15.0,1.0,L,15.0,N,3.0,13.0,11.0,10.0,7.0,31
+62976,44.0,Sales,8,3.0,4.0,Female,4,4,2,H,Y,H,Sales Executive,13320.0,2.0,Yes,18.0,3.0,L,23.0,Y,3.0,12.0,11.0,11.0,11.0,53
+63035,30.0,Production,10,1.0,2.0,Male,2,1,2,L,Y,L,Machinists,2720.0,0.0,No,13.0,4.0,L,6.0,N,3.0,5.0,3.0,1.0,2.0,44
+63224,51.0,IT Support,23,4.0,1.0,Male,2,3,1,H,N,H,IT specialists,8508.0,4.0,No,15.0,2.0,H,7.0,N,1.0,3.0,2.0,1.0,2.0,46
+63354,31.0,Sales,7,4.0,1.0,Male,3,3,2,L,N,H,Sales Executive,8161.0,5.0,No,13.0,1.0,L,10.0,Y,3.0,1.0,0.0,0.0,0.0,57
+63361,41.0,Research and Development,19,2.0,3.0,Male,3,2,2,H,N,H,Research and Design Specialists,3072.0,2.0,No,16.0,1.0,L,17.0,Y,2.0,1.0,0.0,0.0,0.0,57
+63366,51.0,Research and Development,3,4.0,1.0,Female,2,3,4,L,Y,H,Customercare Representative,7484.0,3.0,No,20.0,3.0,L,23.0,Y,2.0,13.0,12.0,12.0,8.0,43
+63568,30.0,Production,25,3.0,2.0,Male,3,3,3,L,N,L,Production Supervisors,5964.0,9.0,Yes,18.0,2.0,H,5.0,N,3.0,7.0,3.0,2.0,6.0,34
+63660,34.0,Sales,24,3.0,4.0,Male,2,3,2,L,Y,H,Sales Executive,7083.0,6.0,Yes,14.0,4.0,H,10.0,Y,3.0,10.0,9.0,8.0,6.0,73
+63714,25.0,Finance,8,3.0,1.0,Male,2,3,1,L,Y,H,Accountant,9830.0,7.0,Yes,16.0,4.0,L,9.0,N,2.0,8.0,4.0,2.0,5.0,58
+63901,27.0,Research and Development,7,1.0,3.0,Male,2,3,2,L,N,H,Research Director,12808.0,8.0,Yes,16.0,2.0,L,9.0,N,3.0,9.0,8.0,0.0,8.0,42
+63986,31.0,Finance,5,3.0,2.0,Female,3,3,1,H,Y,H,Accountant,8285.0,6.0,No,18.0,2.0,H,7.0,Y,1.0,4.0,2.0,1.0,4.0,62
+64023,36.0,Production,22,4.0,3.0,Male,4,1,1,L,Y,L,Machinists,3688.0,4.0,No,18.0,4.0,L,4.0,N,3.0,1.0,0.0,0.0,0.0,35
+64069,49.0,IT Support,19,3.0,2.0,Male,3,4,2,L,N,L,IT specialists,5931.0,2.0,No,19.0,2.0,H,5.0,N,2.0,2.0,7.0,3.0,7.0,38
+64076,23.0,Research and Development,4,1.0,1.0,Male,4,1,2,H,N,H,Research and Design Specialists,3505.0,4.0,No,18.0,4.0,L,2.0,Y,3.0,2.0,2.0,0.0,2.0,66
+64122,42.0,Production,22,4.0,1.0,Male,4,2,3,L,N,H,Production Supervisors,7413.0,2.0,No,15.0,2.0,L,8.0,N,3.0,2.0,2.0,1.0,4.0,34
+64265,30.0,Sales,1,3.0,4.0,Female,2,2,2,H,N,H,Sales Executive,6118.0,1.0,No,13.0,3.0,L,10.0,Y,3.0,10.0,9.0,1.0,2.0,54
+64266,31.0,IT Support,5,3.0,2.0,Female,4,3,3,H,Y,H,Production Supervisors,6058.0,6.0,Yes,19.0,1.0,H,10.0,N,1.0,7.0,5.0,3.0,3.0,61
+64281,22.0,Production,1,1.0,3.0,Female,3,1,2,L,N,H,Machinists,2398.0,1.0,Yes,17.0,3.0,H,1.0,Y,3.0,1.0,0.0,0.0,0.0,68
+64375,47.0,Research and Development,18,3.0,1.0,Male,3,1,2,L,N,L,Research and Design Specialists,3420.0,7.0,No,12.0,3.0,H,17.0,Y,2.0,6.0,5.0,1.0,2.0,50
+64486,18.0,Production,4,3.0,3.0,Male,3,1,2,L,N,L,Machinists,1420.0,1.0,No,13.0,3.0,L,0.0,N,3.0,0.0,0.0,0.0,0.0,42
+64644,34.0,Sales,3,3.0,3.0,Female,3,2,4,L,N,H,Sales Executive,4538.0,4.0,Yes,12.0,4.0,L,4.0,Y,3.0,3.0,2.0,0.0,2.0,67
+64652,26.0,Sales,7,2.0,1.0,Male,3,2,2,L,N,L,Sales Executive,4306.0,5.0,No,12.0,1.0,L,8.0,N,3.0,0.0,0.0,0.0,0.0,44
+64703,24.0,Production,21,3.0,1.0,Female,3,1,1,L,N,L,Machinists,2886.0,8.0,Yes,16.0,4.0,L,6.0,N,3.0,6.0,3.0,1.0,2.0,34
+64742,39.0,Production,10,3.0,3.0,Male,3,2,2,L,N,H,Machinists,6782.0,7.0,No,15.0,3.0,L,9.0,N,2.0,5.0,4.0,0.0,3.0,49
+64809,58.0,Research and Development,5,4.0,4.0,Male,1,2,2,H,N,H,Customercare Representative,5660.0,2.0,Yes,13.0,4.0,H,12.0,Y,3.0,5.0,3.0,1.0,2.0,91
+64845,37.0,Research and Development,12,3.0,4.0,Female,3,2,2,H,Y,H,Customercare Representative,4107.0,9.0,No,15.0,1.0,L,8.0,Y,2.0,4.0,3.0,0.0,1.0,61
+64986,27.0,Finance,23,3.0,1.0,Female,2,3,2,L,Y,H,Accountant,9847.0,1.0,Yes,18.0,3.0,H,9.0,Y,1.0,8.0,4.0,3.0,3.0,67
+64996,36.0,Production,7,4.0,3.0,Male,3,1,2,L,N,L,Machinists,2519.0,6.0,No,21.0,3.0,L,16.0,N,3.0,11.0,8.0,3.0,9.0,43
+65115,52.0,IT Support,1,3.0,1.0,Male,4,4,3,L,N,H,IT specialists,8109.0,7.0,No,19.0,4.0,H,8.0,N,2.0,3.0,3.0,3.0,7.0,36
+65121,53.0,Sales,1,3.0,1.0,Male,3,4,2,L,Y,H,Sales Executive,11836.0,4.0,No,14.0,3.0,L,28.0,Y,3.0,2.0,0.0,2.0,2.0,61
+65210,38.0,Research and Development,17,4.0,3.0,Male,3,1,1,H,Y,H,Research and Design Specialists,2821.0,5.0,No,16.0,1.0,L,8.0,Y,3.0,2.0,2.0,2.0,2.0,51
+65221,56.0,Research and Development,24,3.0,3.0,Female,3,1,4,H,N,L,Research and Design Specialists,4257.0,4.0,Yes,18.0,3.0,H,19.0,Y,3.0,2.0,2.0,2.0,2.0,65
+65237,21.0,Sales,8,1.0,3.0,Male,3,1,2,L,Y,H,Sales Representative,2380.0,4.0,Yes,11.0,4.0,L,2.0,Y,3.0,2.0,2.0,1.0,2.0,53
+65248,41.0,Production,15,4.0,3.0,Male,3,1,1,H,N,H,Machinists,2238.0,2.0,No,21.0,4.0,L,7.0,Y,3.0,5.0,0.0,1.0,4.0,51
+65300,36.0,Research and Development,19,4.0,2.0,Female,3,3,2,L,N,H,Customercare Representative,8008.0,1.0,No,12.0,3.0,L,9.0,N,3.0,3.0,2.0,0.0,2.0,48
+65389,39.0,Sales,6,5.0,1.0,Male,4,3,2,L,Y,H,Sales Executive,7880.0,7.0,No,18.0,4.0,H,9.0,Y,3.0,8.0,7.0,0.0,7.0,72
+65412,38.0,Sales,16,4.0,4.0,Male,3,2,2,L,Y,L,Sales Executive,4440.0,8.0,No,15.0,1.0,L,16.0,Y,3.0,15.0,13.0,5.0,8.0,54
+65450,25.0,Sales,10,1.0,2.0,Male,3,1,2,L,N,L,Sales Representative,2096.0,5.0,No,11.0,3.0,L,7.0,N,3.0,7.0,4.0,0.0,6.0,36
+65459,30.0,Research and Development,9,3.0,3.0,Female,2,2,2,H,Y,H,Manufacturing Director,6877.0,1.0,Yes,24.0,2.0,L,12.0,Y,2.0,0.0,0.0,0.0,0.0,61
+65465,42.0,Finance,18,4.0,1.0,Male,2,2,2,L,N,L,Accountant,9450.0,4.0,Yes,20.0,4.0,H,5.0,Y,2.0,2.0,5.0,1.0,3.0,33
+65558,31.0,Human Resources,9,5.0,4.0,Male,4,1,1,L,Y,H,Human Resources,2956.0,3.0,No,17.0,3.0,H,2.0,Y,3.0,1.0,0.0,0.0,0.0,55
+65623,40.0,Production,23,4.0,2.0,Male,3,1,2,L,Y,H,Machinists,2387.0,5.0,No,22.0,3.0,L,7.0,Y,3.0,4.0,2.0,0.0,3.0,68
+65630,38.0,Finance,11,3.0,2.0,Male,3,3,2,L,N,H,Accountant,8891.0,4.0,Yes,16.0,2.0,H,7.0,N,3.0,6.0,5.0,2.0,3.0,35
+65651,29.0,Finance,16,4.0,1.0,Male,2,2,2,L,N,H,Accountant,8525.0,3.0,No,17.0,2.0,H,10.0,Y,3.0,3.0,6.0,3.0,7.0,25
+65694,27.0,Finance,16,3.0,2.0,Male,2,3,2,L,N,H,Accountant,8254.0,6.0,Yes,18.0,3.0,H,8.0,N,3.0,7.0,2.0,3.0,3.0,37
+65816,45.0,Production,14,4.0,1.0,Male,2,5,4,L,N,H,Production Supervisors,6842.0,5.0,Yes,18.0,1.0,H,6.0,Y,2.0,4.0,4.0,2.0,6.0,39
+65909,29.0,Research and Development,24,2.0,3.0,Male,4,1,2,L,N,L,Research and Design Specialists,2700.0,5.0,No,24.0,3.0,L,10.0,N,3.0,10.0,7.0,0.0,7.0,43
+65943,40.0,Research and Development,15,2.0,2.0,Female,3,2,1,L,N,H,Manufacturing Director,6516.0,5.0,Yes,16.0,2.0,L,18.0,Y,3.0,1.0,0.0,0.0,0.0,58
+66010,49.0,Research and Development,8,4.0,3.0,Female,3,5,1,H,Y,H,Research Director,18665.0,9.0,Yes,11.0,4.0,L,22.0,Y,3.0,3.0,2.0,1.0,2.0,56
+66082,37.0,Research and Development,4,3.0,2.0,Male,3,3,4,H,Y,H,Research Director,12185.0,1.0,Yes,14.0,3.0,H,10.0,Y,3.0,10.0,8.0,0.0,7.0,69
+66123,41.0,Sales,5,2.0,2.0,Female,3,2,1,L,N,L,Sales Executive,5993.0,8.0,Yes,11.0,1.0,L,8.0,N,1.0,6.0,4.0,0.0,5.0,29
+66174,19.0,Sales,4,3.0,4.0,Male,2,1,1,H,N,L,Sales Representative,2121.0,5.0,Yes,13.0,2.0,L,1.0,N,4.0,1.0,0.0,0.0,0.0,39
+66226,50.0,Finance,9,3.0,2.0,Male,2,2,2,L,Y,H,Accountant,8126.0,5.0,No,20.0,1.0,H,7.0,Y,2.0,9.0,7.0,1.0,3.0,72
+66391,32.0,Research and Development,18,2.0,1.0,Female,4,1,2,L,N,L,Research and Design Specialists,2432.0,8.0,Yes,14.0,1.0,L,8.0,Y,3.0,4.0,1.0,0.0,3.0,50
+66566,37.0,Research and Development,2,4.0,2.0,Female,3,2,4,H,N,H,Manufacturing Director,6447.0,2.0,No,12.0,2.0,H,8.0,Y,2.0,6.0,5.0,4.0,3.0,64
+66601,26.0,Research and Development,9,3.0,1.0,Female,3,1,2,H,N,H,Research and Design Specialists,2061.0,1.0,No,21.0,1.0,H,1.0,Y,3.0,1.0,0.0,0.0,0.0,61
+66776,44.0,Finance,17,3.0,2.0,Male,3,3,2,L,Y,L,Accountant,9012.0,8.0,Yes,18.0,4.0,L,7.0,N,3.0,6.0,6.0,3.0,7.0,60
+66787,45.0,Production,14,4.0,4.0,Female,3,1,2,H,Y,H,Machinists,2270.0,5.0,No,14.0,4.0,L,8.0,Y,3.0,5.0,3.0,0.0,2.0,68
+66799,43.0,Finance,19,4.0,1.0,Male,2,3,2,L,Y,L,Accountant,9368.0,5.0,Yes,16.0,4.0,L,6.0,Y,3.0,7.0,4.0,3.0,2.0,83
+66863,46.0,Sales,19,4.0,1.0,Male,3,2,2,H,N,H,Sales Executive,5772.0,4.0,Yes,21.0,3.0,H,14.0,Y,3.0,9.0,6.0,0.0,8.0,64
+66964,35.0,Research and Development,11,3.0,2.0,Female,4,3,1,H,N,H,Manager,11996.0,7.0,No,18.0,2.0,L,10.0,Y,2.0,7.0,7.0,6.0,2.0,56
+67083,33.0,Research and Development,20,3.0,1.0,Male,2,1,1,L,N,L,Research and Design Specialists,2313.0,1.0,Yes,20.0,2.0,L,5.0,N,3.0,2.0,2.0,2.0,2.0,31
+67091,35.0,Production,22,4.0,4.0,Male,2,1,2,H,Y,H,Machinists,2258.0,3.0,No,12.0,2.0,L,10.0,Y,3.0,8.0,0.0,1.0,7.0,66
+67233,28.0,Finance,2,3.0,1.0,Female,3,3,2,L,Y,H,Accountant,9156.0,3.0,Yes,19.0,4.0,L,8.0,Y,3.0,5.0,7.0,1.0,6.0,64
+67269,18.0,Production,19,3.0,4.0,Female,3,1,4,L,N,H,Machinists,1611.0,6.0,No,15.0,3.0,L,0.0,Y,4.0,0.0,0.0,0.0,0.0,65
+67317,22.0,Research and Development,12,2.0,4.0,Male,2,2,2,H,Y,H,Manufacturing Director,4775.0,3.0,No,22.0,1.0,H,4.0,Y,1.0,2.0,2.0,2.0,2.0,72
+67357,28.0,Sales,23,3.0,3.0,Male,2,2,1,H,Y,L,Sales Executive,4724.0,5.0,No,11.0,3.0,L,5.0,N,3.0,5.0,3.0,0.0,4.0,38
+67366,34.0,Research and Development,14,3.0,4.0,Female,2,3,4,H,N,H,Customercare Representative,8621.0,8.0,No,14.0,2.0,L,9.0,Y,4.0,8.0,7.0,7.0,7.0,63
+67379,43.0,Finance,5,3.0,1.0,Male,3,3,1,L,N,H,Accountant,8164.0,8.0,Yes,18.0,3.0,H,7.0,Y,3.0,8.0,2.0,2.0,3.0,32
+67403,31.0,Production,2,3.0,1.0,Female,4,2,3,L,N,H,Production Supervisors,6097.0,2.0,Yes,19.0,4.0,L,10.0,Y,2.0,8.0,4.0,3.0,5.0,33
+67417,26.0,Production,22,2.0,1.0,Male,2,1,2,L,Y,H,Machinists,3955.0,2.0,No,16.0,1.0,L,6.0,Y,3.0,5.0,3.0,1.0,3.0,61
+67448,39.0,Research and Development,18,1.0,2.0,Male,3,5,2,H,N,H,Manager,19197.0,1.0,Yes,14.0,3.0,H,21.0,Y,3.0,21.0,8.0,1.0,6.0,66
+67480,44.0,Finance,3,4.0,2.0,Male,3,3,2,L,N,H,Accountant,8944.0,4.0,No,19.0,4.0,L,5.0,Y,3.0,10.0,6.0,1.0,2.0,44
+67608,50.0,Sales,2,2.0,2.0,Male,3,2,2,L,N,H,Sales Executive,6796.0,7.0,Yes,14.0,1.0,L,18.0,N,3.0,4.0,3.0,1.0,3.0,42
+67658,43.0,Production,24,3.0,4.0,Male,4,1,2,L,Y,L,Machinists,4876.0,3.0,No,12.0,3.0,H,8.0,N,3.0,6.0,4.0,0.0,2.0,49
+67672,22.0,Research and Development,12,4.0,3.0,Male,2,1,2,H,N,H,Research and Design Specialists,2853.0,1.0,Yes,11.0,2.0,L,1.0,Y,3.0,0.0,0.0,0.0,0.0,54
+67681,46.0,Research and Development,11,4.0,3.0,Male,3,2,1,L,Y,L,Customercare Representative,5562.0,5.0,No,14.0,4.0,L,19.0,N,3.0,10.0,7.0,0.0,9.0,47
+67985,30.0,IT Support,7,2.0,2.0,Male,2,2,3,L,N,H,Sales Executive,7413.0,7.0,No,20.0,3.0,L,10.0,Y,2.0,8.0,3.0,2.0,6.0,80
+68267,40.0,Finance,15,3.0,2.0,Male,2,2,2,H,Y,H,Accountant,8599.0,7.0,Yes,20.0,2.0,H,5.0,Y,2.0,9.0,2.0,2.0,7.0,79
+68305,54.0,Finance,12,4.0,2.0,Male,2,2,3,L,N,H,Accountant,8858.0,3.0,Yes,20.0,3.0,L,6.0,N,1.0,10.0,2.0,1.0,3.0,36
+68494,35.0,Research and Development,8,2.0,2.0,Male,2,2,1,H,N,H,Manufacturing Director,5916.0,3.0,Yes,13.0,1.0,L,8.0,Y,3.0,1.0,0.0,0.0,1.0,55
+68576,37.0,Human Resources,21,4.0,3.0,Male,3,1,2,L,Y,L,Human Resources,2073.0,4.0,Yes,22.0,4.0,L,7.0,Y,3.0,3.0,2.0,0.0,2.0,33
+68619,33.0,Production,10,3.0,3.0,Male,3,1,2,L,Y,L,Machinists,2436.0,5.0,Yes,13.0,3.0,L,8.0,N,1.0,5.0,4.0,0.0,4.0,30
+68788,22.0,Research and Development,15,1.0,4.0,Male,3,1,2,L,Y,H,Research and Design Specialists,2472.0,8.0,Yes,23.0,1.0,H,1.0,Y,3.0,1.0,0.0,0.0,0.0,54
+68808,32.0,Production,10,4.0,3.0,Female,2,1,2,L,Y,H,Machinists,2837.0,5.0,No,13.0,3.0,L,6.0,Y,3.0,6.0,2.0,4.0,1.0,59
+68879,52.0,Production,8,3.0,1.0,Male,4,5,1,L,N,H,IT specialists,6794.0,5.0,No,17.0,3.0,H,7.0,N,2.0,3.0,6.0,2.0,6.0,41
+68882,28.0,Production,23,2.0,1.0,Male,3,1,2,H,N,L,Machinists,2207.0,2.0,No,16.0,4.0,L,4.0,N,2.0,4.0,2.0,2.0,2.0,36
+68896,38.0,Research and Development,17,1.0,2.0,Male,3,2,1,L,N,H,Customercare Representative,6673.0,7.0,Yes,19.0,2.0,L,17.0,N,3.0,1.0,0.0,0.0,0.0,18
+68929,44.0,Research and Development,3,3.0,4.0,Male,3,2,4,H,Y,H,Customercare Representative,5933.0,3.0,No,12.0,4.0,L,10.0,Y,2.0,5.0,2.0,2.0,3.0,64
+68967,36.0,Research and Development,14,4.0,2.0,Male,3,1,2,L,N,L,Research and Design Specialists,4678.0,1.0,No,18.0,3.0,L,8.0,N,3.0,6.0,2.0,0.0,1.0,46
+69056,46.0,Production,20,2.0,4.0,Male,3,3,2,H,Y,H,Manufacturing Director,10845.0,2.0,No,13.0,2.0,L,13.0,Y,3.0,8.0,7.0,0.0,7.0,70
+69077,26.0,Research and Development,21,1.0,3.0,Male,3,1,2,L,N,L,Research and Design Specialists,3102.0,0.0,No,22.0,3.0,L,7.0,N,3.0,6.0,4.0,0.0,4.0,45
+69082,40.0,Production,14,4.0,4.0,Female,4,1,1,L,N,L,Machinists,2213.0,3.0,Yes,13.0,3.0,L,10.0,N,3.0,7.0,7.0,1.0,7.0,47
+69085,52.0,Research and Development,24,3.0,2.0,Male,2,2,3,H,Y,H,IT specialists,5004.0,6.0,No,16.0,3.0,L,10.0,Y,2.0,3.0,2.0,2.0,2.0,52
+69109,30.0,Finance,9,3.0,2.0,Male,3,2,1,L,N,L,Accountant,9124.0,4.0,Yes,16.0,1.0,L,10.0,Y,1.0,7.0,7.0,3.0,7.0,49
+69215,51.0,Sales,11,2.0,3.0,Female,3,2,2,H,N,H,Sales Executive,4936.0,4.0,No,11.0,3.0,L,18.0,Y,2.0,7.0,7.0,0.0,7.0,60
+69381,27.0,Research and Development,18,3.0,2.0,Female,4,1,3,L,Y,H,Research and Design Specialists,3517.0,2.0,No,17.0,1.0,L,5.0,Y,3.0,3.0,2.0,0.0,2.0,71
+69413,28.0,Sales,2,3.0,3.0,Male,3,2,1,L,Y,H,Sales Executive,4898.0,9.0,No,14.0,4.0,H,5.0,Y,3.0,4.0,2.0,1.0,3.0,55
+69587,49.0,Finance,23,4.0,2.0,Female,3,3,1,L,Y,H,Accountant,8974.0,1.0,No,18.0,3.0,L,5.0,N,1.0,6.0,2.0,1.0,6.0,61
+69671,42.0,Production,17,3.0,4.0,Female,2,1,4,H,N,H,Machinists,2593.0,0.0,Yes,11.0,3.0,H,10.0,Y,3.0,9.0,6.0,7.0,8.0,63
+69859,35.0,Production,3,3.0,4.0,Male,1,1,1,H,N,H,Machinists,4230.0,0.0,No,15.0,3.0,L,6.0,Y,3.0,5.0,4.0,4.0,3.0,55
+69996,46.0,Sales,13,3.0,3.0,Female,1,4,1,H,Y,H,Manager,16872.0,3.0,Yes,12.0,2.0,L,28.0,Y,2.0,7.0,7.0,7.0,7.0,56
+70129,29.0,Research and Development,3,3.0,3.0,Male,3,1,4,H,Y,H,Research and Design Specialists,2703.0,0.0,No,23.0,4.0,L,6.0,Y,3.0,5.0,4.0,0.0,4.0,52
+70168,38.0,Production,20,3.0,1.0,Male,3,2,1,L,N,H,Production Supervisors,6693.0,9.0,No,18.0,4.0,L,10.0,Y,2.0,10.0,4.0,2.0,6.0,40
+70360,39.0,Production,2,2.0,3.0,Male,2,2,2,L,Y,L,Machinists,3069.0,7.0,No,15.0,4.0,L,11.0,Y,3.0,10.0,8.0,0.0,7.0,50
+70408,27.0,Research and Development,5,2.0,4.0,Male,3,3,2,H,N,H,Manufacturing Director,8793.0,6.0,No,21.0,3.0,L,9.0,Y,2.0,9.0,7.0,1.0,7.0,62
+70556,25.0,Research and Development,9,3.0,4.0,Female,3,1,2,L,N,L,Research and Design Specialists,2096.0,4.0,No,18.0,4.0,H,2.0,N,2.0,2.0,2.0,2.0,1.0,42
+70638,48.0,Research and Development,17,4.0,4.0,Male,3,1,2,H,N,L,Research and Design Specialists,2259.0,4.0,No,17.0,1.0,L,13.0,N,2.0,0.0,0.0,0.0,0.0,45
+70644,45.0,Production,8,3.0,2.0,Male,4,2,2,L,N,L,Production Supervisors,5984.0,6.0,Yes,19.0,1.0,H,10.0,N,1.0,7.0,5.0,3.0,3.0,31
+70695,48.0,Research and Development,20,3.0,4.0,Male,3,3,4,L,N,H,Manufacturing Director,7898.0,9.0,No,11.0,3.0,L,11.0,Y,3.0,10.0,9.0,0.0,8.0,63
+70734,30.0,Production,6,3.0,3.0,Male,3,2,1,H,Y,H,Machinists,3072.0,1.0,No,11.0,3.0,L,12.0,Y,3.0,12.0,9.0,6.0,10.0,58
+70890,30.0,Sales,17,3.0,2.0,Male,3,1,2,L,N,L,Sales Manager,1081.0,4.0,No,13.0,3.0,H,1.0,N,2.0,1.0,0.0,0.0,0.0,44
+71007,32.0,Sales,22,3.0,3.0,Male,4,2,4,L,N,H,Sales Executive,6209.0,7.0,No,15.0,3.0,L,10.0,Y,4.0,10.0,7.0,0.0,8.0,69
+71131,26.0,IT Support,11,3.0,1.0,Female,3,3,2,L,Y,H,IT specialists,9715.0,9.0,No,17.0,3.0,H,5.0,Y,2.0,10.0,7.0,3.0,3.0,77
+71236,41.0,Production,13,3.0,4.0,Male,3,1,1,H,Y,H,Machinists,4721.0,6.0,Yes,13.0,3.0,L,20.0,Y,3.0,18.0,13.0,2.0,17.0,55
+71271,29.0,Production,11,4.0,4.0,Female,3,1,1,L,Y,L,Machinists,2974.0,1.0,No,17.0,3.0,L,9.0,N,3.0,5.0,3.0,1.0,2.0,38
+71289,34.0,Research and Development,24,4.0,2.0,Female,4,1,2,H,N,H,Research and Design Specialists,3280.0,5.0,No,16.0,3.0,L,10.0,Y,3.0,4.0,2.0,1.0,3.0,60
+71343,39.0,Human Resources,24,3.0,4.0,Female,2,2,3,L,Y,H,Human Resources,5204.0,3.0,No,11.0,3.0,H,13.0,Y,3.0,5.0,4.0,0.0,4.0,83
+71459,53.0,IT Support,13,4.0,2.0,Male,3,3,1,L,Y,H,IT specialists,5782.0,7.0,No,17.0,3.0,H,5.0,Y,3.0,8.0,2.0,2.0,7.0,57
+71625,28.0,Sales,24,4.0,2.0,Male,3,2,4,H,N,H,Sales Executive,5253.0,1.0,No,16.0,4.0,H,7.0,Y,3.0,7.0,5.0,0.0,7.0,65
+71628,50.0,Sales,6,3.0,4.0,Female,3,2,2,H,Y,H,Sales Executive,6347.0,3.0,No,12.0,1.0,L,19.0,Y,3.0,18.0,7.0,0.0,13.0,57
+71692,33.0,Research and Development,14,2.0,4.0,Male,3,2,2,L,Y,H,Customercare Representative,5968.0,6.0,No,20.0,3.0,L,9.0,Y,3.0,9.0,7.0,2.0,8.0,53
+71833,43.0,Research and Development,23,3.0,3.0,Male,2,1,1,L,N,L,Research and Design Specialists,2437.0,4.0,Yes,16.0,4.0,L,6.0,N,3.0,1.0,0.0,0.0,0.0,21
+71886,29.0,Research and Development,9,4.0,2.0,Male,1,1,4,H,N,L,Research and Design Specialists,2720.0,9.0,No,18.0,4.0,L,10.0,Y,3.0,10.0,7.0,2.0,8.0,65
+71930,32.0,Production,13,3.0,4.0,Male,2,1,2,L,N,L,Machinists,3730.0,0.0,Yes,14.0,4.0,L,4.0,N,1.0,3.0,2.0,1.0,2.0,36
+71931,48.0,Production,15,3.0,2.0,Male,2,3,1,L,N,H,Production Supervisors,7652.0,4.0,No,16.0,1.0,H,5.0,N,1.0,10.0,3.0,2.0,5.0,28
+71969,55.0,Finance,12,4.0,1.0,Male,3,2,1,L,Y,H,Accountant,8413.0,7.0,No,16.0,4.0,L,6.0,N,2.0,10.0,2.0,2.0,4.0,81
+72037,31.0,Finance,25,3.0,2.0,Female,3,2,1,L,Y,H,Accountant,8333.0,1.0,Yes,19.0,1.0,H,9.0,N,1.0,2.0,5.0,1.0,7.0,51
+72065,36.0,Sales,4,4.0,2.0,Female,3,2,2,H,N,H,Sales Executive,6815.0,9.0,No,13.0,1.0,H,15.0,Y,3.0,1.0,0.0,0.0,0.0,52
+72095,53.0,Production,13,3.0,4.0,Male,3,2,2,H,N,L,Machinists,2450.0,9.0,No,17.0,4.0,L,19.0,Y,3.0,2.0,2.0,2.0,2.0,61
+72225,45.0,Research and Development,4,4.0,2.0,Male,3,2,2,L,Y,H,Customercare Representative,5399.0,5.0,No,12.0,3.0,L,12.0,Y,3.0,4.0,2.0,0.0,3.0,73
+72255,18.0,Sales,10,3.0,4.0,Female,2,1,2,L,N,L,Sales Representative,1200.0,1.0,No,12.0,1.0,L,0.0,N,3.0,0.0,0.0,0.0,0.0,45
+72407,21.0,Research and Development,9,1.0,4.0,Female,3,1,1,H,N,L,Research and Design Specialists,2693.0,9.0,No,19.0,1.0,L,1.0,N,2.0,1.0,0.0,0.0,0.0,31
+72481,26.0,Research and Development,5,3.0,1.0,Male,3,1,1,L,N,L,Research and Design Specialists,2042.0,9.0,Yes,14.0,2.0,L,6.0,N,3.0,3.0,2.0,1.0,2.0,39
+72591,55.0,Research and Development,22,2.0,4.0,Female,1,5,2,L,Y,H,Manager,19187.0,8.0,No,14.0,4.0,L,23.0,Y,3.0,19.0,9.0,9.0,11.0,68
+72636,31.0,Sales,19,2.0,4.0,Female,3,2,2,H,N,H,Sales Executive,6932.0,8.0,No,13.0,4.0,L,9.0,N,2.0,9.0,8.0,0.0,0.0,43
+72735,20.0,Sales,5,3.0,3.0,Male,4,1,2,L,Y,L,Customercare Representative,2678.0,8.0,No,17.0,4.0,H,2.0,N,3.0,2.0,1.0,2.0,2.0,41
+72856,35.0,Sales,19,4.0,3.0,Male,2,2,1,L,N,L,Sales Executive,4312.0,0.0,No,14.0,2.0,L,16.0,Y,3.0,15.0,13.0,2.0,8.0,32
+72878,32.0,IT Support,9,2.0,3.0,Male,2,2,3,L,N,L,Sales Executive,5964.0,8.0,Yes,15.0,2.0,H,9.0,Y,3.0,8.0,4.0,1.0,6.0,75
+72963,35.0,Sales,2,3.0,1.0,Female,3,2,3,H,N,H,Sales Executive,4859.0,1.0,No,16.0,4.0,H,5.0,Y,3.0,5.0,4.0,0.0,3.0,71
+73061,45.0,Research and Development,19,4.0,4.0,Male,3,3,1,L,N,H,Research Director,13245.0,4.0,Yes,14.0,2.0,L,17.0,Y,4.0,0.0,0.0,0.0,0.0,38
+73268,50.0,Finance,15,3.0,1.0,Male,3,3,1,H,Y,H,Accountant,9863.0,7.0,No,19.0,1.0,L,9.0,Y,1.0,2.0,4.0,1.0,5.0,83
+73296,38.0,Research and Development,14,3.0,2.0,Female,1,2,3,L,Y,L,Research and Design Specialists,5329.0,7.0,Yes,12.0,4.0,L,17.0,Y,3.0,13.0,11.0,1.0,9.0,33
+73402,37.0,Research and Development,2,3.0,2.0,Female,3,1,2,L,N,H,Research and Design Specialists,3936.0,5.0,No,11.0,1.0,L,8.0,Y,1.0,8.0,4.0,7.0,7.0,53
+73471,47.0,Sales,17,1.0,2.0,Male,3,2,4,H,N,H,Sales Representative,2976.0,3.0,No,19.0,1.0,H,5.0,Y,3.0,0.0,0.0,0.0,0.0,63
+73487,46.0,Production,4,3.0,2.0,Male,4,3,3,L,N,L,Production Supervisors,5100.0,2.0,Yes,20.0,2.0,H,5.0,Y,3.0,10.0,2.0,3.0,7.0,40
+73651,36.0,Research and Development,17,4.0,4.0,Female,3,2,3,L,Y,H,Research and Design Specialists,6962.0,1.0,Yes,22.0,4.0,H,15.0,Y,3.0,1.0,0.0,0.0,0.0,75
+73807,35.0,Production,14,3.0,2.0,Male,4,2,2,L,N,L,Machinists,3407.0,5.0,No,17.0,4.0,H,10.0,N,2.0,10.0,9.0,6.0,8.0,45
+73944,29.0,Sales,7,3.0,3.0,Male,3,1,1,L,N,L,Sales Representative,2642.0,6.0,No,11.0,3.0,L,1.0,N,3.0,1.0,0.0,0.0,0.0,29
+73983,40.0,Research and Development,6,3.0,1.0,Female,2,3,2,L,Y,H,Manufacturing Director,10435.0,5.0,No,13.0,4.0,L,18.0,Y,3.0,18.0,15.0,14.0,12.0,50
+74119,35.0,Research and Development,17,2.0,2.0,Male,3,2,2,L,Y,H,Manufacturing Director,5762.0,1.0,No,14.0,3.0,H,15.0,Y,3.0,7.0,7.0,1.0,7.0,68
+74165,51.0,Human Resources,18,3.0,3.0,Male,3,4,2,H,Y,H,Manager,14026.0,2.0,Yes,11.0,2.0,L,33.0,Y,3.0,33.0,9.0,0.0,10.0,59
+74296,37.0,Research and Development,12,2.0,3.0,Female,2,1,2,H,Y,H,Research and Design Specialists,3920.0,2.0,No,14.0,1.0,H,17.0,Y,2.0,3.0,1.0,0.0,2.0,73
+74374,34.0,Finance,11,3.0,1.0,Female,2,2,2,H,N,H,Accountant,8634.0,3.0,No,20.0,4.0,L,8.0,N,2.0,4.0,3.0,1.0,7.0,37
+74401,38.0,Finance,6,3.0,1.0,Male,2,2,1,L,Y,H,Accountant,9967.0,3.0,Yes,18.0,3.0,L,10.0,Y,2.0,5.0,4.0,1.0,5.0,67
+74430,18.0,Research and Development,23,2.0,2.0,Male,3,1,2,H,Y,H,Research and Design Specialists,1051.0,2.0,No,15.0,4.0,L,0.0,Y,3.0,0.0,0.0,0.0,0.0,57
+74636,55.0,Research and Development,7,3.0,3.0,Female,3,4,2,L,N,H,Manager,16659.0,2.0,Yes,13.0,3.0,L,30.0,Y,3.0,5.0,4.0,1.0,2.0,50
+74667,34.0,Finance,19,4.0,1.0,Male,2,3,1,L,Y,H,Accountant,9665.0,8.0,Yes,20.0,3.0,L,10.0,Y,2.0,8.0,3.0,2.0,6.0,70
+74684,47.0,Research and Development,18,2.0,3.0,Female,3,4,2,H,Y,H,Manager,16752.0,4.0,Yes,11.0,3.0,H,26.0,Y,2.0,26.0,14.0,3.0,0.0,78
+74749,42.0,Research and Development,23,3.0,2.0,Male,3,2,2,L,N,L,Manufacturing Director,4434.0,6.0,No,13.0,4.0,L,10.0,N,2.0,9.0,8.0,7.0,8.0,43
+74849,21.0,Sales,7,1.0,1.0,Female,2,1,1,L,N,L,Sales Manager,2174.0,1.0,Yes,11.0,3.0,L,3.0,N,3.0,3.0,2.0,1.0,2.0,35
+74965,28.0,Finance,21,4.0,1.0,Male,3,3,2,L,N,H,Accountant,9028.0,3.0,No,17.0,1.0,L,7.0,N,1.0,2.0,6.0,3.0,7.0,27
+74966,53.0,Production,1,3.0,1.0,Male,4,4,2,L,N,H,Production Supervisors,6432.0,4.0,No,16.0,2.0,L,8.0,N,1.0,5.0,7.0,3.0,4.0,33
+75069,50.0,Research and Development,10,4.0,2.0,Male,2,4,1,L,N,H,Manager,17046.0,0.0,No,15.0,2.0,L,28.0,N,3.0,27.0,10.0,15.0,7.0,34
+75383,41.0,Sales,13,2.0,4.0,Male,3,2,2,H,N,H,Sales Executive,6230.0,7.0,No,14.0,4.0,H,16.0,Y,3.0,14.0,3.0,1.0,10.0,66
+75402,29.0,Production,18,3.0,2.0,Female,3,2,1,L,N,L,Production Supervisors,5982.0,6.0,No,18.0,2.0,H,6.0,Y,3.0,8.0,4.0,2.0,5.0,35
+75588,54.0,Research and Development,25,4.0,4.0,Female,3,3,2,L,N,H,Manufacturing Director,10502.0,1.0,No,17.0,1.0,L,33.0,Y,1.0,5.0,4.0,1.0,4.0,66
+75619,24.0,Sales,12,4.0,4.0,Female,3,2,2,L,N,L,Sales Executive,4260.0,1.0,Yes,12.0,4.0,L,5.0,N,4.0,5.0,2.0,0.0,3.0,43
+75625,54.0,Finance,4,3.0,1.0,Female,3,3,2,L,Y,H,Accountant,8453.0,8.0,Yes,18.0,4.0,H,5.0,N,1.0,10.0,7.0,3.0,3.0,72
+75683,50.0,Finance,7,3.0,2.0,Male,3,3,2,L,Y,H,Accountant,9399.0,8.0,No,19.0,1.0,L,7.0,N,1.0,3.0,5.0,1.0,6.0,61
+75684,55.0,Research and Development,9,4.0,2.0,Male,4,4,2,H,Y,H,Research Director,14732.0,3.0,No,13.0,4.0,H,31.0,Y,4.0,7.0,7.0,0.0,0.0,66
+75702,46.0,Research and Development,15,2.0,4.0,Male,3,5,2,H,Y,H,Research Director,19081.0,4.0,No,11.0,1.0,L,25.0,Y,3.0,4.0,2.0,0.0,3.0,57
+75751,28.0,Finance,9,3.0,2.0,Male,2,2,2,L,N,H,Accountant,9814.0,8.0,Yes,17.0,2.0,H,7.0,Y,3.0,3.0,2.0,3.0,6.0,40
+75800,28.0,Research and Development,22,3.0,3.0,Male,3,1,4,L,Y,H,Research and Design Specialists,2144.0,7.0,No,14.0,3.0,L,5.0,Y,2.0,5.0,3.0,1.0,4.0,63
+75833,29.0,Finance,5,3.0,2.0,Male,2,3,2,L,Y,H,Accountant,9447.0,2.0,No,15.0,2.0,L,5.0,Y,2.0,3.0,5.0,2.0,3.0,79
+75849,51.0,Research and Development,9,2.0,4.0,Female,2,4,1,L,Y,H,Manufacturing Director,13142.0,7.0,No,16.0,2.0,L,29.0,Y,2.0,5.0,2.0,0.0,3.0,56
+75902,49.0,Sales,10,3.0,3.0,Female,3,3,2,L,N,H,Sales Executive,7654.0,9.0,No,18.0,1.0,L,9.0,N,4.0,9.0,8.0,7.0,7.0,33
+75928,59.0,Sales,6,3.0,1.0,Female,3,3,1,H,N,H,Sales Executive,7637.0,7.0,No,11.0,4.0,H,28.0,N,2.0,21.0,16.0,7.0,9.0,68
+76037,41.0,Research and Development,15,4.0,1.0,Female,2,2,2,H,N,H,Customercare Representative,6811.0,2.0,Yes,17.0,1.0,H,10.0,Y,3.0,8.0,7.0,0.0,7.0,66
+76195,29.0,Production,5,3.0,1.0,Male,2,3,4,L,N,L,Production Supervisors,5929.0,8.0,No,15.0,1.0,H,6.0,Y,1.0,4.0,7.0,1.0,3.0,30
+76254,35.0,Research and Development,13,4.0,1.0,Female,3,2,2,H,Y,H,Customercare Representative,6142.0,4.0,Yes,16.0,3.0,H,10.0,Y,3.0,5.0,2.0,0.0,4.0,57
+76303,19.0,Research and Development,24,3.0,1.0,Female,2,1,2,H,N,L,Research and Design Specialists,1859.0,9.0,Yes,25.0,2.0,H,1.0,N,4.0,1.0,1.0,0.0,0.0,36
+76317,31.0,Research and Development,10,5.0,1.0,Female,3,4,2,L,N,H,Research Director,16422.0,5.0,No,11.0,3.0,H,9.0,Y,4.0,3.0,2.0,1.0,0.0,77
+76328,47.0,Research and Development,13,3.0,3.0,Female,2,3,2,L,Y,H,Manufacturing Director,10333.0,3.0,Yes,12.0,3.0,H,28.0,N,3.0,22.0,11.0,14.0,10.0,48
+76599,29.0,Research and Development,22,4.0,2.0,Male,2,3,2,H,N,H,Research Director,11935.0,1.0,No,18.0,3.0,H,10.0,Y,3.0,10.0,2.0,0.0,7.0,70
+76614,33.0,Research and Development,6,4.0,3.0,Female,2,1,2,L,N,L,Research and Design Specialists,2622.0,6.0,No,21.0,4.0,L,7.0,N,3.0,3.0,2.0,1.0,1.0,48
+76691,23.0,Production,16,1.0,4.0,Male,2,1,2,L,Y,L,Machinists,3989.0,1.0,Yes,11.0,1.0,L,5.0,N,3.0,5.0,4.0,1.0,2.0,33
+76794,37.0,Finance,19,3.0,2.0,Male,2,2,1,L,Y,H,Accountant,9477.0,8.0,Yes,16.0,3.0,L,5.0,Y,2.0,10.0,3.0,2.0,6.0,56
+76796,35.0,Research and Development,20,4.0,2.0,Male,1,2,1,H,N,L,Research and Design Specialists,6646.0,5.0,No,13.0,2.0,L,17.0,Y,3.0,17.0,11.0,11.0,8.0,51
+76815,45.0,Research and Development,14,2.0,3.0,Male,3,4,2,H,N,L,Customercare Representative,13496.0,0.0,Yes,14.0,2.0,H,21.0,Y,3.0,20.0,7.0,4.0,10.0,77
+76821,43.0,Finance,8,3.0,2.0,Male,2,2,1,L,Y,H,Accountant,8045.0,8.0,Yes,20.0,1.0,L,5.0,Y,2.0,8.0,6.0,2.0,4.0,81
+76830,42.0,Research and Development,16,2.0,4.0,Male,2,2,2,L,Y,L,Research and Design Specialists,4332.0,4.0,No,12.0,4.0,L,20.0,Y,3.0,20.0,9.0,3.0,7.0,60
+76840,32.0,Finance,2,3.0,2.0,Female,3,2,2,L,Y,H,Accountant,8538.0,4.0,Yes,15.0,4.0,L,5.0,N,2.0,2.0,7.0,1.0,3.0,77
+77061,40.0,Sales,11,3.0,2.0,Female,4,4,4,L,Y,H,IT specialists,8070.0,3.0,No,15.0,1.0,L,7.0,Y,3.0,5.0,4.0,1.0,4.0,66
+77081,56.0,Research and Development,8,3.0,3.0,Male,3,4,4,H,N,H,Customercare Representative,11103.0,4.0,No,11.0,3.0,L,30.0,Y,2.0,10.0,7.0,1.0,1.0,69
+77101,54.0,Sales,8,3.0,4.0,Female,3,2,2,H,N,H,Sales Executive,5940.0,2.0,No,14.0,4.0,L,16.0,Y,3.0,6.0,2.0,0.0,5.0,52
+77122,34.0,Finance,14,4.0,2.0,Male,3,3,2,L,N,H,Accountant,9481.0,5.0,No,16.0,4.0,L,10.0,N,2.0,4.0,7.0,2.0,6.0,46
+77167,52.0,Sales,19,1.0,1.0,Female,1,5,2,L,N,H,Manager,19845.0,8.0,No,15.0,4.0,L,33.0,N,3.0,32.0,14.0,6.0,9.0,48
+77194,44.0,Research and Development,18,4.0,4.0,Male,3,5,1,L,N,H,Manager,19513.0,2.0,Yes,12.0,1.0,L,26.0,N,4.0,2.0,2.0,0.0,1.0,39
+77266,32.0,Finance,7,4.0,2.0,Female,2,2,1,L,N,L,Accountant,8707.0,7.0,Yes,17.0,4.0,H,5.0,N,2.0,4.0,3.0,3.0,6.0,26
+77304,54.0,Research and Development,23,4.0,4.0,Female,3,2,2,L,Y,H,Research and Design Specialists,6854.0,1.0,No,15.0,2.0,H,14.0,Y,2.0,7.0,1.0,1.0,7.0,70
+77333,25.0,Sales,1,4.0,3.0,Male,3,2,3,L,Y,H,Sales Executive,4950.0,5.0,No,14.0,2.0,L,5.0,Y,3.0,4.0,3.0,1.0,1.0,88
+77460,22.0,Research and Development,7,1.0,1.0,Male,3,1,2,H,N,H,Research and Design Specialists,2773.0,7.0,No,20.0,4.0,L,3.0,Y,3.0,2.0,2.0,2.0,2.0,61
+77531,40.0,Sales,9,2.0,4.0,Female,3,2,4,H,N,H,Sales Executive,5715.0,7.0,No,12.0,3.0,H,8.0,Y,3.0,5.0,4.0,1.0,3.0,74
+77677,30.0,Sales,12,4.0,2.0,Male,2,1,1,L,N,L,Sales Representative,2033.0,9.0,No,18.0,3.0,L,1.0,N,4.0,1.0,0.0,0.0,0.0,39
+77703,38.0,Human Resources,6,3.0,1.0,Male,3,1,2,L,N,H,Human Resources,2592.0,8.0,No,13.0,4.0,H,13.0,Y,3.0,11.0,10.0,3.0,8.0,70
+77743,39.0,Research and Development,10,1.0,4.0,Female,2,4,2,L,Y,H,Manufacturing Director,12742.0,6.0,No,16.0,3.0,L,21.0,Y,3.0,21.0,6.0,11.0,8.0,60
+78090,56.0,Research and Development,20,3.0,1.0,Female,3,1,1,L,N,L,Research and Design Specialists,2942.0,2.0,No,19.0,2.0,L,18.0,N,3.0,5.0,4.0,0.0,3.0,35
+78175,38.0,Sales,15,2.0,2.0,Female,3,2,2,L,N,H,Sales Executive,6893.0,6.0,No,15.0,4.0,L,11.0,Y,3.0,7.0,7.0,1.0,7.0,73
+78280,46.0,Production,9,3.0,2.0,Female,3,1,4,L,N,H,Production Supervisors,6313.0,6.0,Yes,15.0,2.0,H,9.0,N,1.0,7.0,5.0,2.0,5.0,31
